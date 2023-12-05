@@ -1,0 +1,408 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "temp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "list&Sequence_1",
+        "strurl&Sequence_2",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Password&Sequence_33",
+        "UserName&Sequence_33",
+        "TransactionItem&StateMachine_1",
+        "SystemException&StateMachine_1",
+        "BusinessException&StateMachine_1",
+        "TransactionNumber&StateMachine_1",
+        "Config&StateMachine_1",
+        "RetryNumber&StateMachine_1",
+        "TransactionField2&StateMachine_1",
+        "TransactionField1&StateMachine_1",
+        "TransactionID&StateMachine_1",
+        "dt_TransactionData&StateMachine_1",
+        "ConsecutiveSystemExceptions&StateMachine_1",
+        "ShouldStop&Sequence_25"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_OrchestratorQueueName",
+        "in_OrchestratorQueueFolder"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/KillAllProcesses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "tSeqStartTime&Sequence_2",
+        "strSeqName&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Navigate/OpenUdemy/initialization.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Navigate/OpenUdemy/LaunchUdemy.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_2",
+        "tSeqStartTime&Sequence_2",
+        "bool_PostCondition&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Navigate/OpenUdemy/NavigateToLoginScreen.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_PostCodition&Sequence_8",
+        "strSeqName&Sequence_1",
+        "bool_PreCondition&Sequence_2",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/Process.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "tSeqStartTime&Sequence_1",
+        "strSeqName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionItem",
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/InitAllSettings.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_2",
+        "tSeqStartTime&Sequence_2",
+        "dt_SettingsAndConstants&Sequence_5",
+        "dt_Assets&Sequence_6",
+        "AssetValue&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_ConfigFile",
+        "in_ConfigSheets",
+        "out_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/InitAllApplications.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_9",
+        "tSeqStartTime&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "utilities/SequenceTrace.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strSeqName",
+        "in_boolStartSeq",
+        "in_StartTimeSeq"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Navigate/OpenUdemy/LoginAction.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_MyLearningExist&Sequence_8",
+        "bool_EmailExist&Sequence_3",
+        "bool_PasswordExist&Sequence_3",
+        "bool_PostCodition&Sequence_3",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Navigate/CloseUdemy/LogoutAction.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_PostCondition&Sequence_11",
+        "bool_MyLearningExist&Sequence_4",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Write/SearchAction.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_PostCondition&Sequence_9",
+        "bool_SearchFieldExist&Sequence_4",
+        "CourseName&Sequence_1",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionItem"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Read/ReadURL.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_PreCondition&Sequence_6",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_str_URL"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Read/ScrapeData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strurl&Sequence_32",
+        "str_URLPage&Sequence_30",
+        "str_URLPage&Sequence_29",
+        "int_CleanedItems&Sequence_28",
+        "int_TotalScrapedCourses&Sequence_1",
+        "str_CurrentPageNumber&Sequence_1",
+        "str_SavedItemData&Sequence_27",
+        "bool_NewItem&Sequence_6",
+        "l_str_CourseData&Sequence_10",
+        "str_CourseName&Sequence_10",
+        "str_CourseLevel&Sequence_10",
+        "str_NumberOfRatiingPeople&Sequence_10",
+        "str_Lectures&Sequence_10",
+        "str_TotalHours&Sequence_10",
+        "str_Rating&Sequence_10",
+        "CourseData&Sequence_10",
+        "OutputDT&Sequence_1",
+        "l_str_CourseData&Sequence_7",
+        "name&Sequence_10",
+        "str_InstructorSplitter&Sequence_1",
+        "bool_CurrentCourseValidation&Sequence_10",
+        "CurrentURL&Sequence_1",
+        "bool_ContinueScraping&Sequence_7",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "bool_PreCondition&Sequence_3",
+        "l_str_ScrapingData&Sequence_7",
+        "CleanDataTable&Sequence_7",
+        "l_str_Columns&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config",
+        "in_TransactionItem"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Read/CheckCurrentItemValidation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_str_InstructorSplitter",
+        "in_str_Item",
+        "out_bool_Valid"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Navigate/NextPage.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "visibility&Sequence_1",
+        "bool_Validation&Sequence_1",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1",
+        "strurl&Sequence_5",
+        "strurl&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_URL"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "temp2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CourseData&Sequence_1",
+        "str_InstructorsNames&Sequence_11",
+        "str_Price&Sequence_11",
+        "str_Description&Sequence_11",
+        "filedata&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/others/EtractDataByRejex.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "description&Sequence_26",
+        "str_InstructorsNames&Sequence_26",
+        "str_Price&Sequence_26",
+        "str_Description&Sequence_26",
+        "str_TotalHours&Sequence_26",
+        "str_Lectures&Sequence_26",
+        "str_NumberOfRatiingPeople&Sequence_26",
+        "str_CourseLevel&Sequence_26",
+        "str_CourseName&Sequence_26",
+        "str_Rating&Sequence_26"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_l_str_CouurseData",
+        "in_str_CourseData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/utilities/CerateFolderIfNotExist.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_38",
+        "tSeqStartTime&Sequence_38"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_str_FolderPath",
+        "out_bool_FoundFolder"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/SetTransactionStatus.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "QueueRetry&Sequence_17",
+        "ScreenshotPath&Sequence_17"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_BusinessException",
+        "in_TransactionField1",
+        "in_TransactionField2",
+        "in_TransactionID",
+        "in_SystemException",
+        "in_Config",
+        "in_TransactionItem",
+        "io_RetryNumber",
+        "io_TransactionNumber",
+        "io_ConsecutiveSystemExceptions"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/RetryCurrentTransaction.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config",
+        "io_RetryNumber",
+        "io_TransactionNumber",
+        "in_SystemException",
+        "in_QueueRetry"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/TakeScreenshot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Screenshot&Sequence_1",
+        "ScreenshotFileInfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_Folder",
+        "io_FilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/mail/SendExceptionToBusinessSupportTeam.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_str_SuportTeamMails",
+        "in_str_BusinessTeamMails",
+        "in_Exception"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

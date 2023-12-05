@@ -1,0 +1,34 @@
+﻿https://www.udemy.com/courses/search/?p=2&q=java&src=ukw
+https://www.udemy.com/courses/search/?p=50&q=java&src=ukw
+https://www.udemy.com/courses/search/?src=ukw&q=java
+
+check if ?p= or &p=
+then edit page nuber 
+else
+add &p=pageNumber
+
+"Data/InprogressItems/"+in_TransactionItem.Reference+"/itemdata.txt"
+	url
+	page number
+	total scraped courses
+"Data/InprogressItems/"+in_TransactionItem.Reference+"/scrapeddata.csv"
+	scraped courses as csv
+	
+	
+	
+ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm pagination-module--page--1Ujec
+
+ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm pagination-module--page--1Ujec pagination-module--active--2doua
+
+ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm pagination-module--page--1Ujec pagination-module--active--2doua
+
+ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm pagination-module--page--1Ujec
+ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm pagination-module--page--1Ujec
+
+ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm pagination-module--page--1Ujec pagination-module--active--2doua
+
+
+
+(?<=\n).*(?=\n[^\n]*?)
+
+"\n([\s\S]*?)(?=\s*Instructors?)"
