@@ -1,0 +1,367 @@
+Complete C# Masterclass
+Learn <strong>C#</strong> Programming - WPF, Databases, Linq, Collections, Game Development with Unity. Unit Testing TDDRating: 4.6 out of 528020 reviews45.5 total hours392 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. Unit Testing TDD
+
+Instructors:
+Denis Panjuta, Tutorials.eu by Denis Panjuta
+Rating: 4.6 out of 5
+4.6
+(28,020)
+45.5 total hours
+392 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+Ultimate C# Masterclass for 2024
+In-depth .NET programming course from basics to advanced. Focus on clean code, performance and practice.Rating: 4.7 out of 51586 reviews43 total hours505 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+In-depth .NET programming course from basics to advanced. Focus on clean code, performance and practice.
+
+Instructor:
+Krystyna Ślusarczyk
+Rating: 4.7 out of 5
+4.7
+(1,586)
+43 total hours
+505 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+C# 10 | Ultimate Guide - Beginner to Advanced | Master class
+Learn <strong>C#</strong> by doing | <strong>C#</strong> projects | Bootcamp for <strong>C#</strong> Interview | Advanced <strong>C#</strong> | Collections | LINQ | Interview QuestionsRating: 4.6 out of 53208 reviews74 total hours426 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Learn C# by doing | C# projects | Bootcamp for C# Interview | Advanced C# | Collections | LINQ | Interview Questions
+
+Instructor:
+Web University by Harsha Vardhan
+Rating: 4.6 out of 5
+4.6
+(3,208)
+74 total hours
+426 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+C# Basics for Beginners: Learn C# Fundamentals by Coding
+Master <strong>C#</strong> fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!Rating: 4.5 out of 566889 reviews5.5 total hours87 lecturesBeginnerCurrent price: E£419.99Original price: E£1,699.99
+
+Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!
+
+Instructor:
+Mosh Hamedani
+Rating: 4.5 out of 5
+4.5
+(66,889)
+5.5 total hours
+87 lectures
+Beginner
+Current price
+E£419.99
+Original Price
+E£1,699.99
+////////////////////////////
+C# .NET Core 8 with MS SQL Complete Beginner to Master 2023
+Learn API Development with <strong>C#</strong> .NET Core 8 and MS SQL Server from Mac, Linux or Windows!Rating: 4.6 out of 51252 reviews23 total hours121 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Learn API Development with C# .NET Core 8 and MS SQL Server from Mac, Linux or Windows!
+
+Instructor:
+Dominic Tripodi
+Rating: 4.6 out of 5
+4.6
+(1,252)
+23 total hours
+121 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+Complete C# Programming Course – Beginner to Expert
+Learn Professional <strong>C#</strong> Coding! 27 Hours of Content, 7 Hands-On Projects, 2 Unity 3D Games, 16 Coding Exercises, and more!Rating: 4.3 out of 51159 reviews27 total hours550 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Learn Professional C# Coding! 27 Hours of Content, 7 Hands-On Projects, 2 Unity 3D Games, 16 Coding Exercises, and more!
+
+Instructor:
+Robert Gioia
+Rating: 4.3 out of 5
+4.3
+(1,159)
+27 total hours
+550 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+C# Intermediate: Classes, Interfaces and OOP
+An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with <strong>C#</strong>Rating: 4.5 out of 535174 reviews6 total hours45 lecturesIntermediateCurrent price: E£199.99Original price: E£999.99
+
+An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#
+
+Instructor:
+Mosh Hamedani
+Rating: 4.5 out of 5
+4.5
+(35,174)
+6 total hours
+45 lectures
+Intermediate
+Current price
+E£199.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+Complete C# Unity Game Developer 2D
+Learn Unity in <strong>C#</strong> & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover TilemapRating: 4.7 out of 5101730 reviews18.5 total hours140 lecturesAll LevelsCurrent price: E£419.99Original price: E£1,699.99
+
+Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap
+
+Instructors:
+GameDev.tv Team, Rick Davidson, Gary Pettie
+Rating: 4.7 out of 5
+4.7
+(101,730)
+18.5 total hours
+140 lectures
+All Levels
+Current price
+E£419.99
+Original Price
+E£1,699.99
+Bestseller
+////////////////////////////
+C# Advanced Topics: Prepare for Technical Interviews
+Master the confusing <strong>C#</strong> constructs: Events, Delegates, Lambda Expressions, LINQ, Async/Await and more!Rating: 4.5 out of 521804 reviews3 total hours21 lecturesIntermediateCurrent price: E£199.99Original price: E£849.99
+
+Master the confusing C# constructs: Events, Delegates, Lambda Expressions, LINQ, Async/Await and more!
+
+Instructor:
+Mosh Hamedani
+Rating: 4.5 out of 5
+4.5
+(21,804)
+3 total hours
+21 lectures
+Intermediate
+Current price
+E£199.99
+Original Price
+E£849.99
+////////////////////////////
+Design Patterns in C# and .NET
+Discover the modern implementation of design patterns with <strong>C#</strong> and .NETRating: 4.4 out of 511461 reviews20.5 total hours173 lecturesIntermediateCurrent price: E£199.99Original price: E£999.99
+
+Discover the modern implementation of design patterns with C# and .NET
+
+Instructor:
+Dmitri Nesteruk
+Rating: 4.4 out of 5
+4.4
+(11,461)
+20.5 total hours
+173 lectures
+Intermediate
+Current price
+E£199.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+Complete C# Unity Game Developer 3D
+Design & Develop Video Games. Learn <strong>C#</strong> in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.Rating: 4.7 out of 540747 reviews30.5 total hours205 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.
+
+Instructors:
+Ben Tristem, Rick Davidson, GameDev.tv Team, Gary Pettie
+Rating: 4.7 out of 5
+4.7
+(40,747)
+30.5 total hours
+205 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+Learn C# for Beginners Crash Course
+Obtain <strong>C#</strong> Programming Language Skills With This <strong>C#</strong> Tutorial. Acquire Essentials Skills To Get a <strong>C#</strong> Developer Job Today.Rating: 4.7 out of 51964 reviews13 total hours157 lecturesBeginnerCurrent price: E£269.99Original price: E£1,299.99
+
+Obtain C# Programming Language Skills With This C# Tutorial. Acquire Essentials Skills To Get a C# Developer Job Today.
+
+Instructors:
+Tim Buchalka, Jean-Paul Roberts, Tim Buchalka's Learn Programming Academy
+Rating: 4.7 out of 5
+4.7
+(1,964)
+13 total hours
+157 lectures
+Beginner
+Current price
+E£269.99
+Original Price
+E£1,299.99
+////////////////////////////
+C#/.NET - 50 Essential Interview Questions (Junior Level)
+Get ready for your next interview. An in-depth guide to <strong>C#</strong> fundamentals, SOLID principles and popular design patterns.Rating: 4.8 out of 5464 reviews6.5 total hours57 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Get ready for your next interview. An in-depth guide to C# fundamentals, SOLID principles and popular design patterns.
+
+Instructor:
+Krystyna Ślusarczyk
+Rating: 4.8 out of 5
+4.8
+(464)
+6.5 total hours
+57 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+Highest rated
+////////////////////////////
+LINQ Tutorial: Master the Key C# Library
+Learn every method from LINQ by practice. Lots of coding exercises! Become fluent in the most useful .NET library.Rating: 4.8 out of 5591 reviews6 total hours150 lecturesAll LevelsCurrent price: E£229.99Original price: E£1,199.99
+
+Learn every method from LINQ by practice. Lots of coding exercises! Become fluent in the most useful .NET library.
+
+Instructor:
+Krystyna Ślusarczyk
+Rating: 4.8 out of 5
+4.8
+(591)
+6 total hours
+150 lectures
+All Levels
+Current price
+E£229.99
+Original Price
+E£1,199.99
+Bestseller
+////////////////////////////
+Beginning Object-oriented Programming with C#
+Learn OOP fundamentals applied to the <strong>C#</strong> programming languageRating: 4.6 out of 5759 reviews7 total hours91 lecturesBeginnerCurrent price: E£199.99Original price: E£849.99
+
+Learn OOP fundamentals applied to the C# programming language
+
+Instructor:
+Zoran Horvat
+Rating: 4.6 out of 5
+4.6
+(759)
+7 total hours
+91 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£849.99
+////////////////////////////
+Programming in C# 11 - From Beginner to Advanced
+Learn <strong>C#</strong> to develop applications!Rating: 4.5 out of 573 reviews18.5 total hours293 lecturesBeginnerCurrent price: E£199.99Original price: E£649.99
+
+Learn C# to develop applications!
+
+Instructor:
+Felipe Gavilán
+Rating: 4.5 out of 5
+4.5
+(73)
+18.5 total hours
+293 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£649.99
+////////////////////////////
+Advanced Topics in C#
+A discussion of the more complicated aspects of the <strong>C#</strong> languageRating: 4.4 out of 5606 reviews5 total hours45 lecturesExpertCurrent price: E£199.99Original price: E£629.99
+
+A discussion of the more complicated aspects of the C# language
+
+Instructor:
+Dmitri Nesteruk
+Rating: 4.4 out of 5
+4.4
+(606)
+5 total hours
+45 lectures
+Expert
+Current price
+E£199.99
+Original Price
+E£629.99
+////////////////////////////
+C# in 6 Hours: From Beginner to Pro!
+Master the Fundamentals and Level Up Your <strong>C#</strong> Programming Skills Quickly and Easily!Rating: 4.6 out of 5401 reviews7 total hours85 lecturesBeginnerCurrent price: E£199.99Original price: E£849.99
+
+Master the Fundamentals and Level Up Your C# Programming Skills Quickly and Easily!
+
+Instructor:
+Patrick Videos
+Rating: 4.6 out of 5
+4.6
+(401)
+7 total hours
+85 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£849.99
+////////////////////////////
+Learn C# Programming (In Ten Easy Steps)
+The simplest way to learn <strong>C#</strong> programming.Rating: 4.5 out of 51623 reviews7.5 total hours127 lecturesBeginnerCurrent price: E£199.99Original price: E£849.99
+
+The simplest way to learn C# programming.
+
+Instructor:
+Huw Collingbourne
+Rating: 4.5 out of 5
+4.5
+(1,623)
+7.5 total hours
+127 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£849.99
+////////////////////////////
+C# Programming for Beginners : The First Steps
+Introducing Beginners To Programming Windows Form Apps In <strong>C#</strong> Using A Practical Applications ApproachRating: 4.7 out of 5537 reviews18 total hours172 lecturesBeginnerCurrent price: E£199.99Original price: E£799.99
+
+Introducing Beginners To Programming Windows Form Apps In C# Using A Practical Applications Approach
+
+Instructor:
+Charlie Chiarelli
+Rating: 4.7 out of 5
+4.7
+(537)
+18 total hours
+172 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£799.99
+Bestseller

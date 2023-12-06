@@ -32,3 +32,7 @@ ud-btn ud-btn-medium ud-btn-ghost ud-heading-sm pagination-module--page--1Ujec p
 (?<=\n).*(?=\n[^\n]*?)
 
 "\n([\s\S]*?)(?=\s*Instructors?)"
+
+
+
+{"Course Name","Description","Rate","Instructor","Price","Total Hours","lectures","Level","Number Of Rated Users","Bestseller","Original Price","Price Value","Price Currency"}

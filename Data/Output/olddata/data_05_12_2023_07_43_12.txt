@@ -1,0 +1,319 @@
+Getting Started with C#
+Learn all you need to know to get started with <strong>C#</strong>Rating: 4.3 out of 51373 reviews3.5 total hours37 lecturesBeginner
+
+Learn all you need to know to get started with C#
+
+Instructor:
+Ervis Trupja
+Rating: 4.3 out of 5
+4.3
+(1,373)
+3.5 total hours
+37 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+Programming Fundamentals - The Basics with C# for Beginners
+Learn the basics of programming with <strong>C#</strong>, this course is perfect for beginners.Rating: 4.7 out of 51092 reviews2 total hours18 lecturesBeginner
+
+Learn the basics of programming with C#, this course is perfect for beginners.
+
+Instructor:
+Tod Vachev
+Rating: 4.7 out of 5
+4.7
+(1,092)
+2 total hours
+18 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+Basics of Object Oriented Programming with C#
+This course will introduce you to the Basics of OOP with <strong>C#</strong>, followed by a Project to Practice - Warrior Wars!Rating: 4.4 out of 55935 reviews1.5 total hours22 lecturesAll Levels
+
+This course will introduce you to the Basics of OOP with C#, followed by a Project to Practice - Warrior Wars!
+
+Instructor:
+Tod Vachev
+Rating: 4.4 out of 5
+4.4
+(5,935)
+1.5 total hours
+22 lectures
+All Levels
+Current price
+Free
+////////////////////////////
+C# From Beginner To Pro - Write A WindowsUI Style App Form
+Learn <strong>C#</strong> By Doing It In WinformsRating: 4.4 out of 5423 reviews7.5 total hours49 lecturesAll Levels
+
+Learn C# By Doing It In Winforms
+
+Instructor:
+Cindy Oakes
+Rating: 4.4 out of 5
+4.4
+(423)
+7.5 total hours
+49 lectures
+All Levels
+Current price
+Free
+////////////////////////////
+Learn C# Programming With Database from Scratch
+Detailed <strong>C#</strong> Programming with DatabaseRating: 4.8 out of 5302 reviews2 total hours10 lecturesAll Levels
+
+Detailed C# Programming with Database
+
+Instructor:
+Maxwell Taprah
+Rating: 4.8 out of 5
+4.8
+(302)
+2 total hours
+10 lectures
+All Levels
+Current price
+Free
+////////////////////////////
+C#: Start programming with C# (for complete beginners)
+<strong>C#</strong> programming for complete beginners. Create first application within few hours!Rating: 4.5 out of 51244 reviews3.5 total hours36 lecturesBeginner
+
+C# programming for complete beginners. Create first application within few hours!
+
+Instructor:
+Luke's Programming School
+Rating: 4.5 out of 5
+4.5
+(1,244)
+3.5 total hours
+36 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+C# For Absolute Beginners.
+Lean the build console apps in <strong>C#</strong>Rating: 4.5 out of 5161 reviews1.5 total hours20 lecturesBeginner
+
+Lean the build console apps in C#
+
+Instructor:
+Eric Lane
+Rating: 4.5 out of 5
+4.5
+(161)
+1.5 total hours
+20 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+What's New In C# 9
+Dive into all of the new features in <strong>C#</strong> 9!Rating: 4.3 out of 5169 reviews43 total mins21 lecturesBeginner
+
+Dive into all of the new features in C# 9!
+
+Instructor:
+Wade Gausden
+Rating: 4.3 out of 5
+4.3
+(169)
+43 total mins
+21 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+What is New in C# 8
+Learn all the new features and small enhancements added to <strong>C#</strong> 8 with easy examplesRating: 3.9 out of 5114 reviews2 total hours19 lecturesIntermediate
+
+Learn all the new features and small enhancements added to C# 8 with easy examples
+
+Instructor:
+Ahmad Mohey
+Rating: 3.9 out of 5
+3.9
+(114)
+2 total hours
+19 lectures
+Intermediate
+Current price
+Free
+////////////////////////////
+C# Refactoring | Powerful code optimization
+Introduction to the code refactoring practice in <strong>C#</strong>Rating: 4.2 out of 5182 reviews1.5 total hours14 lecturesBeginner
+
+Introduction to the code refactoring practice in C#
+
+Instructor:
+Max Media
+Rating: 4.2 out of 5
+4.2
+(182)
+1.5 total hours
+14 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+Complete guide to C# programming language
+Learn programming using <strong>C#</strong>, Core concepts related to <strong>C#</strong>, oops conceptsRating: 4.1 out of 5149 reviews2 total hours14 lecturesBeginner
+
+Learn programming using C#, Core concepts related to C#, oops concepts
+
+Instructor:
+Sajal Das
+Rating: 4.1 out of 5
+4.1
+(149)
+2 total hours
+14 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+API and Database Testing with Specflow and C#
+Understanding and building API and database testing from groundupRating: 4.5 out of 5662 reviews1.5 total hours10 lecturesAll Levels
+
+Understanding and building API and database testing from groundup
+
+Instructor:
+Karthik KK
+Rating: 4.5 out of 5
+4.5
+(662)
+1.5 total hours
+10 lectures
+All Levels
+Current price
+Free
+////////////////////////////
+The complete algorithms course in C# and .Net
+Learn the fundamentals of <strong>C#</strong> and improve your algorithmic skills to become a well paid developer. Let's code in <strong>C#</strong>!Rating: 3.8 out of 5229 reviews5 total hours26 lecturesBeginner
+
+Learn the fundamentals of C# and improve your algorithmic skills to become a well paid developer. Let's code in C#!
+
+Instructor:
+Balázs Koncz
+Rating: 3.8 out of 5
+3.8
+(229)
+5 total hours
+26 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+First Steps in Programming with C# for Beginners
+Learn Coding by Examples and by Solving Practical Problems with <strong>C#</strong> and Visual StudioRating: 4.1 out of 592 reviews2 total hours8 lecturesBeginner
+
+Learn Coding by Examples and by Solving Practical Problems with C# and Visual Studio
+
+Instructors:
+Svetlin Nakov, Preslav Mihaylov
+Rating: 4.1 out of 5
+4.1
+(92)
+2 total hours
+8 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+CRUD C#.Net with Entity Framework
+Create Windows App CRUD <strong>C#</strong>.Net with Entity FrameworkRating: 4.2 out of 5590 reviews1.5 total hours12 lecturesIntermediate
+
+Create Windows App CRUD C#.Net with Entity Framework
+
+Instructor:
+Harry C.
+Rating: 4.2 out of 5
+4.2
+(590)
+1.5 total hours
+12 lectures
+Intermediate
+Current price
+Free
+////////////////////////////
+C#.Net Basics Programming Step by Step for Beginners-Part-01
+Learn <strong>C#</strong> Programming, the techniques to write better <strong>C#</strong> code and stand out in technical interviewsRating: 3.6 out of 548 reviews2 total hours21 lecturesAll Levels
+
+Learn C# Programming, the techniques to write better C# code and stand out in technical interviews
+
+Instructor:
+RN Reddy IT School
+Rating: 3.6 out of 5
+3.6
+(48)
+2 total hours
+21 lectures
+All Levels
+Current price
+Free
+////////////////////////////
+Basics of LINQ with C# for Beginners
+LINQ with <strong>C#</strong> for Beginners, Both Query and Method Syntaxes are covered!Rating: 4.6 out of 51142 reviews1.5 total hours14 lecturesBeginner
+
+LINQ with C# for Beginners, Both Query and Method Syntaxes are covered!
+
+Instructor:
+Tod Vachev
+Rating: 4.6 out of 5
+4.6
+(1,142)
+1.5 total hours
+14 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+Learning Unity c# scripting For beginners
+In this course, Chebbi Tawfik goes over the basics of how to create, modify, and attach scripts in Unity. Tawfik focusesRating: 3.5 out of 5343 reviews39 total mins8 lecturesBeginner
+
+In this course, Chebbi Tawfik goes over the basics of how to create, modify, and attach scripts in Unity. Tawfik focuses
+
+Instructor:
+Chebbi Tawfik
+Rating: 3.5 out of 5
+3.5
+(343)
+39 total mins
+8 lectures
+Beginner
+Current price
+Free
+////////////////////////////
+Understanding Data Structures using C#
+Learn Data structure and algorithms using <strong>C#</strong>Rating: 3.7 out of 590 reviews1.5 total hours23 lecturesAll Levels
+
+Learn Data structure and algorithms using C#
+
+Instructor:
+SkillBakery Studio
+Rating: 3.7 out of 5
+3.7
+(90)
+1.5 total hours
+23 lectures
+All Levels
+Current price
+Free
+////////////////////////////
+.Net Basic Course - Introduction to .net with programming
+<strong>C-Sharp</strong> BasicsRating: 3.8 out of 5488 reviews1.5 total hours15 lecturesBeginner
+
+C-Sharp Basics
+
+Instructor:
+Sravanthi Venishetty
+Rating: 3.8 out of 5
+3.8
+(488)
+1.5 total hours
+15 lectures
+Beginner
+Current price
+Free

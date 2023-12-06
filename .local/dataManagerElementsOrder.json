@@ -12,6 +12,8 @@
       "Path": "temp.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "temp_cleandesc&Sequence_4",
+        "temp_DT&Sequence_4",
         "list&Sequence_1",
         "strurl&Sequence_2",
         "strSeqName&Sequence_1",
@@ -25,6 +27,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "str_APIJsonDataFullName&Sequence_4",
         "Password&Sequence_33",
         "UserName&Sequence_33",
         "TransactionItem&StateMachine_1",
@@ -102,6 +105,12 @@
       "Path": "Framework/Process.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "AttachmentsList&Sequence_1",
+        "str_MessageSubject&Sequence_1",
+        "str_MessageBody&Sequence_1",
+        "str_FinalReportPath&Sequence_1",
+        "str_CoursesFilePath&Sequence_1",
+        "int_TotalResultsNumber&Sequence_1",
         "tSeqStartTime&Sequence_1",
         "strSeqName&Sequence_1"
       ],
@@ -116,11 +125,12 @@
       "Path": "Framework/InitAllSettings.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "dt_Assets&Sequence_12",
+        "AssetValue&Sequence_13",
+        "obj_mails&Sequence_14",
         "strSeqName&Sequence_2",
         "tSeqStartTime&Sequence_2",
-        "dt_SettingsAndConstants&Sequence_5",
-        "dt_Assets&Sequence_6",
-        "AssetValue&Sequence_11"
+        "dt_SettingsAndConstants&Sequence_5"
       ],
       "ArgumentsSectionElementsOrder": [
         "in_ConfigFile",
@@ -189,6 +199,7 @@
       "Path": "modules/udemy/Write/SearchAction.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "str_TotalResultsNumber&Sequence_11",
         "bool_PostCondition&Sequence_9",
         "bool_SearchFieldExist&Sequence_4",
         "CourseName&Sequence_1",
@@ -196,6 +207,7 @@
         "tSeqStartTime&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [
+        "out_int_TotalResultsNumber",
         "in_TransactionItem"
       ],
       "ConstantsSectionElementsOrder": [],
@@ -219,7 +231,12 @@
       "Path": "modules/udemy/Read/ScrapeData.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "strurl&Sequence_32",
+        "str_ScrapedCoursersFileFullName&Sequence_1",
+        "str_ScrapedDataFullName&Sequence_1",
+        "str_ItemDataFullName&Sequence_1",
+        "int_TotalResultsNumber&Sequence_1",
+        "str_TotalResultsNumber&Sequence_6",
+        "bool_ItemDataFileExist&Sequence_6",
         "str_URLPage&Sequence_30",
         "str_URLPage&Sequence_29",
         "int_CleanedItems&Sequence_28",
@@ -251,8 +268,9 @@
         "l_str_Columns&Sequence_7"
       ],
       "ArgumentsSectionElementsOrder": [
-        "in_Config",
-        "in_TransactionItem"
+        "out_str_CSVAllCoursesFileFullName",
+        "in_int_MaxExtractedRows",
+        "in_str_FolderPath"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -307,6 +325,16 @@
       "Path": "modules/udemy/others/EtractDataByRejex.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "str_PriveValue&Sequence_26",
+        "str_PriceCurrency&Sequence_26",
+        "str_OriginalPrice&Sequence_26",
+        "str_CleanNumberOfRatingUsers&Sequence_26",
+        "str_CleanPrice&Sequence_26",
+        "str_CleanLectures&Sequence_26",
+        "str_CleanTotalHour&Sequence_26",
+        "str_CleanRating&Sequence_26",
+        "str_clean_levels&Sequence_26",
+        "str_Status&Sequence_26",
         "description&Sequence_26",
         "str_InstructorsNames&Sequence_26",
         "str_Price&Sequence_26",
@@ -390,16 +418,176 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "modules/mail/SendExceptionToBusinessSupportTeam.xaml",
+      "Path": "modules/mail/SendExceptionToBusinessTeam.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "strSeqName&Sequence_1",
         "tSeqStartTime&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [
-        "in_str_SuportTeamMails",
-        "in_str_BusinessTeamMails",
-        "in_Exception"
+        "in_list_Attachments",
+        "in_str_Subject",
+        "in_str_MessageBody",
+        "in_str_BusinessTeamMails"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Read/ScrapeData - Copy (1).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "try_OutputDT&Sequence_1",
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "CurrentURL&Sequence_1",
+        "str_InstructorSplitter&Sequence_1",
+        "OutputDT&Sequence_1",
+        "str_CurrentPageNumber&Sequence_1",
+        "int_TotalScrapedCourses&Sequence_1",
+        "trynumber&Sequence_1",
+        "bool_PreCondition&Sequence_3",
+        "bool_NewItem&Sequence_6",
+        "bool_ItemDataFileExist&Sequence_6",
+        "str_SavedItemData&Sequence_27",
+        "str_URLPage&Sequence_29",
+        "str_URLPage&Sequence_30",
+        "l_str_ScrapingData&Sequence_7",
+        "CleanDataTable&Sequence_7",
+        "l_str_Columns&Sequence_7",
+        "bool_ContinueScraping&Sequence_7",
+        "l_str_CourseData&Sequence_7",
+        "int_CleanedItems&Sequence_28",
+        "bool_CurrentCourseValidation&Sequence_10",
+        "name&Sequence_10",
+        "CourseData&Sequence_10",
+        "str_Rating&Sequence_10",
+        "str_TotalHours&Sequence_10",
+        "str_Lectures&Sequence_10",
+        "str_NumberOfRatiingPeople&Sequence_10",
+        "str_CourseLevel&Sequence_10",
+        "str_CourseName&Sequence_10",
+        "l_str_CourseData&Sequence_10",
+        "strurl&Sequence_32"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionItem",
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "temp3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "l_str_ScrapingData&Sequence_1",
+        "int_PageNumber&Sequence_7",
+        "CurrentURL&Sequence_1",
+        "str_URLPage&Sequence_8",
+        "str_URLPage&Sequence_9",
+        "int_OldItemsNumber&Sequence_7",
+        "OldDT&Sequence_7",
+        "bool_RunBefor&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/currencyapi/CallAPI.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_CurrentCurrency&Sequence_4",
+        "endpoint&Sequence_4",
+        "str_APIResponse&Sequence_4",
+        "FileParetPath&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_str_FileFullName",
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/currencyapi/EquivalentCurrencyAmount.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "j_AllCurrency&Sequence_10",
+        "tempcheck&Sequence_5",
+        "apidata&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_d_EquivalentValue",
+        "in_JsonFullName",
+        "in_str_TargetCurrency"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/mail/SendExceptionToSupportTeam.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_str_MessageBody",
+        "in_str_Subject",
+        "in_list_Attachments",
+        "in_str_BusinessTeamMails"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/mail/SendReport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_1",
+        "tSeqStartTime&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_str_FromMail",
+        "in_str_MessageBody",
+        "in_str_Subject",
+        "in_list_Attachments",
+        "in_str_BusinessTeamMails"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/csv/CreateBusinessExceptionColumnAcordingToPrice.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strSeqName&Sequence_3",
+        "tSeqStartTime&Sequence_3",
+        "dl_EquivalentValue&Sequence_2",
+        "AllCoursesDT&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_str_FinalReportFullName",
+        "in_dl_Cost",
+        "in_str_TargetCurrency",
+        "in_JsonFileFullName",
+        "str_CoursesFilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/udemy/Navigate/GoNextPage.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strurl&Sequence_40"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "CurrentURL"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null

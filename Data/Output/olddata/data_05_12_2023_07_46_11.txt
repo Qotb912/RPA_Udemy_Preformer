@@ -1,0 +1,366 @@
+C# Advanced Concepts
+Learn the Fundamentals of <strong>C#</strong> Programming, Become a <strong>C#</strong> Developer from Scratch, Complete Guide to <strong>C#</strong> ProgrammingRating: 4.4 out of 5310 reviews50.5 total hours98 lecturesBeginnerCurrent price: E£199.99Original price: E£749.99
+
+Learn the Fundamentals of C# Programming, Become a C# Developer from Scratch, Complete Guide to C# Programming
+
+Instructor:
+Sandeep Soni
+Rating: 4.4 out of 5
+4.4
+(310)
+50.5 total hours
+98 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£749.99
+////////////////////////////
+C# Programming for Beginners : The First Steps
+Introducing Beginners To Programming Windows Form Apps In <strong>C#</strong> Using A Practical Applications ApproachRating: 4.7 out of 5537 reviews18 total hours172 lecturesBeginnerCurrent price: E£199.99Original price: E£799.99
+
+Introducing Beginners To Programming Windows Form Apps In C# Using A Practical Applications Approach
+
+Instructor:
+Charlie Chiarelli
+Rating: 4.7 out of 5
+4.7
+(537)
+18 total hours
+172 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£799.99
+Bestseller
+////////////////////////////
+.NET/ C# Interview Masterclass - Top 500 Questions & Answers
+Topics Covered - <strong>C#</strong> / OOPS / ASP.NET MVC / ADO NET / EF / SQL Server / Web API / .NET Core (with PDF Book)Rating: 4.7 out of 5882 reviews8.5 total hours301 lecturesAll LevelsCurrent price: E£219.99Original price: E£999.99
+
+Topics Covered - C# / OOPS / ASP.NET MVC / ADO NET / EF / SQL Server / Web API / .NET Core (with PDF Book)
+
+Instructor:
+Happy Rawat
+Rating: 4.7 out of 5
+4.7
+(882)
+8.5 total hours
+301 lectures
+All Levels
+Current price
+E£219.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+Learn C# By Building Applications
+Learn practical <strong>C#</strong> with step-by-step approach and building applications to move from <strong>C#</strong> beginner to <strong>C#</strong> intermediate.Rating: 4.6 out of 52529 reviews13.5 total hours101 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Learn practical C# with step-by-step approach and building applications to move from C# beginner to C# intermediate.
+
+Instructor:
+Avetis Ghukasyan
+Rating: 4.6 out of 5
+4.6
+(2,529)
+13.5 total hours
+101 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+C# Performance Tricks: How To Radically Speed Up Your Code.
+This course will help you speed up your <strong>C#</strong> code and provides many tricks that every professional developer must know.Rating: 4.5 out of 51430 reviews4.5 total hours38 lecturesAll LevelsCurrent price: E£269.99Original price: E£1,299.99
+
+This course will help you speed up your C# code and provides many tricks that every professional developer must know.
+
+Instructor:
+Mark Farragher
+Rating: 4.5 out of 5
+4.5
+(1,430)
+4.5 total hours
+38 lectures
+All Levels
+Current price
+E£269.99
+Original Price
+E£1,299.99
+////////////////////////////
+C# Developers: Double Your Coding Speed with Visual Studio
+Fast Coding Techniques that Every <strong>C#</strong> Developer Must KnowRating: 4.2 out of 53610 reviews2.5 total hours33 lecturesAll LevelsCurrent price: E£319.99Original price: E£999.99
+
+Fast Coding Techniques that Every C# Developer Must Know
+
+Instructor:
+Mosh Hamedani
+Rating: 4.2 out of 5
+4.2
+(3,610)
+2.5 total hours
+33 lectures
+All Levels
+Current price
+E£319.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+The Complete C# and Object-Oriented Programming Course
+The one and only course you need to learn <strong>C#</strong> 8 and object-oriented programming (<strong>C#</strong> From A To Z | Source Code Included)Rating: 4.5 out of 52239 reviews24.5 total hours297 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+The one and only course you need to learn C# 8 and object-oriented programming (C# From A To Z | Source Code Included)
+
+Instructor:
+Ahmad Mohey
+Rating: 4.5 out of 5
+4.5
+(2,239)
+24.5 total hours
+297 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+Data Structures and Algorithms: In Depth using C#
+List, Stacks, Queues, Binary Search Trees, Hashing, Heaps, Graphs, Sorting, Searching - Data Structures & Algorithms <strong>C#</strong>Rating: 4.6 out of 5580 reviews28.5 total hours228 lecturesBeginnerCurrent price: E£199.99Original price: E£779.99
+
+List, Stacks, Queues, Binary Search Trees, Hashing, Heaps, Graphs, Sorting, Searching - Data Structures & Algorithms C#
+
+Instructor:
+Syed Mohiuddin
+Rating: 4.6 out of 5
+4.6
+(580)
+28.5 total hours
+228 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£779.99
+////////////////////////////
+C# Console and Windows Forms Development w/ Entity Framework
+<strong>C#</strong> | .NET Core | Console Programming | Windows Forms | Data-driven development | OOP | GitHub | SQL | Entity FrameworkRating: 4.7 out of 51013 reviews15.5 total hours56 lecturesBeginnerCurrent price: E£199.99Original price: E£269.99
+
+C# | .NET Core | Console Programming | Windows Forms | Data-driven development | OOP | GitHub | SQL | Entity Framework
+
+Instructors:
+Trevoir Williams, Learn IT University, Andrii Piatakha
+Rating: 4.7 out of 5
+4.7
+(1,013)
+15.5 total hours
+56 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£269.99
+Bestseller
+////////////////////////////
+Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC
+Web development with <strong>C#</strong>, ASP.NET MVC, MS SQL, <strong>C#</strong> OOP. All gathered for full stack web development in one course!Rating: 4.3 out of 5952 reviews41.5 total hours297 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Web development with C#, ASP.NET MVC, MS SQL, C# OOP. All gathered for full stack web development in one course!
+
+Instructors:
+Oak Academy, OAK Academy Team
+Rating: 4.3 out of 5
+4.3
+(952)
+41.5 total hours
+297 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+Selenium WebDriver with C# from Scratch - Nunit Framework
+BRAND NEW COURSE - Become expert level Selenium <strong>C#</strong> Engineer and learn how to implement Automation framework from ScratchRating: 4.5 out of 52393 reviews10 total hours60 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+BRAND NEW COURSE - Become expert level Selenium C# Engineer and learn how to implement Automation framework from Scratch
+
+Instructor:
+Rahul Shetty
+Rating: 4.5 out of 5
+4.5
+(2,393)
+10 total hours
+60 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+Unity Game Development: Create 2D And 3D Games With C#
+Master The Fundamentals Of Game Development And Learn How To Create 2D And 3D Games With Unity Game EngineRating: 4.7 out of 51446 reviews78 total hours276 lecturesBeginnerCurrent price: E£549.99Original price: E£729.99
+
+Master The Fundamentals Of Game Development And Learn How To Create 2D And 3D Games With Unity Game Engine
+
+Instructor:
+Awesome Tuts
+Rating: 4.7 out of 5
+4.7
+(1,446)
+78 total hours
+276 lectures
+Beginner
+Current price
+E£549.99
+Original Price
+E£729.99
+////////////////////////////
+The Unity C# Survival Guide
+Created in partnership with Unity Technologies: Master <strong>C#</strong> with Unity in this Complete Guide!Rating: 4.8 out of 51750 reviews12.5 total hours166 lecturesAll LevelsCurrent price: E£749.99Original price: E£999.99
+
+Created in partnership with Unity Technologies: Master C# with Unity in this Complete Guide!
+
+Instructors:
+Jonathan Weinberger, Unity Technologies, GameDevHQ Team
+Rating: 4.8 out of 5
+4.8
+(1,750)
+12.5 total hours
+166 lectures
+All Levels
+Current price
+E£749.99
+Original Price
+E£999.99
+////////////////////////////
+Mastering Iterative Object-oriented Development in C#
+with practices of Emergent DesignRating: 4.7 out of 5307 reviews4.5 total hours60 lecturesIntermediateCurrent price: E£199.99Original price: E£269.99
+
+with practices of Emergent Design
+
+Instructor:
+Zoran Horvat
+Rating: 4.7 out of 5
+4.7
+(307)
+4.5 total hours
+60 lectures
+Intermediate
+Current price
+E£199.99
+Original Price
+E£269.99
+Highest rated
+////////////////////////////
+Unity C# Programming: Ultimate Guide to Game Scripting 2023
+Become a professional Unity Programmer and learn to write quality <strong>C#</strong> Code by creating amazing 2D-Games.Rating: 4.7 out of 5410 reviews19 total hours138 lecturesBeginnerCurrent price: E£199.99Original price: E£999.99
+
+Become a professional Unity Programmer and learn to write quality C# Code by creating amazing 2D-Games.
+
+Instructor:
+Andreas Metz
+Rating: 4.7 out of 5
+4.7
+(410)
+19 total hours
+138 lectures
+Beginner
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+Unit Testing for C# Developers
+Master unit testing <strong>C#</strong> code with NUnit and Moq: all about dependency injection, best practices and pitfalls to avoidRating: 4.6 out of 510533 reviews6 total hours86 lecturesAll LevelsCurrent price: E£229.99Original price: E£999.99
+
+Master unit testing C# code with NUnit and Moq: all about dependency injection, best practices and pitfalls to avoid
+
+Instructor:
+Mosh Hamedani
+Rating: 4.6 out of 5
+4.6
+(10,533)
+6 total hours
+86 lectures
+All Levels
+Current price
+E£229.99
+Original Price
+E£999.99
+Bestseller
+////////////////////////////
+Object Oriented Programming with C# - Beginner to Advanced
+Detailed step-by-step guide to Classes, Interfaces and many other OOP Concepts - Object-Oriented Programming ConceptsRating: 4.6 out of 51713 reviews5.5 total hours73 lecturesIntermediateCurrent price: E£219.99Original price: E£849.99
+
+Detailed step-by-step guide to Classes, Interfaces and many other OOP Concepts - Object-Oriented Programming Concepts
+
+Instructor:
+Tod Vachev
+Rating: 4.6 out of 5
+4.6
+(1,713)
+5.5 total hours
+73 lectures
+Intermediate
+Current price
+E£219.99
+Original Price
+E£849.99
+////////////////////////////
+C# OOP: C# Object Oriented Programming on Real C# Projects
+Learn <strong>C#</strong> OOP with hands-on <strong>C#</strong> projects and dive in <strong>C#</strong> intermediate step by step guide to classes, interfaces and <strong>C#</strong> OOPRating: 4.7 out of 5156 reviews7.5 total hours72 lecturesAll LevelsCurrent price: E£199.99Original price: E£269.99
+
+Learn C# OOP with hands-on C# projects and dive in C# intermediate step by step guide to classes, interfaces and C# OOP
+
+Instructors:
+Oak Academy, OAK Academy Team
+Rating: 4.7 out of 5
+4.7
+(156)
+7.5 total hours
+72 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£269.99
+////////////////////////////
+Build ASP.NET Core Web API - Scratch To Finish (.NET 7 API)
+Use <strong>C#</strong> and Build an ASP.NET Core Web API with Entity Framework Core, SQL Server, Authentication & Authorization | .NET 7Rating: 4.6 out of 53438 reviews18 total hours185 lecturesAll LevelsCurrent price: E£199.99Original price: E£999.99
+
+Use C# and Build an ASP.NET Core Web API with Entity Framework Core, SQL Server, Authentication & Authorization | .NET 7
+
+Instructor:
+Sameer Saini
+Rating: 4.6 out of 5
+4.6
+(3,438)
+18 total hours
+185 lectures
+All Levels
+Current price
+E£199.99
+Original Price
+E£999.99
+////////////////////////////
+Design Patterns in C# Made Simple
+Using patterns to improve flexibility of the designRating: 4.6 out of 5431 reviews5 total hours54 lecturesIntermediateCurrent price: E£229.99Original price: E£319.99
+
+Using patterns to improve flexibility of the design
+
+Instructor:
+Zoran Horvat
+Rating: 4.6 out of 5
+4.6
+(431)
+5 total hours
+54 lectures
+Intermediate
+Current price
+E£229.99
+Original Price
+E£319.99

@@ -1,0 +1,1001 @@
+﻿Course Name,Description,Rate,Instructor,Total Hours,lectures,Level,Price,Number Of Rated Users,Bestseller,Original Price
+Complete C# Masterclass,"Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. Unit Testing TDD",4.6,"Instructors:
+Denis Panjuta, Tutorials.eu by Denis Panjuta",45.5,392,All Levels,E£199.99,,,E£999.99
+Ultimate C# Masterclass for 2024,"In-depth .NET programming course from basics to advanced. Focus on clean code, performance and practice.",4.7,"Instructor:
+Krystyna Ślusarczyk",s43,505,All Levels,E£199.99,,Bestseller,E£999.99
+C# 10 | Ultimate Guide - Beginner to Advanced | Master class,Learn C# by doing | C# projects | Bootcamp for C# Interview | Advanced C# | Collections | LINQ | Interview Questions,4.6,"Instructor:
+Web University by Harsha Vardhan",s74,426,All Levels,E£199.99,,,E£999.99
+C# Basics for Beginners: Learn C# Fundamentals by Coding,"Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!",4.5,"Instructor:
+Mosh Hamedani",5.5,87,Beginner,E£419.99,,,"E£1,699.99"
+C# .NET Core 8 with MS SQL Complete Beginner to Master 2023,"Learn API Development with C# .NET Core 8 and MS SQL Server from Mac, Linux or Windows!",4.6,"Instructor:
+Dominic Tripodi",s23,121,All Levels,E£199.99,,,E£999.99
+Complete C# Programming Course – Beginner to Expert,"Learn Professional C# Coding! 27 Hours of Content, 7 Hands-On Projects, 2 Unity 3D Games, 16 Coding Exercises, and more!",4.3,"Instructor:
+Robert Gioia",s27,550,All Levels,E£199.99,,,E£999.99
+"C# Intermediate: Classes, Interfaces and OOP","An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#",4.5,"Instructor:
+Mosh Hamedani",s6,45,Intermediate,E£199.99,,Bestseller,E£999.99
+Complete C# Unity Game Developer 2D,"Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",4.7,"Instructors:
+GameDev.tv Team, Rick Davidson, Gary Pettie",18.5,140,All Levels,E£419.99,,Bestseller,"E£1,699.99"
+C# Advanced Topics: Prepare for Technical Interviews,"Master the confusing C# constructs: Events, Delegates, Lambda Expressions, LINQ, Async/Await and more!",4.5,"Instructor:
+Mosh Hamedani",s3,21,Intermediate,E£199.99,,,E£849.99
+Design Patterns in C# and .NET,Discover the modern implementation of design patterns with C# and .NET,4.4,"Instructor:
+Dmitri Nesteruk",20.5,173,Intermediate,E£199.99,,Bestseller,E£999.99
+Complete C# Unity Game Developer 3D,"Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",4.7,"Instructors:
+Ben Tristem, Rick Davidson, GameDev.tv Team, Gary Pettie",30.5,205,All Levels,E£199.99,,Bestseller,E£999.99
+C#/.NET - 50 Essential Interview Questions (Junior Level),"Get ready for your next interview. An in-depth guide to C# fundamentals, SOLID principles and popular design patterns.",4.8,"Instructor:
+Krystyna Ślusarczyk",6.5,57,All Levels,E£199.99,,,E£999.99
+Learn C# for Beginners Crash Course,Obtain C# Programming Language Skills With This C# Tutorial. Acquire Essentials Skills To Get a C# Developer Job Today.,4.7,"Instructors:
+Tim Buchalka, Jean-Paul Roberts, Tim Buchalka's Learn Programming Academy",s13,157,Beginner,E£269.99,,,"E£1,299.99"
+LINQ Tutorial: Master the Key C# Library,Learn every method from LINQ by practice. Lots of coding exercises! Become fluent in the most useful .NET library.,4.8,"Instructor:
+Krystyna Ślusarczyk",s6,150,All Levels,E£229.99,,Bestseller,"E£1,199.99"
+Beginning Object-oriented Programming with C#,Learn OOP fundamentals applied to the C# programming language,4.6,"Instructor:
+Zoran Horvat",s7,91,Beginner,E£199.99,,,E£849.99
+Programming in C# 11 - From Beginner to Advanced,Learn C# to develop applications!,4.5,"Instructor:
+Felipe Gavilán",18.5,293,Beginner,E£199.99,,,E£649.99
+Advanced Topics in C#,A discussion of the more complicated aspects of the C# language,4.4,"Instructor:
+Dmitri Nesteruk",s5,45,Expert,E£199.99,,,E£629.99
+C# in 6 Hours: From Beginner to Pro!,Master the Fundamentals and Level Up Your C# Programming Skills Quickly and Easily!,4.6,"Instructor:
+Patrick Videos",s7,85,Beginner,E£199.99,,,E£849.99
+Learn C# Programming (In Ten Easy Steps),The simplest way to learn C# programming.,4.5,"Instructor:
+Huw Collingbourne",7.5,127,Beginner,E£199.99,,,E£849.99
+C# Programming for Beginners : The First Steps,Introducing Beginners To Programming Windows Form Apps In C# Using A Practical Applications Approach,4.7,"Instructor:
+Charlie Chiarelli",s18,172,Beginner,E£199.99,,Bestseller,E£799.99
+Complete C# Masterclass,"Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. Unit Testing TDD",4.6,"Instructors:
+Denis Panjuta, Tutorials.eu by Denis Panjuta",45.5,392,All Levels,E£199.99,,,E£999.99
+Ultimate C# Masterclass for 2024,"In-depth .NET programming course from basics to advanced. Focus on clean code, performance and practice.",4.7,"Instructor:
+Krystyna Ślusarczyk",s43,505,All Levels,E£199.99,,Bestseller,E£999.99
+C# 10 | Ultimate Guide - Beginner to Advanced | Master class,Learn C# by doing | C# projects | Bootcamp for C# Interview | Advanced C# | Collections | LINQ | Interview Questions,4.6,"Instructor:
+Web University by Harsha Vardhan",s74,426,All Levels,E£199.99,,,E£999.99
+C# Basics for Beginners: Learn C# Fundamentals by Coding,"Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!",4.5,"Instructor:
+Mosh Hamedani",5.5,87,Beginner,E£419.99,,,"E£1,699.99"
+C# .NET Core 8 with MS SQL Complete Beginner to Master 2023,"Learn API Development with C# .NET Core 8 and MS SQL Server from Mac, Linux or Windows!",4.6,"Instructor:
+Dominic Tripodi",s23,121,All Levels,E£199.99,,,E£999.99
+Complete C# Programming Course – Beginner to Expert,"Learn Professional C# Coding! 27 Hours of Content, 7 Hands-On Projects, 2 Unity 3D Games, 16 Coding Exercises, and more!",4.3,"Instructor:
+Robert Gioia",s27,550,All Levels,E£199.99,,,E£999.99
+"C# Intermediate: Classes, Interfaces and OOP","An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#",4.5,"Instructor:
+Mosh Hamedani",s6,45,Intermediate,E£199.99,,Bestseller,E£999.99
+Complete C# Unity Game Developer 2D,"Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",4.7,"Instructors:
+GameDev.tv Team, Rick Davidson, Gary Pettie",18.5,140,All Levels,E£419.99,,Bestseller,"E£1,699.99"
+C# Advanced Topics: Prepare for Technical Interviews,"Master the confusing C# constructs: Events, Delegates, Lambda Expressions, LINQ, Async/Await and more!",4.5,"Instructor:
+Mosh Hamedani",s3,21,Intermediate,E£199.99,,,E£849.99
+Design Patterns in C# and .NET,Discover the modern implementation of design patterns with C# and .NET,4.4,"Instructor:
+Dmitri Nesteruk",20.5,173,Intermediate,E£199.99,,Bestseller,E£999.99
+Complete C# Unity Game Developer 3D,"Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",4.7,"Instructors:
+Ben Tristem, Rick Davidson, GameDev.tv Team, Gary Pettie",30.5,205,All Levels,E£199.99,,Bestseller,E£999.99
+C#/.NET - 50 Essential Interview Questions (Junior Level),"Get ready for your next interview. An in-depth guide to C# fundamentals, SOLID principles and popular design patterns.",4.8,"Instructor:
+Krystyna Ślusarczyk",6.5,57,All Levels,E£199.99,,,E£999.99
+Learn C# for Beginners Crash Course,Obtain C# Programming Language Skills With This C# Tutorial. Acquire Essentials Skills To Get a C# Developer Job Today.,4.7,"Instructors:
+Tim Buchalka, Jean-Paul Roberts, Tim Buchalka's Learn Programming Academy",s13,157,Beginner,E£269.99,,,"E£1,299.99"
+LINQ Tutorial: Master the Key C# Library,Learn every method from LINQ by practice. Lots of coding exercises! Become fluent in the most useful .NET library.,4.8,"Instructor:
+Krystyna Ślusarczyk",s6,150,All Levels,E£229.99,,Bestseller,"E£1,199.99"
+Beginning Object-oriented Programming with C#,Learn OOP fundamentals applied to the C# programming language,4.6,"Instructor:
+Zoran Horvat",s7,91,Beginner,E£199.99,,,E£849.99
+Programming in C# 11 - From Beginner to Advanced,Learn C# to develop applications!,4.5,"Instructor:
+Felipe Gavilán",18.5,293,Beginner,E£199.99,,,E£649.99
+Advanced Topics in C#,A discussion of the more complicated aspects of the C# language,4.4,"Instructor:
+Dmitri Nesteruk",s5,45,Expert,E£199.99,,,E£629.99
+C# in 6 Hours: From Beginner to Pro!,Master the Fundamentals and Level Up Your C# Programming Skills Quickly and Easily!,4.6,"Instructor:
+Patrick Videos",s7,85,Beginner,E£199.99,,,E£849.99
+Learn C# Programming (In Ten Easy Steps),The simplest way to learn C# programming.,4.5,"Instructor:
+Huw Collingbourne",7.5,127,Beginner,E£199.99,,,E£849.99
+C# Programming for Beginners : The First Steps,Introducing Beginners To Programming Windows Form Apps In C# Using A Practical Applications Approach,4.7,"Instructor:
+Charlie Chiarelli",s18,172,Beginner,E£199.99,,Bestseller,E£799.99
+C# Intermediate Programming : The First Steps,A Great Way To Extend Your C# Beginner Skills By Solving More Advanced Real World Problems Using Windows Form Apps,4.4,"Instructor:
+Charlie Chiarelli",s31,226,Intermediate,E£199.99,,,E£269.99
+C# Advanced Concepts,"Learn the Fundamentals of C# Programming, Become a C# Developer from Scratch, Complete Guide to C# Programming",4.4,"Instructor:
+Sandeep Soni",50.5,98,Beginner,E£549.99,,,E£749.99
+Learn C# By Building Applications,Learn practical C# with step-by-step approach and building applications to move from C# beginner to C# intermediate.,4.6,"Instructor:
+Avetis Ghukasyan",13.5,101,All Levels,E£749.99,,,E£999.99
+.NET/ C# Interview Masterclass - Top 500 Questions & Answers,Topics Covered - C# / OOPS / ASP.NET MVC / ADO NET / EF / SQL Server / Web API / .NET Core (with PDF Book),4.7,"Instructor:
+Happy Rawat",8.5,301,All Levels,E£749.99,,Bestseller,E£999.99
+C# Performance Tricks: How To Radically Speed Up Your Code.,This course will help you speed up your C# code and provides many tricks that every professional developer must know.,4.5,"Instructor:
+Mark Farragher",4.5,38,All Levels,E£999.99,,,"E£1,299.99"
+C# Console and Windows Forms Development w/ Entity Framework,C# | .NET Core | Console Programming | Windows Forms | Data-driven development | OOP | GitHub | SQL | Entity Framework,4.7,"Instructors:
+Trevoir Williams, Learn IT University, Andrii Piatakha",15.5,56,Beginner,E£199.99,,Bestseller,E£269.99
+The Complete C# and Object-Oriented Programming Course,The one and only course you need to learn C# 8 and object-oriented programming (C# From A To Z | Source Code Included),4.5,"Instructor:
+Ahmad Mohey",24.5,297,All Levels,E£749.99,,,E£999.99
+C# Developers: Double Your Coding Speed with Visual Studio,Fast Coding Techniques that Every C# Developer Must Know,4.2,"Instructor:
+Mosh Hamedani",2.5,33,All Levels,E£749.99,,Bestseller,E£999.99
+The Unity C# Survival Guide,Created in partnership with Unity Technologies: Master C# with Unity in this Complete Guide!,4.8,"Instructors:
+Jonathan Weinberger, Unity Technologies, GameDevHQ Team",12.5,166,All Levels,E£749.99,,,E£999.99
+Data Structures and Algorithms: In Depth using C#,"List, Stacks, Queues, Binary Search Trees, Hashing, Heaps, Graphs, Sorting, Searching - Data Structures & Algorithms C#",4.6,"Instructor:
+Syed Mohiuddin",28.5,228,Beginner,E£579.99,,,E£779.99
+Selenium WebDriver with C# from Scratch - Nunit Framework,BRAND NEW COURSE - Become expert level Selenium C# Engineer and learn how to implement Automation framework from Scratch,4.5,"Instructor:
+Rahul Shetty",s10,60,All Levels,E£749.99,,NEW,E£999.99
+"Full Stack Web Development with C# OOP, MS SQL & ASP.NET MVC","Web development with C#, ASP.NET MVC, MS SQL, C# OOP. All gathered for full stack web development in one course!",4.3,"Instructors:
+Oak Academy, OAK Academy Team",41.5,297,All Levels,E£749.99,,Bestseller,E£999.99
+Unity C# Programming: Ultimate Guide to Game Scripting 2023,Become a professional Unity Programmer and learn to write quality C# Code by creating amazing 2D-Games.,4.7,"Instructor:
+Andreas Metz",s19,138,Beginner,E£749.99,,,E£999.99
+Unity Game Development: Create 2D And 3D Games With C#,Master The Fundamentals Of Game Development And Learn How To Create 2D And 3D Games With Unity Game Engine,4.7,"Instructor:
+Awesome Tuts",s78,276,Beginner,E£549.99,,,E£729.99
+Mastering Iterative Object-oriented Development in C#,with practices of Emergent Design,4.7,"Instructor:
+Zoran Horvat",4.5,60,Intermediate,E£199.99,,,E£269.99
+C# OOP: C# Object Oriented Programming on Real C# Projects,"Learn C# OOP with hands-on C# projects and dive in C# intermediate step by step guide to classes, interfaces and C# OOP",4.7,"Instructors:
+Oak Academy, OAK Academy Team",7.5,72,All Levels,E£199.99,,,E£269.99
+Learn C# With Windows Forms and SQL Server,With a real database project!,4.4,"Instructor:
+T O",12.5,79,Intermediate,E£229.99,,,E£319.99
+Unit Testing for C# Developers,"Master unit testing C# code with NUnit and Moq: all about dependency injection, best practices and pitfalls to avoid",4.6,"Instructor:
+Mosh Hamedani",s6,86,All Levels,E£749.99,,Bestseller,E£999.99
+C# Basics for Beginners: Learn Coding with C#,Learn C# Fundamentals in 2 Hours and Jump-Start Your Career in IT. C# Programming Basics Explained for Beginners,4.7,"Instructor:
+Victor Gorinov",s3,31,Beginner,E£229.99,,,E£319.99
+Design Patterns in C# Made Simple,Using patterns to improve flexibility of the design,4.6,"Instructor:
+Zoran Horvat",s5,54,Intermediate,E£229.99,,,E£319.99
+The Ultimate Guide to Game Development with Unity (Official),Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide,4.5,"Instructors:
+Jonathan Weinberger, Unity Technologies, GameDevHQ Team, Thomas Kesler",36.5,522,Beginner,E£269.99,,,"E£1,399.99"
+Object Oriented Programming with C# - Beginner to Advanced,"Detailed step-by-step guide to Classes, Interfaces and many other OOP Concepts - Object-Oriented Programming Concepts",4.6,"Instructor:
+Tod Vachev",5.5,73,Intermediate,E£219.99,,,E£849.99
+"Learn C# Coding Intermediate: C# Classes, Methods and OOPs","C#: Intermediate a step-by-step guide to classes, interfaces, polymorphism, error handling and OOPs",4.9,"Instructor:
+Metla Sudha Sekhar",5.5,59,Intermediate,E£219.99,,,E£319.99
+How To Write Bulletproof Multi-Threaded C# Code,This course teaches you how to write robust multi-threaded C# code. A skill every professional .NET developer must know,4.7,"Instructor:
+Mark Farragher",s3,28,All Levels,E£229.99,,,E£629.99
+Unity Turn-Based Strategy Game: Intermediate C# Coding,"Learn to create turn-based gameplay with multiple Units, along with grid-based movement and logic!",4.7,"Instructors:
+GameDev.tv Team, Code Monkey",s16,96,Intermediate,E£199.99,,,E£999.99
+Build ASP.NET Core Web API - Scratch To Finish (.NET 7 API),"Use C# and Build an ASP.NET Core Web API with Entity Framework Core, SQL Server, Authentication & Authorization | .NET 7",4.6,"Instructor:
+Sameer Saini",s18,185,All Levels,E£199.99,,,E£999.99
+Learn Parallel Programming with C# and .NET,Discover the core multithreading and parallelization concepts supported by the .NET framework.,4.5,"Instructor:
+Dmitri Nesteruk",5.5,54,Intermediate,E£199.99,,Bestseller,E£999.99
+Windows Presentation Foundation Masterclass,"Leverage WPF with C# and XAML to build real world skills with Azure, REST, MVVM and Machine Learning",4.4,"Instructors:
+Tim Buchalka's Learn Programming Academy, Eduardo Rosas",20.5,132,All Levels,E£849.99,,Bestseller,"E£1,199.99"
+.NET MAUI course with Visual Studio 2022 creating PROJECTS,"Learn how to create apps for iOS, Android, Windows and MacOS with the help of .NET MAUI, C# and XAML, creating PROJECTS",4.4,"Instructor:
+Héctor Uriel Pérez",21.5,290,Beginner,E£199.99,,Bestseller,E£999.99
+Build 10 C# Beginner Projects from scratch,10 C# Beginner projects step by step,4.7,"Instructor:
+Bluelime Learning Solutions",6.5,81,Beginner,E£199.99,,,E£269.99
+Selenium WebDriver Masterclass with C#,Build Your Own Automation Framework And Learn Everything About Selenium WebDriver. Zero Previous Knowledge Required.,4.4,"Instructor:
+Nikolay Advolodkin",s44,634,All Levels,E£199.99,,,E£999.99
+C#/.NET - 50 Essential Interview Questions (Mid Level),"Prepare for your next interview. An in-depth guide to crucial C# topics, design principles and popular patterns.",4.8,"Instructor:
+Krystyna Ślusarczyk",s8,56,All Levels,E£199.99,,,E£999.99
+C# Memory Tricks: Learn How To Master The Garbage Collector,This course teaches you advanced C# memory management tricks that every professional .NET developer must know.,4.6,"Instructor:
+Mark Farragher",3.5,28,All Levels,E£199.99,,,E£849.99
+The Complete Guide To Build Rest Api's with Asp.Net and C#,"Build REST Api's With Asp.Net , Entity Framework and C#",4.3,"Instructor:
+Asfend Yar Hamid",4.5,64,All Levels,E£749.99,,,E£999.99
+C# Basics for Beginners: Introduction to Programming with C#,Learn C# Fundamentals in 1 Hour and Dive Into the Programming World. C# Programming Basics Explained for Beginners,4.6,"Instructor:
+Victor Gorinov",s2,24,Beginner,E£199.99,,,E£269.99
+C# Database Driven WinForm Apps (step by step projects),Project-based Learning: how to use C# Windows Forms and Microsoft Access Database to create small database driven apps,4.7,"Instructor:
+Pavol Almasi",13.5,153,Beginner,E£199.99,,,E£269.99
+Write Asynchronous C# Code With Tasks and PLINQ,A comprehensive course teaching you how to write asynchronous C# code with the Task Parallel Library and PLINQ.,4.1,"Instructor:
+Mark Farragher",s3,28,All Levels,E£199.99,,,E£679.99
+C# Advanced Topics - The Next Logical Step,"Learn advanced topics of the C# language like LINQ, Lambda, Extension Methods, Generics, Delegates, Events and more!",4.5,"Instructor:
+Tod Vachev",s3,43,Intermediate,E£199.99,,,E£269.99
+98-361: Software Development Fundamentals (using C#),"Learn C#, Web and Desktop applications, and databases. 98-361 (C# version).",4.3,"Instructors:
+Phillip Burton, I Do Data Limited",10.5,135,Beginner,E£229.99,,,E£319.99
+Unity C# Scripting : Complete C# For Unity Game Development,"Learn C# Scripting for Unity Game Development from Basics, Create your own 3D & 2D Games With Unity & C#. (2023 Updated)",4.5,"Instructors:
+Raja Biswas, Charger Games",s27,117,Beginner,"E£1,199.99",,Bestseller,"E£1,599.99"
+RESTful Web API - The Complete Guide (.NET7 API) Part 1,Build RESTful web API (C#) with Authentication and learn how to consume them in a real world application (.NET 7 API),4.6,"Instructor:
+Bhrugen Patel",s9,127,Intermediate,E£199.99,,,E£999.99
+C# / .NET Interview Questions with Answers.,C# / .NET Interview Questions with Answers. Crack you next Csharp interview or .NET Interview with confidence.,4.6,"Instructor:
+Shivprasad Koirala",6.5,13,Beginner,E£629.99,,,E£849.99
+C# for Beginners - Coding From Scratch,Everything you need to get going with C# and .NET using Visual Studio,4.6,"Instructor:
+Pontus Wittenmark",4.5,30,Beginner,E£749.99,,,E£999.99
+"C# OOP - Inheritance, Polymorphism, Interfaces",Time to really grasp what object-orientation is all about,4.6,"Instructor:
+Pontus Wittenmark",6.5,16,Beginner,E£199.99,,,E£269.99
+ANGULAR and ASP.NET Core REST API - Real World Application,"Create Full Stack Web Applications with Angular, ASP.NET Core Web API, Entity Framework Core, C# REST API, JWT Token",4.6,"Instructor:
+Sameer Saini",21.5,221,All Levels,E£749.99,,,E£999.99
+Introduction to Concurrency in C# - Async and Paralellism,Learn to develop scalable and fast applications using concurrency,4.6,"Instructor:
+Felipe Gavilán",s5,77,Beginner,E£629.99,,,E£849.99
+Professional C#: The Best Course on Intermediate C# coding,"Build on your programming skills with Inheritance, Interfaces, Generics, LInQ and much more",4.4,"Instructor:
+Chuck McCullough",4.5,53,Intermediate,E£199.99,,,E£269.99
+Complete C# Programming: Beginner to Advanced with C# OOP,"Learn C# with hands-on projects, dive in C# OOP advanced step by step guide to classes, interfaces and C# OOP examples",3.8,"Instructors:
+Oak Academy, OAK Academy Team",s18,144,All Levels,E£319.99,,,"E£1,599.99"
+Mastering LINQ with C# and .NET,Learn .NET's secret sauce for querying collections and databases,4.4,"Instructor:
+Dmitri Nesteruk",3.5,42,Beginner,E£199.99,,Bestseller,E£849.99
+C# Restful API on Web API .Net Core with MsSQL & EF Core,C# RestFul Web API on .Net Core Web API with using Postman and in Real Project with MsSQL and Entity Framework Core(EF),4.7,"Instructors:
+Oak Academy, OAK Academy Team",s4,37,All Levels,E£199.99,,,E£269.99
+Unity Android : Build 8 Mobile Games with Unity & C#,"Learn Android Game Development with Unity , Build 8 Android Games with Unity & C# ( Unity 2023 Updated )",4.9,"Instructor:
+Raja Biswas",21.5,110,Beginner,E£269.99,,,"E£1,599.99"
+RPG Core Combat Creator: Learn Intermediate Unity C# Coding,Build Combat for Role Playing Game (RPG) in Unity. Tutorials Cover Code Architecture & Video Game Design.,4.8,"Instructors:
+Ben Tristem, Rick Davidson, GameDev.tv Team",27.5,190,Intermediate,E£269.99,,,"E£1,399.99"
+c# design patterns,This course teaches you Design pattern by using C#,4.6,"Instructor:
+Shivprasad Koirala",13.5,40,Beginner,E£629.99,,,E£849.99
+The Game Design and AI Master Class Beginner to Expert,"3D game design, 2D game design, AI art, VR/AR/XR, Unity, coding, C#, game development, animation, programming, Photoshop",4.3,"Instructor:
+[ School of Game Design ]",s85,719,All Levels,"E£1,299.99",,Bestseller,"E£1,699.99"
+The C# Master Course for Beginners - Develop & Program in C#,"Learn C# from an industry professional. Learn to make software, even if you're new to Visual Studio and UWP!",4.5,"Instructor:
+Grant Klimaytys",s6,85,Beginner,E£199.99,,new,E£269.99
+Master the Art of Writing Clean Code in C#,Learn how to write clean and maintainable code in C# as bequeathed by Uncle Bob. Learn how to perform refactoring in C#.,4.3,"Instructor:
+Engineer Spock",s7,88,All Levels,E£229.99,,,E£319.99
+Dependency Injection in C# and .NET with the Autofac Library,An in-depth course on Dependency Injection and Inversion of Control,4.5,"Instructor:
+Dmitri Nesteruk",5.5,57,All Levels,E£199.99,,Bestseller,E£999.99
+The Ultimate LINQ with C# Masterclass - Basics to Advanced,The only LINQ class you will ever need! Both Query and Method Syntaxes are covered in the course!,4.3,"Instructor:
+Tod Vachev",s4,46,Beginner,E£229.99,,,E£319.99
+The Complete C# Programming Course,"Master C# and .NET Framework - learn with code challenges, exercises, and real-life examples!",4.6,"Instructors:
+Codestars • over 2 million students worldwide!, Tod Vachev",s22,131,Beginner,E£229.99,,,E£319.99
+C# Developers: Learn the Art of Writing Clean Code,Learn the techniques to write better C# code and stand out in technical interviews,4.6,"Instructor:
+Mosh Hamedani",3.5,20,All Levels,E£749.99,,,E£999.99
+Mastering Reactive Extensions with C# and .NET,A complete course on Rx.NET,4.7,"Instructor:
+Dmitri Nesteruk",3.5,33,Intermediate,E£199.99,,,E£269.99
+Learning C# .NET - Programming for Beginners.,Learn to Program in C# .NET from an Expert. Over 100 Lessons that allow you to learn C# Programming at your own pace.,4.8,"Instructor:
+Infinite Skills",7.5,115,All Levels,E£219.99,,,E£319.99
+C# Basics for Beginners - Learn C# Fundamentals by Coding,This C# basics course will create an unshakeable solid programming skills and mindset foundation. Learn C# with examples,3.8,"Instructor:
+Tod Vachev",13.5,161,Beginner,E£229.99,,,E£319.99
+Multithreading and Parallel Programming in C#,Overcome multithreading and asynchronous programming in C# problems & improve performance by parallel computing in C#,3.9,"Instructor:
+Engineer Spock",s7,80,All Levels,E£599.99,,,E£799.99
+Advanced C# Programming Concepts for C# Projects/Interviews,"Advanced C# programming concepts/topics tutorials for .NET C# projects/interview questions - Reflection, Multithreading",3.4,"Instructor:
+Suresh Kumar Srivastava",s5,70,Intermediate,E£229.99,,,E£319.99
+Rest Api's in Asp.Net Core and C# 2023 Edition,"Build REST Api's with Asp.Net Core , Entity Framework Core and C#",4.4,"Instructor:
+Asfend Yar Hamid",s7,123,All Levels,E£999.99,,,"E£1,399.99"
+Learn to Program with C# from Scratch | C# Immersive,"Mastering C# 10 with the modern features, know how it works. Become A Professional C# Developer in no time!",4.3,"Instructors:
+SDE Arts | Octavo, Ahmed El Mohandes",s4,64,All Levels,E£419.99,,,E£579.99
+C# OOP Concepts: Apply C# OOP Concepts On Real C# Projects,"Here is your reference guide for C# OOP classes, interfaces and object-oriented programming with C# , interfaces and C#",4.2,"Instructors:
+Oak Academy, OAK Academy Team",s13,104,All Levels,E£419.99,,,E£579.99
+Learn C#/C# 7 through Web Pages and Visual Studio 2017,Learn Fundamental C#/C# 7.0,4.7,"Instructor:
+T O",19.5,88,Beginner,E£199.99,,,E£269.99
+Learn to Create a Metroidvania Game using Unity & C#,Game development made easy. Learn C# using Unity and create your own 2D action game!,4.7,"Instructor:
+James Doyle",11.5,79,Beginner,E£749.99,,,E£999.99
+Unity Dialogue & Quests: Intermediate C# Game Coding,Implement a Dialogue Editor and Quest System and integrate it into an RPG project.,4.7,"Instructors:
+Rick Davidson, GameDev.tv Team",12.5,68,Intermediate,E£849.99,,,"E£1,199.99"
+Master C# And SQL By Building Applications,Become a better software developer by learning how to build real world applications using C# and SQL.,4.4,"Instructor:
+Avetis Ghukasyan",s6,58,Intermediate,E£849.99,,,"E£1,199.99"
+C# in 6 Hours: C# For Complete Beginners Learn C# by Coding,Master the most popular game development language C# Fundamentals with Visual Studio and master C# in 6 hours | C Sharp,4.5,"Instructor:
+Oak Academy",5.5,47,Beginner,E£199.99,,,E£269.99
+Discover Game Development with C# Programming and MonoGame!,Learn game development with C# by utilizing the popular MonoGame framework!,4.6,"Instructor:
+Kyle Schaub",6.5,60,All Levels,E£749.99,,Bestseller,E£999.99
+Basic C# Clearly Explained,A Friendly Invitation To Real C#,4.5,"Instructor:
+T O",2.5,31,Beginner,E£199.99,,,E£269.99
+MS SQL with C#,"Learn C#, MS SQL Server, Ms SQL Backup & Recovery, how to connect C# to SQL and more with this comprehensive SQL course",4.3,"Instructors:
+Oak Academy, OAK Academy Team",s25,216,All Levels,E£749.99,,,E£999.99
+Algorithms and Data Structures in C#: Complete Tutorial,Learn data structures and algorithms in C# from A to Z. Pass coding interview. Learn unit testing and TDD in addition.,4.4,"Instructor:
+Engineer Spock",15.5,137,All Levels,E£529.99,,,E£719.99
+C# OOP: A Beginner's Guide to Object-Oriented Programming,Master the concepts of OOP in C# and kickstart your career in C# and .NET development,4.5,"Instructor:
+Praveenkumar Bouna",s2,59,Beginner,E£199.99,,,E£269.99
+Visual C# with WinForms Step by Step Projects for Beginners,Learn Visual C# with Windows Forms by doing programming projects for beginners and progress to intermediate level,4.7,"Instructor:
+Pavol Almasi",s16,208,All Levels,E£199.99,,,E£269.99
+Automation framework development with Selenium C# (Advanced),An End-to-End Selenium automation framework development course,4.5,"Instructor:
+Karthik KK",s12,118,All Levels,E£319.99,,,
+Mastering WCF 4.0 From Scratch Using C#,Learn How to build WCF Services using C# Step By Step,4.7,"Instructor:
+Kameswara Sarma Uppuluri",s7,53,All Levels,E£529.99,,,E£719.99
+Boost Your C# With Behavioural Design Patterns,A complete guide to the final 11 behavioural design patterns from the famous book by the Gang Of Four.,4.6,"Instructor:
+Mark Farragher",s4,20,All Levels,E£529.99,,,E£719.99
+.NET Programming for Beginners - Windows Forms with C#,Get started with .NET C# Windows Forms (WinForms) Programming in Visual Studio using the C# Language,4.7,"Instructor:
+Artemakis Artemiou",s5,42,Beginner,E£199.99,,,E£269.99
+Learn C# with Windows Forms and a Variety of Projects,Includes a Powerful Database Project!,4.7,"Instructor:
+T O",22.5,200,Beginner,E£519.99,,,E£679.99
+Stepping up to CSharp (C# Accelerator),"Take C# coding to the next level with this high quality, in-depth, fast paced, cross platform, accelerator course.",4.6,"Instructor:
+Oren Ferrari",3.5,33,Intermediate,E£199.99,,,E£269.99
+Learn To Create a Tower Defence Game With Unity & C#,Game development made easy. Learn C# using Unity and create your own top-down strategy game!,4.7,"Instructor:
+James Doyle",s11,81,Beginner,E£629.99,,,E£849.99
+C# For Beginners: Learn C# Programming From Scratch,Learn to code with C# : Learn the most popular game development language C# Fundamentals with Visual Studio and examples,4.3,"Instructors:
+Oak Academy, OAK Academy Team",3.5,33,Beginner,E£199.99,,,E£269.99
+C# from the beginning,C# for newbies,4.6,"Instructor:
+Igor Evdokimov",s3,31,Beginner,E£199.99,,new,E£269.99
+Learn Collections in C# and .NET,A Masterclass Course on Collections in C# and .NET,4.7,"Instructor:
+Infinite Skills",s3,28,All Levels,E£229.99,,,E£319.99
+MSTest Unit Testing Tutorial for beginners : C# Unit Testing,Learn how to write effective unit tests using Microsoft MSTest framework to build high quality software applications,4.6,"Instructor:
+Venkat Kud",s4,42,All Levels,E£229.99,,,E£319.99
+Learn Unit Testing with NUnit and C#,"Learn unit testing, TDD, mocking and Dependency Injection: techniques that you'll need to build reliable software.",4.5,"Instructor:
+Engineer Spock",7.5,94,Beginner,E£229.99,,Bestseller,E£319.99
+C# .NET For Beginners,An introduction to programming using C# and Microsoft's .NET platform,4.6,"Instructor:
+Rick Phillips",s4,19,Beginner,E£199.99,,,E£269.99
+High Performance Coding with .NET Core and C#,Learn how to write high performance and scalable .NET Core and ASP.NET Core applications in C#,4.3,"Instructor:
+Gergely Kalapos",6.5,38,Intermediate,E£549.99,,,E£729.99
+Learn To Code By Making a 2D Platformer in Unity & C#,Game development made easy. Learn C# with Unity and create your very own 2D Platformer!,4.5,"Instructor:
+James Doyle",s15,115,Beginner,E£999.99,,,"E£1,399.99"
+A 16 Hour C# Course With Microsoft Visual Studio 2013,"Quadruple Your Skills: Learn C# , Microsoft Visual Studio 2013, Debugging and SQL Server Basics!",4.5,"Instructor:
+T O",16.5,125,All Levels,E£269.99,,,E£349.99
+C# - Complete A to Z C# Masterclass™: Hints + Coding Tips,Learn C# like a Professional! Start from the basics and go all the way to creating your own applications and games!,3.9,"Instructor:
+Dr. Chris Mall • 35,000+ Students Worldwide",s7,66,All Levels,E£199.99,,,E£269.99
+Beginner Object Oriented Programming In C# and .NET Core,Learn object oriented programming (OOP) fundamentals in C# and .NET Core with clear examples from a real professional.,4.4,"Instructor:
+Avetis Ghukasyan",3.5,28,Beginner,E£619.99,,,E£819.99
+Advanced Data Structures and Algorithms in C# ( DSA ),Advanced Data Structures and Algorithms in C# Using C# DSA Data Structures Algorithms LeetCode DSA C# Data Structures,4.5,"Instructor:
+Deepali Srivastava",s7,67,All Levels,E£229.99,,,E£319.99
+Unity 3D and C# - The Complete RPG Guide for Beginners,Build 3 games & learn Unity practical way! Start with fundamentals and finish with an RPG game. Using Unity 2020 and C#,4.7,"Instructors:
+Eincode by Filip Jerga, Filip Jerga",s41,315,All Levels,E£319.99,,,E£419.99
+Practical C# Programming Practices (70+ Common Projects),Master C# programming with over 70+ best C# programming practices for absolute beginners to excel in the industry,3.6,"Instructors:
+Emenwa Global, Zoolord Academy",7.5,76,All Levels,E£229.99,,,E£319.99
+C# Studies | Basic C# Programming with Visual Studio 2019,Take your first step into the world of programming with this beginner course on C#. Become a programmer today!,4.8,"Instructor:
+C# Tut",1.5,15,Beginner,E£199.99,,,E£269.99
+Advanced Automation Testing of Modern Apps with C# .NET,"Learn modern ways to automate application with C# .NET using Selenium, XUnit, Dependency Injections, Docker and more !",4.5,"Instructor:
+Karthik KK",s16,140,All Levels,E£349.99,,,
+Unity C# Mobile Game Development: Make 3 Games From Scratch,Make and publish mobile games & apps for Android Play Store & iOS App Store using Unity and C#,4.6,"Instructors:
+Rick Davidson, GameDev.tv Team, Nathan Farrer (aka Dapper Dino)",6.5,50,Beginner,E£999.99,,Bestseller,"E£1,399.99"
+Learn C sharp in 1 hour,Learn how to program in C# in 1 hour! C# is used in a variety of places. Learn the secrets in this course!,4.8,"Instructor:
+John Bura",s1,26,Beginner,E£199.99,,,E£269.99
+C# and Financial Modeling,Using C# for Numerical Analysis in Applied Finance,4.2,"Instructor:
+Matthew Fried",s9,56,All Levels,E£229.99,,,
+Learn to make Parkour Endless Runner game for PC/Android/IOS,Making games is easy! I Learn C# using Unity and create your very own endless runner for PC and Mobile,4.7,"Instructor:
+Alex Dev",11.5,89,Beginner,E£749.99,,,E£999.99
+Full Stack Xamarin with C# for Beginners to Build Apps,"Build native mobile apps with Xamarin for Android, iOS and Windows. Learn Xamarin.Forms, improve your Xamarin skills",4.6,"Instructors:
+Oak Academy, OAK Academy Team",s12,117,All Levels,E£199.99,,,E£269.99
+Xamarin Android: Learn to Build Native Android Apps With C#,"Become a Xamarin Pro Android Developer with C#. Includes Quiz App, Social App, Maps App, Firebase. Build Real World Apps",4.7,"Instructors:
+Ufinix Academy, Uchenna Nnodim",s25,198,All Levels,E£849.99,,,"E£1,199.99"
+Latest C# ASP.NET Core MVC+ Projects + Web API + Exercises,ASP.NET Core is not difficult! My Projects of 7/8 steps are more than sufficient for a quick and practical transition!,4.7,"Instructor:
+Amardeep Singh",32.5,246,All Levels,E£199.99,,,E£269.99
+Learn C#: Learn to Code C# like a Pro Developer Course,Get Started with C# Learning all the Basic Concepts of .Net and C# Syntax,4.2,"Instructor:
+Chuck McCullough",3.5,51,Beginner,E£199.99,,,E£269.99
+Complete C# programming Fundamentals With Example Projects,Master fundamentals of C# programming from beginner to advance & build your C# programming skill with sample projects,4.1,"Instructors:
+Emenwa Global, Zoolord Academy",12.5,122,All Levels,E£229.99,,,E£319.99
+Learning C# Design Patterns,"A Developer's Guide to Creational, Structural, Behavioural and MVC Patterns",4.7,"Instructor:
+Infinite Skills",s6,57,Intermediate,E£199.99,,,E£269.99
+Mastering JSON using C#,Mastering JSON using C#,4.0,"Instructor:
+Balaji Sridharan",s3,24,Intermediate,E£199.99,,,E£269.99
+Learn and Understand C# Delegates fast by coding,"Make your code powerful by using C# Delegates today, and understand it step-by-step through real world examples!",4.6,"Instructor:
+Sandor Maraczy",s1,9,Beginner,E£229.99,,,E£319.99
+C# Basics for Absolute Beginners in C# and .NET,A guide to learning the fundamentals of C# .NET programming for beginners in C# for starting a C# .NET career,4.2,"Instructor:
+Praveenkumar Bouna",2.5,46,Beginner,E£199.99,,,E£269.99
+BDD with Selenium Webdriver and Specflow using C#,"Learn Behaviour Driven Development using the two most powerful tool, Webdriver and Specflow with C# as language binding!",4.3,"Instructor:
+Rahul Singh Rathore",s29,158,All Levels,E£629.99,,,E£849.99
+17 Beginner C# Walkthrough Projects step by step,Learn how to code in C# by building 17 projects,3.5,"Instructor:
+Bluelime Learning Solutions",17.5,180,Beginner,E£199.99,,,E£269.99
+Learn C# From Scratch with Real Applications,Learn to code in Visual Studio C# from scratch. I have provided HD video lectures and many real C# Applications,4.5,"Instructor:
+Volkan Atış",s9,,Beginner,E£229.99,,,E£319.99
+Learn Unity Games Engine & C# By Creating A VR Space Shooter,A beginners guide to Unity focusing on making a virtual reality game for the worlds leading headset. ***UPDATED 2022!***,4.7,"Instructor:
+Daniel Stringer",5.5,43,Beginner,E£749.99,,Bestseller,E£999.99
+Data Structures and Algorithms In C# ( DSA ),Data Structures and Algorithms in C# Using DSA C# Data Structures Algorithms DSA Leetcode C# Data Structures Algorithms,4.3,"Instructor:
+Deepali Srivastava",10.5,149,All Levels,E£219.99,,,E£319.99
+Learn To Create A First Person Shooter With Unity & C#,Game development made easy. Learn C# with Unity and create your very own FPS game.,4.5,"Instructor:
+James Doyle",11.5,92,Beginner,E£199.99,,,E£849.99
+C# Programming: Start Coding in C#. Complete C# Programming,C# Programming: Learn the basics of C# programming with this complete C# programming course. C# programming from A-Z,3.5,"Instructor:
+Zeeshan: C# Programming",3.5,50,Beginner,E£229.99,,,E£319.99
+C# & .NET Core for Beginners,Get up and running with the latest in C# 9 & .NET Core.,4.3,"Instructor:
+Chris Hawkes",3.5,35,Beginner,E£419.99,,,E£549.99
+Selenium WebDriver with C# for Beginners + Live Testing Site,Selenium is the most popular tool to test websites! Join me and hundreds of students to learn Selenium Webdriver!,4.4,"Instructor:
+Tod Vachev",s5,57,All Levels,E£749.99,,,E£999.99
+Unity Game Development : Build 5 Games With Unity & C#,Learn Unity Game Development & C# Scripting. Build 5 Complete 2D & 3D Games with Unity & C#.,4.6,"Instructors:
+Raja Biswas, Charger Games",s23,122,Beginner,E£629.99,,,E£849.99
+C# in 3 Hours: C# Programming Tutorial for Beginners,C# in 3 Hours. C#Made Easy. No Previous Experience Required. Ultimate Guide to C#. Master C# Programming.,4.4,"Instructor:
+Ajay Warrier",s3,34,Beginner,E£199.99,,,E£269.99
+Functional Programming Deep Dive with C#,Take your code to the next level with Functional Programming in C#. Improve your software’s architecture. C# 9.0.,4.2,"Instructor:
+Cory West",3.5,22,Intermediate,E£199.99,,,E£269.99
+C#: The Complete Foundation!,"Learn Easy, Learn Smart, Learn it all: The most comprehensive A-Z guide to C#!",4.3,"Instructor:
+Danny Boehm",s8,96,Beginner,E£199.99,,,E£269.99
+AutoCAD Programming Using C#.NET - Beginner Course,This is your ultimate guide to learning C# programming in AutoCAD.,4.5,"Instructor:
+Arnold Higuit",17.5,200,Beginner,E£549.99,,,E£749.99
+"What's New in C# 6, C# 7 and Visual Studio 2017","Learn new features of C# 6, C# 7 and Visual Studio 2017 on practical examples",4.2,"Instructor:
+Engineer Spock",s1,29,All Levels,E£199.99,,New,E£269.99
+C# with WinForms and SQL Create Database Driven Desktop App,"Learn how to program mid-size project with Create, Read, Update and Delete functionality with C#, Windows Forms, and SQL",4.6,"Instructor:
+Pavol Almasi",s3,38,Beginner,E£199.99,,,E£269.99
+Adventures In C# Programming,Learn C# by programming a text-adventure game,4.6,"Instructor:
+Huw Collingbourne",2.5,46,All Levels,E£229.99,,,E£319.99
+Master C# & .NET Debugging with Visual Studio 2019,This course teaches you how to use the Visual Studio that have powerful debugging features to hunt down tough bugs.,4.1,"Instructor:
+Badran Yahyaoui",1.5,25,Beginner,E£229.99,,,E£319.99
+Game Development/Art - Create a 2D Action Game with Unity/C#,"Game development & Game art/animation. Create a 2D top down shooter using Unity 2018, C# and Ps/Gimp.",4.6,"Instructor:
+Noa Calice (aka Blackthornprod)",s5,52,Beginner,E£629.99,,,E£849.99
+Projects in CSharp : Learn By Building Projects,Learn CSharp By Building Real World Projects,3.6,"Instructors:
+Eduonix Learning Solutions, Eduonix-Tech .",2.5,20,All Levels,E£229.99,,,E£319.99
+Learn C# with Visual Studio 2017 and Console Programs,With Exercises Throughout the Videos!,4.6,"Instructor:
+T O",9.5,89,Beginner,E£199.99,,,E£269.99
+C# From Beginner to Advanced,A Complete Guide to learning how to program using C#. Go from Beginner to Advanced level with coding exercises!,3.9,"Instructors:
+Ermin Kreponic, Aldin Omerdic",11.5,68,All Levels,E£199.99,,,E£269.99
+Master Collection Classes in C# Using Visual Studio,Using ASP.NET Core learn the major collection classes in C#,4.0,"Instructor:
+Kaushik Roy Chowdhury",16.5,65,All Levels,E£229.99,,,E£319.99
+C# Introduction,Learn the fundamentals of programming in this Microsoft language,4.3,"Instructor:
+Intellezy Trainers",9.5,36,Beginner,E£229.99,,,E£319.99
+C# OOP : Object Oriented Programming for C# .NET Projects,C# OOP : Object Oriented programming for C# .NET projects C# .NET Interview Questions Intermediate C# Programming OOP,4.1,"Instructor:
+Suresh Kumar Srivastava",s4,48,Intermediate,E£199.99,,,E£269.99
+C# Basics for Beginners : C# Programming & .NET for Projects,C# Basics for Beginners for C# Projects / C# Coding Interview Questions. C# .NET Programming Fundamentals to build logic,4.3,"Instructor:
+Suresh Kumar Srivastava",3.5,43,Beginner,E£229.99,,,E£319.99
+C# Language Basics and OOPs for Absolute Beginners,Wonderful blending of Theory and Practicals. Each and every feature is demonstrated with real-time examples.,4.6,"Instructor:
+Sandeep Soni",s18,40,Beginner,E£199.99,,,E£269.99
+Spice Up Your C# Code With Advanced Language Features,A comprehensive guide on how to spice up your C# code with many advanced language features,4.6,"Instructor:
+Mark Farragher",2.5,24,All Levels,E£199.99,,,E£269.99
+Accelerated C# And Windows Forms Course for Beginners,"Create fully object oriented programs, complete with business and data classes and libraries.",4.4,"Instructor:
+Pavol Almasi",s29,441,Beginner,E£199.99,,,E£269.99
+Unity C# Game Development: Learn C# Unity From Scratch,"Unity 2d & unity 3d game dev with C# Unity and become game maker. You will learn to design, create and publish games.",4.4,"Instructors:
+Oak Academy, OAK Academy Team",6.5,64,All Levels,E£199.99,,,E£269.99
+MCSD 70-483 C# Preparation Course + 2 Full Practice Exams,"MCSD 70-483 C# PREPARATION Course: Methodology, Examples, 2 Exam Tests, SOS Tips + Hints for Passing the Exams.",4.8,"Instructor:
+Dr. Chris Mall • 35,000+ Students Worldwide",s9,88,All Levels,E£579.99,,,E£779.99
+Advanced C# Course : Become a Backend Developer,"Learn how to implement layered architecture, repository, Ninject, Fluent Validation, AOP, Postsharp, web api and more",4.5,"Instructor:
+Engin Demiroğ",s3,22,All Levels,E£229.99,,,E£319.99
+SAP Data in .NET C# through SAP Connector,"Link your C# applications with SAP, by usings BAPIs and function modules in .NET",4.3,"Instructor:
+Ciprian Muntean",s4,24,Intermediate,E£479.99,,,E£649.99
+Unity 2D Master: Game Development with C# and Unity,"From complete beginner to master level with this unique, easy-to-follow Unity 2D course.",4.6,"Instructor:
+Mario Korov",7.5,124,All Levels,E£629.99,,,E£849.99
+C# WPF: Learn C# WPF Core with MsSQL & EF Core,Create windows apps with C# WPF core. Learn C# WPF with Real Project by using MsSQL & Entity Framework Core (EF Core),4.3,"Instructors:
+Oak Academy, OAK Academy Team",s8,63,All Levels,E£749.99,,,E£999.99
+How To Program Your Own Breakout Game using Visual C#,"Practice C#.NET with WinForms and Visual Studio Building a 2D desktop game with collision detection, sounds and images!",4.5,"Instructor:
+Mohammad El-Haj",s2,24,Intermediate,E£199.99,,,E£269.99
+C# and Windows Forms Exercises for Beginners (step by step),Learn Visual C# .net with WinForms by doing programming projects for beginners,4.2,"Instructor:
+Pavol Almasi",s24,156,Beginner,E£199.99,,,E£269.99
+AutoCAD Programming using C# with Windows Forms,Learn by developing Real World Applications,4.8,"Instructor:
+Arnold Higuit",s9,63,Intermediate,E£529.99,,,E£719.99
+Learn Multithreading and Parallel Programming in C# and .Net,Understanding in multithreading and asynchronous programming and parallel programming in C# and .Net,4.3,"Instructor:
+TheDotNet Office",s5,54,All Levels,E£479.99,,,E£649.99
+"Coding for beginners :( HTML,CSS,JavaScript,Python,C#,Ruby)",Learn to code in Six different languages,4.4,"Instructor:
+Bluelime Learning Solutions",s22,239,Beginner,E£749.99,,,E£999.99
+What’s New in .NET 7 and C# 11,"Stay Current with the Latest Developments in C# 11, C# 10, .NET 7, and .NET 6",4.2,"Instructor:
+Praveenkumar Bouna",2.5,32,Beginner,E£199.99,,New,E£269.99
+C# Basics for Beginners: Learn C# Fundamentals by Coding,"Master C# Basics in no Time - A Comprehensive Course Packed with Examples, tips and exercises!",3.9,"Instructor:
+Educational Engineering Team",2.5,20,Beginner,E£229.99,,,E£319.99
+C# for Beginners,Learn C# - an introduction for total beginners,4.4,"Instructor:
+Frank Anemaet",s2,31,Beginner,E£229.99,,,E£319.99
+C# Logical Puzzles Games & Algorithm Projects (step by step),"Practice C# by coding popular programming puzzles, games, and algorithms exercises",4.7,"Instructor:
+Pavol Almasi",s7,44,Beginner,E£199.99,,,E£269.99
+C# Console Programming Exercises for Beginners Step by Step,Learn C# by doing programming projects for beginners,4.1,"Instructor:
+Pavol Almasi",12.5,83,Beginner,E£199.99,,,E£269.99
+Understand asynchronous programming with .NET and C#,"Master the Thread API, the evolution to TPL with async and await, the use of parallel programming and Thread safety",4.0,"Instructor:
+Timo | C# Development | .NET | DevOps",3.5,50,Intermediate,E£419.99,,,E£579.99
+Naked C#: A Beginner's Guide to Coding,The bare bones of programming without the bling!,4.7,"Instructors:
+Penny de Byl, Penny @Holistic3D.com",s8,70,Beginner,E£199.99,,,E£269.99
+Comprehensive Introduction to Programming with C#,Practical Problem Solving Approach. Learn Programming by Examples and Practical Assignments with C# and Visual Studio,4.3,"Instructors:
+Svetlin Nakov, Preslav Mihaylov",22.5,116,Beginner,E£199.99,,,E£269.99
+Desktop Applications with Inventory Software C# .NET,Inventory Management System,4.6,"Instructor:
+Ali Raza Sardar Ali",s18,25,All Levels,E£199.99,,,E£849.99
+Programming in Microsoft C# - Exam 70-483,Training For Your MCSD: Windows Store Apps Using C# Certification,4.3,"Instructor:
+Infinite Skills",8.5,101,Beginner,E£229.99,,,E£319.99
+Learn C#.Net Core With Real World Examples,"C# with .Net Framework, .Net Core And .Net Standard Libraries. Inheritance, Polymorphism, dlls, Collections with LINQ...",4.4,"Instructor:
+Manzoor Ahmed",s9,16,All Levels,E£199.99,,,E£269.99
+TCP/IP Socket Programming in C# .Net For Coders & Students,"C# Networking in TCP IP Socket Library - Examples in WinForms With async/await Tutorial, Client Server Example Code",4.4,"Instructor:
+Naeem Akram",4.5,74,All Levels,E£549.99,,Bestseller,E£729.99
+C# Restful API and WPF Core with MsSQL & EF Core,"C# Restful API on Web API .Net Core, HTTP, MsSQL, WPF Core with real world Rest API Projects, WPF Core Projects, EF Core",4.4,"Instructors:
+Oak Academy, OAK Academy Team",s12,95,All Levels,E£849.99,,,"E£1,199.99"
+MCSD 70-483 C# | 5 + 1 Real Simulation Practice Tests [2022],Microsoft 70-483 * 6 Practice Exams * Timed * 50 Questions Each * 300 Questions with full explanations & feedback,4.7,"Instructor:
+Mall Academy",,,,E£199.99,,,E£269.99
+Complete Practical LINQ Tutorial in C#,"LINQ to Entities, LINQ to Objects, LINQ to XML, Functional Programming and LINQ",4.6,"Instructor:
+Engineer Spock",4.5,73,All Levels,E£229.99,,,E£319.99
+Learn C# Coding Basics for Beginners: C# Fundamentals,Learn in-demand C# Basics to level up your career as a Professional - by Microsoft Certified Professional,4.0,"Instructor:
+Metla Sudha Sekhar",s7,86,Beginner,E£199.99,,,E£269.99
+Create Games With C# & WinForms (step by step for beginners),Project-based Learning: Create simple games using C# with WinForms (Windows Forms) without frameworks or libraries,4.5,"Instructor:
+Pavol Almasi",s9,116,Beginner,E£199.99,,,E£269.99
+C# Programming Crash Course,Dive deep into C# programming,4.2,"Instructor:
+Stone River eLearning",s9,108,All Levels,E£229.99,,,E£319.99
+From Zero Step by Step C# for Revit API for PlugIn Creation,Start from Zero a Plugin Creation Journey for Autodesk Revit using C# and the Revit API.,4.3,"Instructor:
+Enrique Galicia",s3,33,Beginner,E£449.99,,,E£599.99
+Learn C Sharp Programming From Scratch,Ultimate Guide to Learn and Master C Sharp .NET,3.5,"Instructors:
+Eduonix Learning Solutions, Eduonix-Tech .",s6,46,All Levels,E£229.99,,,E£319.99
+API in C#: The Best Practices of Design and Implementation,Learn how to write clean code in C#. Design and implement API based on the best practices developed by .NET community.,4.3,"Instructor:
+Engineer Spock",3.5,64,All Levels,E£629.99,,,E£849.99
+"Windows Service Programming, Debugging, Installing in C#.Net","Windows Service Tutorial: How to Create Windows Services in C# .Net/Visual Studio, Windows Service debugging techniques",4.1,"Instructor:
+Naeem Akram",1.5,29,All Levels,E£199.99,,,E£269.99
+Microsoft 70-483: Programming in C# .NET (PART 1 of 2),This course is Part 1 of 2. Please read course description for more information.,4.5,"Instructor:
+Stone River eLearning",s16,471,All Levels,E£199.99,,,E£269.99
+Design Patterns In C# for Software Projects & Architecture,Design Patterns in C# OOP .NET for C# Projects Software Architecture Using GoF Design Patterns System Analysis UML OOP,3.8,"Instructor:
+Suresh Kumar Srivastava",s6,90,All Levels,E£199.99,,,E£269.99
+Boost Your C# With Structural And Creational Design Patterns,A complete guide to the first 12 structural and creational design patterns from the famous book by the Gang Of Four.,4.0,"Instructor:
+Mark Farragher",s4,22,All Levels,E£749.99,,,E£999.99
+Develop 3D hyper-casual mobile games with Unity and C# 2024,The ultimate course to learn how to create amazing Casual & Hyper Casual mobile games with Unity & C# from A to Z,4.6,"Instructors:
+Anthony Cardinale | C#, Unity, Blender, Unreal, IA, Claire | Hyper-casual game development with Unity",s24,92,All Levels,E£629.99,,,E£849.99
+Building .NET Windows Applications using C# and WinForms,Learn to develop GUI Applications with real time case studies and examples.,4.4,"Instructor:
+Sandeep Soni",s9,18,Intermediate,E£199.99,,,E£269.99
+Xamarin: Build Native Cross Platform Apps with C# Codes,"Use your C# skills, learn to build native mobile apps with Xamarin for Android, iOS and Windows | Xamarin C# ( uwp )",4.2,"Instructors:
+Oak Academy, OAK Academy Team",s7,78,Beginner,E£229.99,,,E£319.99
+Secure Coding and Design Best Practices in C#,Secure Coding in C# with Design Principles and practice - Quick Start Course,4.1,"Instructor:
+Basics Strong",s3,48,Beginner,E£629.99,,,E£849.99
+C# Basics with .NET Core for Beginners: Learn by Coding,Master C# Basics with .NET Core - The Most in-depth Course with Live Coding and Practical Assignments in Every Topic,4.2,"Instructor:
+Thomas Plathanath Mathew",s28,158,Beginner,E£199.99,,,E£269.99
+C# Programming from Zero to Hero : The Fundamentals,Learn C# programming using a hands on approach.,3.3,"Instructor:
+University of Geeks",2.5,37,Beginner,E£229.99,,,E£319.99
+C# Certification Mastery: Challenge Your Knowledge and Earn,Discover Where You Stand in C# Programming and Identify Areas for Improvement with Timed Practice Exams!,4.4,"Instructor:
+Ashraf Said AlMadhoun",,,,E£229.99,,,E£319.99
+"Robust REST APIs and Clients in C#, ASP.NET Core, HttpClient",How to create professional REST APIs and REST API Clients in C# using ASP.NET Core and HttpClient,4.6,"Instructor:
+Nathan LaFratta",2.5,52,Intermediate,E£199.99,,,E£269.99
+C# And Visual Studio Productivity Masterclass,"Double Your Coding Speed Using C#, Visual Studio, Resharper And Other Powerful Extensions",4.3,"Instructors:
+Denis Panjuta, Tutorials.eu by Denis Panjuta",2.5,67,All Levels,E£629.99,,,E£849.99
+C# Tutorial - Fundamentals for Beginners,Learn C# programming quickly and easily and start your career as a professional C# programmer.,4.4,"Instructor:
+Stefanos Arapakis",3.5,34,Beginner,E£199.99,,,E£269.99
+C# : Problem solving in C# (Looping's and Decision Making),"Problems on Looping ,decision making",4.0,"Instructor:
+Suprio Dutta",1.5,24,All Levels,E£199.99,,,E£269.99
+Visual Studio Mastery with C# - Double Your Productivity,"Wide variety of shortcuts and tools to be more productive with VS with footage from my RGB Keyboard! Snippets, Comments",4.4,"Instructor:
+Tod Vachev",1.5,27,Beginner,E£619.99,,,E£819.99
+Make Your First 2D Game with Unity & C# - Beginner Course,Beginner Course to Game Development : Learn how to use Unity and Program in C# by Making a Small 2D Game from A to Z.,4.4,"Instructor:
+Noa Calice (aka Blackthornprod)",s4,45,Beginner,E£629.99,,,E£849.99
+Software Development Master Class - Intermediate C#,Intermediate Programming Concepts with .Net Core and C#,4.3,"Instructor:
+Mike Witt",7.5,39,Intermediate,E£199.99,,,E£269.99
+Programming for beginners with : C++ | C# | Java | Python,Learn to code from scratch with C++ | C# | Java | Python,4.5,"Instructor:
+Bluelime Learning Solutions",15.5,157,Beginner,E£199.99,,,E£269.99
+The Ultimate Guide To C# Unity Programming (2023),Master Unity's Engine (2022) and C# Programing By Creating A Fun 2D Platformer Using Modern Unity Development Technics,4.6,"Instructor:
+Michael Murr",10.5,49,Beginner,E£749.99,,,E£999.99
+"C# in Depth: Puzzles, Gotchas, Questions at Interviews",C# Tips and Traps: learn things you didn’t know and become a more robust advanced C# programmer,4.5,"Instructor:
+Engineer Spock",4.5,56,Intermediate,E£229.99,,,E£319.99
+"MSSQL with C# WPF Core Project, MVVM by Using EF Core","Learn Ms SQL Server, MsSQL Backup & Recovery with SQL course how to connect C# WPF core to SQL with EF on Real Project",4.6,"Instructors:
+Oak Academy, OAK Academy Team",s13,98,All Levels,E£199.99,,,E£269.99
+Learn to create database Apps Using C# and SQL Server,Build and Program Database driven projects,4.5,"Instructor:
+Bluelime Learning Solutions",s3,35,Beginner,E£199.99,,,E£269.99
+C# Introduction For Absolute Beginners. Basic C# coding,"C# basics from installation to execution, detecting errors amending them and building logic to solve problems.",3.6,"Instructor:
+Raja Haris",s3,18,Beginner,E£199.99,,,E£269.99
+Learning Unity and C# for Complete Beginners,Learn how to make your first video game by making a BomberMan Style 3D game using the Unity Game Engine and C#,4.9,"Instructor:
+MetalStorm Games",24.5,207,Beginner,E£749.99,,,E£999.99
+Coding for actual beginners (C# / Unity / Game development),Tired of 'beginner' coding tutorials not really being for beginners? Never touched code in your life? This is for you.,4.7,"Instructor:
+Matt Sharp",5.5,27,Beginner,E£199.99,,,E£269.99
+C# Windows Forms,"Windows Forms controls and Connecting to MySQL Database, MSSQLSERVER Database and Northwind"".mdb"" database",3.1,"Instructor:
+Olga Karpushin",s2,99,Expert,E£219.99,,,E£319.99
+Transaction Management in SQL Server and C#,Learn transaction control mechanisms to build database apps that ensure integrity and consistency in SQL Server and C#,3.7,"Instructor:
+Husam Nujaim",s5,29,All Levels,E£229.99,,,E£319.99
+A Gentle Intro To Game Development Using C# and MonoGame,Creating 2D Games in a Non-Intimidating Fully Coded Experience Way for Beginners,4.3,"Instructor:
+Charlie Chiarelli",s14,66,Beginner,E£199.99,,,E£269.99
+Design Patterns using C# and .NET Core,"Produce high-quality, reliable code faster. Solve problems in the most elegant way possible",4.2,"Instructor:
+Packt Publishing",4.5,26,Intermediate,E£479.99,,,E£649.99
+Learn C# and make a videogame with Unity,Learn how to create your own videogames with Unity with C# the fastest and easiest way to learn how to program csharp,4.4,"Instructors:
+Hidran Arias, María Santos",12.5,83,All Levels,E£199.99,,,E£269.99
+Mastering ASP.NET 4 Using C# - Part 2,Explore ASP.NET Data Web Controls - Step By Step,4.8,"Instructor:
+Kameswara Sarma Uppuluri",10.5,81,Intermediate,E£199.99,,,E£269.99
+Visual C# and ADO.NET Programming,Case Study - Payroll System,4.1,"Instructor:
+Everest Nwosu",9.5,51,Beginner,E£199.99,,,E£269.99
+C# Test Automation Engineer - from Zero to Hero,3 coureses in 1! Practical guide to become a Professional QA Automation Engineer in C#/.NET (AQA),4.4,"Instructor:
+Tigran Ter-Karapetyants",13.5,99,All Levels,E£199.99,,,E£269.99
+Unity Android : Build 3D ZigZag Racing Game with Unity & C#,"Learn Unity Android Game Development, Build A Complete 3D ZigZag Racing Game, Monetize with Ads, Publish on Google Play",4.8,"Instructor:
+Raja Biswas",s12,70,Beginner,E£749.99,,,E£999.99
+C# Developer - Windows Forms |ASP.NET Core | MVC | | Entity,Become a C# Developer with: - C# | ASP.NET Core | MVC |Entity Framework |Windows Forms | Visual Studio,4.6,"Instructor:
+Bluelime Learning Solutions",5.5,66,Beginner,E£199.99,,,E£269.99
+UDP Socket Programming For Distributed Computing in C#.Net,"Socket programming tutorial, make chat application in C# .Net, IoT/VoIP distributed applications & network programming",4.4,"Instructor:
+Naeem Akram",s3,50,All Levels,E£199.99,,,E£269.99
+Learn to code by creating 14 projects with JavaScript and C#,Learn to write computer code by creating 14 projects from scratch using JavaScript and C# Programming language,3.2,"Instructor:
+Skill Tree",s12,124,Beginner,E£199.99,,,E£269.99
+Software Design: Functional Programming in C#,Learn the principles of Functional Programming & how to apply them with the power of C# to improve software architecture,3.7,"Instructor:
+Engineer Spock",s4,64,All Levels,E£229.99,,,E£319.99
+Object Oriented Programming with C#,Master your skills with C# using Object Oriented Programming,4.6,"Instructor:
+Ali Raza Sardar Ali",s5,19,All Levels,E£199.99,,,E£269.99
+Python and C# for beginners: Create 12 Projects,Learn Python and C# by building 12 projects,4.2,"Instructor:
+Bluelime Learning Solutions",9.5,90,Beginner,E£199.99,,,E£269.99
+Learn to Code with C# by Creating 7 Complete Apps .,Create 7 Apps from scratch using C# Step by Step.,3.9,"Instructor:
+Tech Academy",s4,44,Beginner,E£229.99,,,E£319.99
+Mastering ASP.NET and ADO.NET with C#,The best course to learn ASP.NET and ADO.NET using C#,4.1,"Instructor:
+Insculpt Technologies",s5,83,All Levels,E£229.99,,,E£319.99
+"CRUD application using C#, PostgreSQL, Windows Forms","CRUD application using C#, PostgreSQL, Windows Forms",4.1,"Instructor:
+Peder Thornstrom",4.5,25,Beginner,E£199.99,,,E£269.99
+C# Basics: Learn to Code the Right Way,"Learn C# Using this Course, Then Move on to Make Windows, Server and .Net Applications!",4.4,"Instructor:
+Grant Klimaytys",1.5,14,Beginner,E£199.99,,,E£269.99
+C# .NET Database and XML Applications,Implementing Real-World Examples,4.4,"Instructor:
+Rick Phillips",s4,15,Intermediate,E£199.99,,,E£269.99
+Learning Path: Application Development with C# and ASP.NET,Learn the tools that equip you to build robust applications and optimize their performance,3.9,"Instructor:
+Packt Publishing",s10,103,Beginner,E£229.99,,,E£319.99
+"Learn ASP NET with Bootstrap,Entity Framework,JavaScript,C#","Learn to Build Production based Web Applications with Microsoft’s ASP.NET, C#, Entity Framework, JavaScript & Bootstrap.",4.4,"Instructor:
+Devwebtuts 24/7",s11,95,All Levels,E£579.99,,,E£779.99
+C# From Nothing to Everything,"The most detailed C# coding tutorial using Visual Studio Community for more than 12,000 students enrolled.",2.9,"Instructor:
+Morad Rawashdeh",14.5,152,All Levels,E£199.99,,,E£269.99
+Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet,Learn to Build Web GIS Applications with C# and ASP.NET CORE,4.4,"Instructor:
+EBISYS R&D",s2,30,All Levels,E£199.99,,,E£269.99
+C# Loops for Beginners,Master The Fundamentals of Loops In C#,4.6,"Instructor:
+T O",s2,24,Beginner,E£199.99,,,E£269.99
+Practical C# From scratch for junior .NET developers,"Complete C# course: covering object oriented programming, classes, collections and all of the fundamental C# features",4.2,"Instructor:
+Jakub Kozera",4.5,47,Beginner,E£199.99,,,E£269.99
+C# Basics - Learn the building blocks of programming,Really learn the basics of C# and think like a programmer,3.2,"Instructor:
+Stephen Mooney",s1,37,Beginner,E£199.99,,,E£269.99
+C#: Coding for Beginners. A Hands-on Approach to Learning,Master the fundamentals of C# by using your knowledge to create applications that will enhance your learning.,4.0,"Instructor:
+Efrain Mendez",s6,36,Beginner,E£229.99,,,E£319.99
+Course 7: Xamarin C# & PowerShell to Automate Network tool,"PowerShell series, Master Network Admin tools creation using Visual Studio 2019, Xamarin, C#, XPath and PowerShell 6",4.1,"Instructor:
+Dante Leo",3.5,39,All Levels,E£199.99,,,E£269.99
+C# Basics : For Absolute Beginners,Learn the core principles of programming in C# with concise tutorials followed by relevant quizzes and projects.,4.3,"Instructor:
+Michael Jachowski",s2,49,Beginner,E£199.99,,,E£269.99
+.NET/C# Beginners Bootcamp,"Learn to develop Websites, Mobile Apps using .NET/C# and Visual Studio",3.9,"Instructor:
+Amr Swalha",11.5,145,Beginner,E£199.99,,,E£269.99
+Student Registration System and Admin Panel in C# Winfom,Student Registration System and Admin Panel in C# Winfom & SQL Server,4.5,"Instructor:
+Software Engineer",8.5,56,All Levels,E£229.99,,,E£319.99
+C# Acceleration with Visual Studio 2017 Community,Learn C# Basics and Fundamentals for Beginners by Coding Practical Examples and Exercises,4.1,"Instructor:
+Tin Huynh",s6,103,Beginner,E£199.99,,,E£269.99
+Learn To Write 2D Games with C# and Unity,Obtain the basics of C# and Unity and move on to creating your first space shooter - complete game with source included,4.0,"Instructors:
+Tim Buchalka's Learn Programming Academy, Goran Lochert",27.5,136,Beginner,E£269.99,,,E£349.99
+Mastering ASP.NET 4 from scratch Using C# - Part 1,Learn How to build Dynamic Web Sites using ASP .NET 4 Step By Step,4.6,"Instructor:
+Kameswara Sarma Uppuluri",s16,116,All Levels,E£229.99,,,E£319.99
+C# Basic and Advanced: Creating a Point of Sale System,Learn from a beginner to be a C# & Database programmer.,4.5,"Instructors:
+Alex Uanvilay, Devtamin Academy",5.5,47,All Levels,E£619.99,,,E£819.99
+C# Anti-Patterns: A List Of Programming Practices To Avoid,"This course will teach you many bad programming practices that every professional developer must know, but never use",4.2,"Instructor:
+Mark Farragher",s3,23,All Levels,E£229.99,,,E£319.99
+WPF & XAML: Build 10 WPF applications (C#) in 2020,Learn XAML and WPF development on 10 projects. WPF/C# programming even for beginners,4.5,"Instructor:
+Luke's Programming School",s6,49,Beginner,E£229.99,,,E£319.99
+Microsoft 70-483: Programming in C# (PART 2 of 2),This course is Part 2 of 2. Please read course description for more information.,4.3,"Instructor:
+Stone River eLearning",9.5,293,All Levels,E£199.99,,,E£269.99
+Build 17 Beginner's Projects with : Python | JavaScript | C#,Easy-to-follow projects for beginners - kick-start your programming skills today!,3.8,"Instructor:
+Bluelime Learning Solutions",20.5,201,Beginner,E£229.99,,,E£319.99
+Fullstack Asp.Net Core MVC & C# Bootcamp With Real Projects,"Learn How To Build an E-commerce app Using Asp.Net Core MVC, C#, HTML, CSS, SASS, BootStrap, And JavaScript",4.2,"Instructor:
+Ebenezer Ogbu",24.5,164,All Levels,E£229.99,,,E£319.99
+Software Developer - C#/OOP/ASP.NET MVC/MS SQL/SQL Server,Build Applications with C#/OOP/ASP.NET MVC/MS SQL/SQL Server,4.2,"Instructor:
+Bluelime Learning Solutions",s12,132,Beginner,E£199.99,,,E£269.99
+Hands-On Parallel Programming with C# 8 and .NET Core 3.0,Boost your .NET Core development with parallel programming concepts,3.9,"Instructor:
+Packt Publishing",1.5,21,Beginner,E£229.99,,,E£319.99
+Oops concepts in C#,Oops Concept in Dot Net,4.3,"Instructor:
+TheDotNet Office",s1,10,Beginner,E£199.99,,,E£269.99
+ASP.NET CORE and C# REST API With Real World Projects,"Learn How To Build Real World, Production Ready REST APIs Using Asp.Net Core and C#",3.8,"Instructor:
+Ebenezer Ogbu",22.5,161,All Levels,E£549.99,,,E£729.99
+Create a Notepad Application with C# and Visual Studio,Build a Notepad App that you and others can use everyday.,3.5,"Instructor:
+Bluelime Learning Solutions",s2,21,Beginner,E£199.99,,,E£269.99
+Xamarin iOS - A Master Guide to App Development in C#,"Complete Xamarin.iOS Reference for Building iOS Apps in C#. Web Calls, Images, Controls, Animations and Much More!",4.6,"Instructor:
+Grant Klimaytys",7.5,95,All Levels,E£629.99,,,E£849.99
+Clean Code in C#: Write Readable and Maintainable Code,Clean Code Commando: Refactor Messy Into Clean & Maintainable Code | Best Practices for Developers | Step-By-Step Guide,3.8,"Instructor:
+Kristijan Kralj",s4,54,All Levels,E£199.99,,,E£269.99
+Coding for beginners with C#,Learn to code using C# from scratch,4.0,"Instructor:
+Digital Learning Academy",s2,27,Beginner,E£199.99,,,E£269.99
+C# & .Net used effectively in day to day work- includes LINQ,"JSON.NET, I/O, Strings, LINQ and other often used classes and concepts will be teached in this course",4.4,"Instructor:
+Timo | C# Development | .NET | DevOps",3.5,65,Intermediate,E£199.99,,,E£269.99
+C# & Unity By Example : 20+ Mini Game Development Projects,Learn C# scripting by Building Games with Unity . Build 20+ Mini Projects with C# Scripting for Unity Game Development,4.3,"Instructor:
+Raja Biswas",s13,65,Beginner,E£199.99,,,E£269.99
+Full Guide To Unity 3D & C#: Learn To Code Making 3D Games,Learn Unity 3D Engine (2024) and C# Programing By Creating A Fun 3D Rocket Ship Platformer Using Unity 3D Physics,4.7,"Instructor:
+Michael Murr",s9,41,Beginner,E£199.99,,,E£269.99
+Complete 35 Projects: Unity VR Games with C# & iPhone Apps,"+Make 3D models in Blender, get 2 free books, & 6 webinars! C#, Swift, Xcode, virtual reality, hangman, calculator +MORE",4.3,"Instructors:
+Mammoth Interactive, John Bura",s108,424,Beginner,free,,,E£269.99
+Software Test Automation - C#,Build a complete software test automation framework,4.4,"Instructor:
+Best Test Automation",s4,38,All Levels,E£199.99,,,E£269.99
+LINQ in C#: A Beginner's Guide,A guide to learning LINQ query & method syntax and its applications,4.0,"Instructor:
+Praveenkumar Bouna",s5,71,Beginner,E£199.99,,,E£269.99
+"Object-Oriented Programming for beginners: Python, C++, C#","Learn Object Oriented Programming with Python, C++, C#",4.6,"Instructor:
+Bluelime Learning Solutions",s6,58,Beginner,E£199.99,,,E£269.99
+Program a Screen-Capture Tool in C#,Develop a screen-grab tool using C# and the Windows API,4.5,"Instructor:
+Huw Collingbourne",s2,28,Intermediate,E£229.99,,,E£319.99
+C# Tutorial for Complete Beginners from Scratch,"If you’re ready to buckle down and learn C# programming, here’s where you should start.",3.5,"Instructor:
+Yogesh Patel",s7,48,All Levels,E£229.99,,,E£319.99
+An Introduction to C# with Visual Studio Community 2019,An Introduction to C# That is Not Overly Simplified,4.2,"Instructor:
+T O",s8,77,Beginner,E£199.99,,,E£269.99
+C# in Depth: A Comprehensive Course (Beginner-To-Advanced),"The most detailed course on C# for Beginners and Advanced Level i.e Lambda Expressions, LINQ, Extension Methods & OOP",3.6,"Instructor:
+TELCOMA Global",s8,112,All Levels,E£199.99,,,E£269.99
+Understanding SOLID: Learn SOLID Design for C# Course,The complete guide to great design for C# programmers,4.4,"Instructor:
+Chuck McCullough",2.5,16,Intermediate,E£199.99,,,E£269.99
+Build a Idle Clicker Business Sim: Unity C# Game Development,Learn Unity and C# Design Patterns by building a fun Idle Business Game Similar to ADVenture Capitalist!,4.5,"Instructor:
+Odoo Class Videos",s14,68,All Levels,E£229.99,,,E£319.99
+50 Things You've Been Doing Wrong in C# and .NET Core,Avoid common C# mistakes to improve your apps' productivity,3.9,"Instructor:
+Packt Publishing",s3,51,Beginner,E£199.99,,,E£349.99
+"ASP NET Core,MVC,C#,Angular, ChatGPT & EF Crash Course","Learn How To Build Cross Platform Web Apps in ASP.NET Core Utilizing MVC, C#, Web Api, Angular & Entity Framework Core",3.6,"Instructor:
+Devwebtuts 24/7",22.5,262,All Levels,E£519.99,,,E£679.99
+Complete C# Unity Developer: Create Games and Learn to Code,"Game development & design taught by using Unity. Learn C# and build your first games for web, mobile and desktop.",4.2,"Instructors:
+Denis Panjuta, Tutorials.eu by Denis Panjuta",22.5,159,All Levels,E£199.99,,,E£269.99
+Become a full-stack C# developer,"Blazor, API development, SQL server in one course - slow paced",4.0,"Instructor:
+Taurius Litvinavicius",s11,56,Beginner,E£199.99,,,E£269.99
+Learn C#: Make a Databased App with Entity Framework,Learn how to create an application in C# that can generate it's own database using Entity Framework and Code First.,4.3,"Instructor:
+MPire Training",2.5,24,Intermediate,E£199.99,,,E£269.99
+Masterclass in C# Programing & Unity 3D Game Development FPS,Master Unity Engine (2024) and C# Programing By Creating A First Person Shooter Using Modern Unity Development Technics,4.3,"Instructor:
+Michael Murr",15.5,63,All Levels,E£199.99,,,E£269.99
+Learn C# Programming from Scratch: Build 13 Console Apps,In this course you will learn C# programming language from scratch including 13 projects and with 100s of examples,3.2,"Instructor:
+Ubaid Kazi",1.5,21,All Levels,E£199.99,,,E£269.99
+Programming C# 6: Fundamentals,Programming C# 6: Fundamentals,4.3,"Instructor:
+Stone River eLearning",s7,77,All Levels,E£199.99,,,E£269.99
+C# Programming For Beginners With Windows Form,C# Programming For Beginners with Windows Form Application and Also Develop Project With Database.,3.5,"Instructor:
+Software Engineer",15.5,88,Beginner,E£229.99,,,E£319.99
+"Build Database Driven Apps with : SQL Server , C# , Python",Practical Front & Backend Application Development,4.2,"Instructor:
+Bluelime Learning Solutions",5.5,52,Beginner,E£549.99,,,E£749.99
+Beginners Guide To C# With Visual Studio 2017,Learn Real C# with Windows Forms!,4.3,"Instructors:
+T O, Miles Turnbull",6.5,35,Beginner,E£199.99,,,E£269.99
+"Data Structure, Algorithm & Design Pattern in C# & .NET Core",Implement basic data structures and algorithms in C# to code faster by implementing high-quality design patterns,3.6,"Instructor:
+Packt Publishing",7.5,49,Beginner,E£199.99,,,E£269.99
+Advanced C# - Learn from Open Source|Create Project List<T>,Let us learn advanced C# concepts by building List from scratch using .net framework source code as reference,3.7,"Instructor:
+Venkatesh Muniyandi",2.5,18,Intermediate,E£199.99,,,E£269.99
+Create Windows Forms Applications With C# and Visual Studio,Build Windows Forms (Winforms) Applications from scratch.,3.9,"Instructor:
+Bluelime Learning Solutions",s2,25,Beginner,E£199.99,,,E£269.99
+Rogue-Like In C# Programing & Unity 2D Game Development,Master Unity 2D Engine (2023) and C# Programing By Creating A Roguelike Game Using Modern Unity Development Technics,4.4,"Instructor:
+Michael Murr",s24,102,Beginner,E£199.99,,,E£269.99
+C# Data Structures and Algorithms,Implement algorithms and data structures for real-world problems in C# and .NET Core and become a better programmer,3.7,"Instructor:
+Packt Publishing",4.5,20,Intermediate,E£229.99,,,E£319.99
+Object-Oriented Programming using C# for beginners,Learn how to write your own classes and create objects from them.,4.0,"Instructor:
+Bluelime Learning Solutions",2.5,26,Beginner,E£199.99,,,E£269.99
+ASP.NET C# - Enterprise Web Systems From Novice to Expert,Web Programming Course for Building a Real Enterprise Web Systems and Websites from Point Zero Using ASP.NET C#.,3.3,"Instructor:
+Mohammed Wuhaidi",3.5,43,All Levels,E£199.99,,,E£269.99
+OOP C# Programming with Visual Studio,Learn OOP C# programming techniques and methods with Object Orientated Programming,4.0,"Instructor:
+Programming Tut",s1,10,Intermediate,E£229.99,,,E£319.99
+Unity & C# - Build A Complete 2D Mobile Platformer Game,Learn How to Develop a Complete 2D Mobile Platformer Game in Unity C# From Start to Launch in Google Play Store,4.0,"Instructor:
+AbleAppsDev .",s20,146,All Levels,E£749.99,,,E£999.99
+Basic C# Programming with Visual Studio,Take your first step into the world of programming with this beginner course on C#. Become a programmer today!,4.4,"Instructor:
+Programming Tut",1.5,15,Beginner,E£199.99,,,E£269.99
+C# 7 and .NET Core Solutions,"Quick solutions to common programming problems with the latest features of C# 7.0, .NET Core 2.0, and Visual Studio 2017",3.7,"Instructor:
+Packt Publishing",3.5,50,Intermediate,E£199.99,,,E£269.99
+The Art of Zapping Bugs - C# Debugging with Visual Studio,Strategic C# Debugging with Visual Studio,3.9,"Instructor:
+Patrick C. Cook",s3,18,All Levels,E£199.99,,,E£269.99
+C# 7 and .NET Core 2.0 Recipes,Catch up with the latest improvements in C# and .NET Core,4.4,"Instructor:
+Packt Publishing",5.5,44,Beginner,E£229.99,,,E£319.99
+Learn To Program Tic-Tac-Toe with C# and Visual Studio,Build a complete desktop game in Winforms using Visual studio and C#.NET on Windows!,4.0,"Instructor:
+Mohammad El-Haj",s1,16,Intermediate,E£199.99,,,E£269.99
+Unity Game Projects : 20+ Mini Projects in Unity & C#,Learn Unity Game Development & C# Scripting by Building 20+ Mini Game Development & Design Projects,4.3,"Instructor:
+Raja Biswas",10.5,52,Beginner,E£229.99,,,E£319.99
+Beginning Modern C# and .NET Development,Build your understanding of the C# language and the .NET Core Framework to create robust cross-platform applications,3.7,"Instructors:
+Packt Publishing, Reynald Adolphe",s6,37,Intermediate,E£229.99,,,E£319.99
+Modern App Development with C# 8 and .NET Core 3.0,"Build amazing cross-device and cross-platform applications—web, mobile, and desktop alike with new C# and .NET Core",4.4,"Instructor:
+Packt Publishing",5.5,38,Intermediate,E£199.99,,new,E£269.99
+C# data access: from ADO.NET to EF and Dapper,"Learn basics of SQL Access with ADO.NET, Dapper, Entity Framework. NoSQL with Mongo and Redis. Also: DAL patterns",3.6,"Instructor:
+Timo | C# Development | .NET | DevOps",s3,52,Beginner,E£199.99,,,E£349.99
+Web Development with Asp.Net Using C# MS SQL Database Basic,"Asp.Net Using C#, Learn SQL Server, Make Yourself Web Developer, beginners to advance Tutorial, make own Dynamic website",3.0,"Instructor:
+Sachin Srivastava",s4,42,Beginner,E£199.99,,,E£269.99
+Learn C# Programming For Absolute Beginners From Scratch,Learn C# from scratch with easy to follow lectures that you can code along with.,4.3,"Instructor:
+Bluelime Learning Solutions",6.5,,Beginner,E£229.99,,,E£319.99
+Unity 5 Professional Guide - Mastering C# Programming!,"Is coding that complicated to you? Well, let's make it simple! Learn the basics of interface up to becoming a code pro!",4.1,"Instructor:
+José Augusto Thomas",10.5,45,All Levels,E£199.99,,,E£269.99
+Create Your WebBrowser: Learn C# Fundamentals Practically,A practical guide to learn the fundamentals of C# programming and developed your own web browser program.,2.9,"Instructor:
+Goh Ming Hui",4.5,86,All Levels,E£229.99,,,E£319.99
+Learn C# Coding with Unity (for Virtual Reality projects),"Take your first steps towards becoming a VR developer, prototyper or designer!",4.3,"Instructor:
+XR Bootcamp",6.5,27,Beginner,E£349.99,,,E£479.99
+The Complete Course of LINQ and C# Programming 2023,"Learn LINQ like a Professional. Become an expert in LINQ, C# Programming and SQL. From ZERO to HERO!",3.9,"Instructor:
+Tools Academy",8.5,36,All Levels,E£199.99,,,E£269.99
+Zero to Master C#.Build Professional Web Sites,"Master At C# Learn .Net,.Net Core and Microservices",3.6,"Instructor:
+Davud Mamedovi",1.5,13,Intermediate,E£199.99,,,E£269.99
+C# 7 & .NET Core 2.0 Programming: From Beginner to Developer,Unleash the power of C# 7 and .NET Core 2.0 to build high performance web applications,3.3,"Instructor:
+Packt Publishing",s9,86,Intermediate,E£199.99,,,E£269.99
+Learn C# by Creating a Fun Life Simulator Game in Unity,Learn Important C# Game Design Principals by making a Fun Life Simulator game.,4.4,"Instructor:
+Odoo Class Videos",3.5,14,All Levels,E£229.99,,,E£319.99
+Complete C# Unity Developer 3D:Ultimate Guide For Begginers,"Your first 3D Unity games for web, Mac & PC.",4.3,"Instructor:
+Moditha Damindu",22.5,104,Beginner,E£199.99,,,E£269.99
+C# and .NET - Advanced topics,Become a better .NET developer by learning the internals of the .NET Framework,4.0,"Instructor:
+Gergely Kalapos",1.5,14,Intermediate,E£199.99,,,E£269.99
+Intro to C# Programming and Scripting for Games in Unity,Learn the principle fundamentals of scripting and coding with the C# language for games inside of Unity!,3.6,"Instructor:
+3dmotive LLC",s4,61,Intermediate,E£199.99,,,E£269.99
+Learn Unity Engine and C# by creating a real top down RPG,Learn Unity engine and C# while developing a fast and efficient workflow for creating a top down RPG and future projects,4.0,"Instructor:
+Michael Doyon",s8,51,Beginner,E£229.99,,,E£319.99
+Complete Unity C# & Android game development Bootcamp 2020,Learn how to make indie games(Android and iOS) by using Unity and C#,3.5,"Instructors:
+Mohammed Khan, Mohammed Khan",s14,83,All Levels,E£199.99,,,E£269.99
+Unity 2D and 3D Games From Scratch and learn C# Scripting,"Learn Unity and C# & Code Your First 2D and 3D Video Games for Web, Mac & PC.All you need to know to master Unity.",4.2,"Instructor:
+Raja Haris",16.5,92,All Levels,E£199.99,,,E£269.99
+Design pattern in C# by using professional examples,"Concepts, class diagram along with professional examples to understand design patterns with C# and .NET",3.9,"Instructor:
+Ahemad Ali Khan",s11,73,All Levels,E£199.99,,,E£269.99
+"How to setup PayPal ""Buy Now"" button with ASP.NET (C#)","Learn how to create a ""Buy Now"" button at PayPal and create an IPN listener (asp.net webpage) to handle the IPN messages",3.8,"Instructor:
+Lin Zhang",s1,12,All Levels,E£199.99,,,E£269.99
+Learn to Code with C# and visual studio,Learn to write your own computer code using C# and visual studio,3.7,"Instructor:
+Skill Tree",2.5,29,Beginner,E£229.99,,,E£319.99
+Building a Car Racing Game in Unity using C#,"Use Unity and C# to build a Car Racing Game featuring 3D cars, immersive levels, realistic car physics logic, and more!",4.4,"Instructor:
+Robert Gioia",2.5,49,Beginner,E£199.99,,,E£269.99
+C# Simply Master in Less Than a Day,Innovative easy way of teaching that will enable you to learn and master C# in ASP.NET,3.8,"Instructor:
+Thirucumaran N",5.5,39,All Levels,E£199.99,,,E£269.99
+Entity Framework core: SQL Data Access with C# & .Net,"Master Code & Db First Approach, Query API, Migrations & all Concepts of Entity Framework core with C# & .Net",3.6,"Instructor:
+Timo | C# Development | .NET | DevOps",s5,57,Beginner,E£199.99,,,E£269.99
+Build a Math Quiz App with C# and Visual Studio from scratch,Practical and useful educational app,3.8,"Instructor:
+Bluelime Learning Solutions",1.5,25,Beginner,E£229.99,,,E£319.99
+C#.Net Core With World Class Practice,C#.Net from Basic to Ninja!,3.6,"Instructor:
+DIGIFLAX E-LEARNING",s1,20,All Levels,E£199.99,,,E£269.99
+Learn to code in c# in unity 3d in 1 hour for beginners,Most of John Bura's courses are on sale for 9 dollars! https://www.udemy.com/u/johnbura/ Sale ends Oct 31 2013! Act now!,4.1,"Instructor:
+John Bura",s1,26,Beginner,E£229.99,,,E£319.99
+C# 8 and .NET Core 3.1 Recipes - Second Edition,"Leverage C# 8, .NET Core 3.1 and Visual Studio 2019 to build fast, enterprise-ready scalable web apps",3.7,"Instructor:
+Packt Publishing",3.5,40,Beginner,E£229.99,,,E£319.99
+C# Scripting for Unity Game Development,Learn to how to write and attach C# script to unity game objects from scratch,3.1,"Instructor:
+Bluelime Learning Solutions",3.5,41,Beginner,E£199.99,,,E£269.99
+Fundamentals of Programming: Understanding C#,Begin your journey into the world of programming through a series of easy to understand video lectures.,4.5,"Instructor:
+Jesse Dietrichson",10.5,,All Levels,Free,,,
+Getting Started with C#,Learn all you need to know to get started with C#,4.3,"Instructor:
+Ervis Trupja",3.5,37,Beginner,Free,,,
+Programming Fundamentals - The Basics with C# for Beginners,"Learn the basics of programming with C#, this course is perfect for beginners.",4.7,"Instructor:
+Tod Vachev",s2,18,Beginner,Free,,,
+Basics of Object Oriented Programming with C#,"This course will introduce you to the Basics of OOP with C#, followed by a Project to Practice - Warrior Wars!",4.4,"Instructor:
+Tod Vachev",1.5,22,All Levels,Free,,,
+C# From Beginner To Pro - Write A WindowsUI Style App Form,Learn C# By Doing It In Winforms,4.4,"Instructor:
+Cindy Oakes",7.5,49,All Levels,Free,,,
+Learn C# Programming With Database from Scratch,Detailed C# Programming with Database,4.8,"Instructor:
+Maxwell Taprah",s2,10,All Levels,Free,,,
+C#: Start programming with C# (for complete beginners),C# programming for complete beginners. Create first application within few hours!,4.5,"Instructor:
+Luke's Programming School",3.5,36,Beginner,Free,,,
+C# For Absolute Beginners.,Lean the build console apps in C#,4.5,"Instructor:
+Eric Lane",1.5,20,Beginner,Free,,,
+What's New In C# 9,Dive into all of the new features in C# 9!,4.3,"Instructor:
+Wade Gausden",,21,Beginner,Free,,New,
+What is New in C# 8,Learn all the new features and small enhancements added to C# 8 with easy examples,3.9,"Instructor:
+Ahmad Mohey",s2,19,Intermediate,Free,,New,
+C# Refactoring | Powerful code optimization,Introduction to the code refactoring practice in C#,4.2,"Instructor:
+Max Media",1.5,14,Beginner,Free,,,
+Complete guide to C# programming language,"Learn programming using C#, Core concepts related to C#, oops concepts",4.1,"Instructor:
+Sajal Das",s2,14,Beginner,Free,,,
+API and Database Testing with Specflow and C#,Understanding and building API and database testing from groundup,4.5,"Instructor:
+Karthik KK",1.5,10,All Levels,Free,,,
+The complete algorithms course in C# and .Net,Learn the fundamentals of C# and improve your algorithmic skills to become a well paid developer. Let's code in C#!,3.8,"Instructor:
+Balázs Koncz",s5,26,Beginner,Free,,,
+First Steps in Programming with C# for Beginners,Learn Coding by Examples and by Solving Practical Problems with C# and Visual Studio,4.1,"Instructors:
+Svetlin Nakov, Preslav Mihaylov",s2,8,Beginner,Free,,,
+C#.Net Basics Programming Step by Step for Beginners-Part-01,"Learn C# Programming, the techniques to write better C# code and stand out in technical interviews",3.6,"Instructor:
+RN Reddy IT School",s2,21,All Levels,Free,,,
+Basics of LINQ with C# for Beginners,"LINQ with C# for Beginners, Both Query and Method Syntaxes are covered!",4.6,"Instructor:
+Tod Vachev",1.5,14,Beginner,Free,,,
+CRUD C#.Net with Entity Framework,Create Windows App CRUD C#.Net with Entity Framework,4.2,"Instructor:
+Harry C.",1.5,12,Intermediate,Free,,,
+Learning Unity c# scripting For beginners,"In this course, Chebbi Tawfik goes over the basics of how to create, modify, and attach scripts in Unity. Tawfik focuses",3.5,"Instructor:
+Chebbi Tawfik",,8,Beginner,Free,,,
+Understanding Data Structures using C#,Learn Data structure and algorithms using C#,3.7,"Instructor:
+SkillBakery Studio",1.5,23,All Levels,Free,,,
+.Net Basic Course - Introduction to .net with programming,C-Sharp Basics,4.1,"Instructor:
+Sravanthi Venishetty",1.5,15,Beginner,Free,,,
+C# Complete Master Course (Updated to C# 10),"Learn How To Code in C#. Dive into The Language Ins and Outs and Best Practices. For Windows, Mac and Linux.",4.5,"Instructor:
+Driss CHARQI",20.5,343,Beginner,E£199.99,,,E£269.99
+Master Fullstack Web Development with Angular and C# ASP.NET,"Learn web development with C#, ASP.NET, Angular 14 and Unit Testing in only 21 days to become a full-stack web developer",4.3,"Instructors:
+Denis Panjuta, Tutorials.eu by Denis Panjuta, Jannick Leismann",s12,167,Intermediate,E£749.99,,,E£999.99
+C# for Starters: Everything you need to know,"C# Fundamentals for Success in C#: Variables, Strings, Operators, Loops, and More",4.1,"Instructor:
+Jonas Wagner",s5,32,All Levels,E£199.99,,,E£269.99
+Build an app with ASPNET Core and Angular from scratch,A practical example of how to build an application with ASP.NET Core API and Angular from start to finish,4.6,"Instructor:
+Neil Cummings",35.5,280,Beginner,E£229.99,,Bestseller,"E£1,199.99"
+"What's New in C#7, C#8, C#9 and C#10","Learn about latest features of C#7, C#8, C#9 and C#10",4.5,"Instructor:
+Dmitri Nesteruk",s5,41,Beginner,E£219.99,,New,E£319.99
+Unit Testing For Unity 2022 & C# - Lifetime Access,Learn Unit Testing & Test-Driven-Development (TDD) | Unity-Specific Approach | Sample Projects & C# Source-Code,4.6,"Instructor:
+Samuel Asher Rivello",4.5,51,Intermediate,E£199.99,,New,E£849.99
+Learn to build an e-commerce app with .Net Core and Angular,"Build a proof of concept e-commerce store using Angular, .Net and Stripe for payment processing",4.7,"Instructor:
+Neil Cummings",34.5,317,Intermediate,E£269.99,,Bestseller,"E£1,599.99"
+The Ultimate Guide to Creating an RPG Game in Unity,Level up your C# and Unity knowledge and create your very own RPG game.,4.8,"Instructor:
+Alex Dev",s38,188,All Levels,E£749.99,,,E£999.99
+C# Software Development for Absolute Beginners,A beginner friendly way to learn C# programming,4.3,"Instructor:
+Sean Gee",12.5,80,Beginner,E£199.99,,,E£269.99
+Complete 2D Platformer in Unity C#,Game development made easy. Learn C# with Unity and create your very own 2D Platformer!,4.7,"Instructor:
+James Doyle",s15,120,Beginner,E£199.99,,new,E£849.99
+Design Patterns for Game Programming,An exploration of robust modularised code building for games with Unity 2019 and C#.,4.8,"Instructors:
+Penny de Byl, Penny @Holistic3D.com",s9,38,Beginner,E£199.99,,,E£849.99
+Gentle Introduction to C# Fundamentals,"Learn How to Build C# App, Not Just C# Code Syntax",4.7,"Instructor:
+Layman Academy",6.5,68,Beginner,E£579.99,,new,E£779.99
+TDD Fundamentals in C#,This course covers the fundamentals of Test Driven Development using C# as the language of practice,5.0,"Instructor:
+DevFluence .",10.5,73,All Levels,E£749.99,,,E£999.99
+ASP.NET MVC : Complete Practical Guide (.NET 7) | C# Web Dev,The best ASP.NET MVC Course providing practical real world example of creating ASP.NET MVC Website with Entity Framework,4.7,"Instructor:
+Sameer Saini",12.5,82,All Levels,E£749.99,,,E£999.99
+Unity 2D Dungeon Gunner Roguelike Development Course,Build a sophisticated 2D Roguelike Dungeon Shooter game using the Unity game engine and C# in this intermediate course.,4.6,"Instructor:
+Rob Ager",s51,164,Intermediate,E£199.99,,,E£999.99
+C# Tutorial: Full Course For Beginners - Fundamentals of C#,"Taught as a course in a University, this course will teach you C# programming from scratch to beginner / advanced level.",5.0,"Instructor:
+Furkan Gözükara",w25,16,Beginner,E£199.99,,,E£269.99
+Learn To Create a Card Combat Game With Unity & C#,Game development made easy. Learn C# using Unity and create your own card battling game!,4.7,"Instructor:
+James Doyle",s10,79,Beginner,E£199.99,,,E£269.99
+Asp.Net Core : The Complete Guide To Build RESTful Api's,"Learn to build secure RESTful Api's with Asp.Net Core, Entity Framework and C# with .NET 7 2023",4.4,"Instructor:
+Asfend Yar Hamid",s8,135,All Levels,E£199.99,,,E£999.99
+Learn To Create An RPG Game In Unity,Game development made easy. Learn C# using Unity and create your very own classic RPG!,4.7,"Instructor:
+James Doyle",s18,117,All Levels,E£269.99,,,"E£1,199.99"
+Refactoring to Design Patterns by Example,Improving internal design of an existing application with refactoring techniques and design patterns in C#,4.5,"Instructor:
+Zoran Horvat",4.5,51,Intermediate,E£199.99,,Bestseller,E£849.99
+The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero,Become a dbt™ professional with this ALL-IN-ONE COURSE covering both theory & practice through a real-world project!,4.5,"Instructors:
+Zoltan C. Toth, Miklos (Mike) Petridisz",6.5,94,All Levels,E£749.99,,Bestseller,E£999.99
+Offensive C#,Build your own hacking tools with C#,4.2,"Instructor:
+Naga Sai Nikhil",19.5,63,All Levels,E£349.99,,,
+Learn To Create A Vampire Survivors Style Game in Unity & C#,Game development made easy. Learn C# using Unity and create your own avoidance survival game!,4.8,"Instructor:
+James Doyle",11.5,88,Beginner,E£619.99,,,E£819.99
+Unity C# Scripting Intermediate - Upgrade Your C# Skills,"Unity C# Scripting Intermediate - Upgrade Your C# Skills , Learn Advanced C# Programming for Unity Game Development",4.3,"Instructor:
+Raja Biswas",s8,38,Intermediate,E£199.99,,,E£269.99
+Learn Unity C# for beginners,Start making games in Unity by learning the basics of Unity C# scripting,4.7,"Instructor:
+Pete Jepson",s10,73,Beginner,E£199.99,,,E£269.99
+Top 300 .NET & Angular Interview Questions - Fullstack,C# / OOPS / ASP.NET MVC / ADO NET / EF / SQL Server / Web API / .NET Core / Angular (with PDF Book),4.7,"Instructor:
+Happy Rawat",13.5,342,All Levels,E£199.99,,,E£999.99
+Fast C# .NET Core Live Project in Windows Forms and SQL,Real World Project From Scratch by Windows Forms - C# Net Core 6 by SQL Database - Crystal Reports,4.8,"Instructor:
+Mega Learning",s38,162,All Levels,E£619.99,,,E£819.99
+Unity 2D Game Developer Course Farming RPG,Build the core systems for a 2D Farming RPG game using the Unity game engine and C# in this intermediate Unity course.,4.4,"Instructor:
+Rob Ager",44.5,101,Intermediate,E£579.99,,,E£779.99
+Fast C# by Windows Forms to Create Pro Windows Apps,Easily and deeply learn the C# by Creating Apps for Windows - Beginners to advance topics,4.4,"Instructor:
+Mega Learning",85.5,705,All Levels,E£549.99,,,E£749.99
+Learn To Create A Roguelike Game In Unity,Game development made easy. Learn C# using Unity and create your very own classic RPG!,4.8,"Instructor:
+James Doyle",19.5,124,All Levels,E£749.99,,,E£999.99
+C# Object-Oriented Programming Fundamentals,"Learn C#, object-oriented programming (OOP), Classes, Properties, Methods, Generics and Collections.",4.8,"Instructor:
+Paul D. Sheriff",2.5,93,Beginner,E£749.99,,,E£999.99
+Master C# Scripting for Unity Game Development in 30 Days,"Learn Something New Everyday for 30 Days , Master C# Scripting for Unity 2023 Game Development Step By Step",5.0,"Instructor:
+Raja Biswas",23.5,112,Beginner,E£199.99,,New,E£849.99
+Fast WPF in C# Windows Presentation Foundation for Beginners,"Easily Learn WPF in C# to Design Real Apps , MVVM , SQL in WPF for beginners , XAML & Windows Presentation Foundation",4.3,"Instructor:
+Mega Learning",60.5,338,All Levels,E£599.99,,,E£799.99
+C# Win Forms Flappy Bird Hunting Game OOP Master Class in VS,"Time to hunt the elusive flappy birds by making this new interactive game with C#, Windows Form, .Net in Visual Studio",4.8,"Instructor:
+MOO ICT",3.5,9,All Levels,E£579.99,,new,E£779.99
+End to End Test Automation with Playwright (TS/C#/Java),Master web app automation with Playwright's modern approach and multiple language bindings - Updated 2023 with v1.38,4.7,"Instructor:
+Karthik KK",14.5,146,All Levels,E£319.99,,,
+A Beginner's Guide To Machine Learning with Unity,"Advanced games AI with genetic algorithms, neural networks & Q-learning in C# and Tensorflow for Unity",4.3,"Instructors:
+Penny de Byl, Penny @Holistic3D.com",s13,76,Intermediate,E£749.99,,,E£999.99
+C# Complete Beginner's Guide,We've designed the course with your needs in mind | Smooth Learning Experience | Learn Faster And Easier!,4.8,"Instructor:
+Saleh Zarei",11.5,312,Beginner,E£629.99,,,E£849.99
+C# Fundamentals,"Learn C#, Syntax and Programming, Language Constructs, Variables, Looping, and Exceptions.",4.4,"Instructor:
+Paul D. Sheriff",s4,113,Beginner,E£199.99,,,E£269.99
+TDD in C# From A to Z,Grow software by TDD with SpecFlow + TestStack White. Learn test-driven development and improve unit testing skills!,4.4,"Instructor:
+Engineer Spock",9.5,83,All Levels,E£229.99,,,E£319.99
+"Learn Automation Framework with Specflow, Selenium, C#, BDD","BRAND NEW : LOW-CODE/NO CODE Framework with Design Patterns (Builder, Strategy, Singleton, Dependency Injection, IoC)",4.6,"Instructor:
+Singh Trainer",s29,114,All Levels,E£619.99,,NEW,E£819.99
+"Learn Asp Net C#, MySQL and JavaScript for web developers","Developers complete course for web design, development, coding and database",4.9,"Instructor:
+Metla Sudha Sekhar",s21,158,All Levels,E£199.99,,,E£269.99
+How to Program Voxel Worlds Like Minecraft with C# in Unity,A comprehensive guide to blocky mesh building for procedurally-generated worlds updated for Unity 2020+.,4.7,"Instructors:
+Penny de Byl, Penny @Holistic3D.com",18.5,128,Intermediate,E£749.99,,,E£999.99
+IELTS Complete Preparation for (Academic & General),"Are you taking the IELTS TEST? Then this is the only video course you need*we cover Reading,Writing,Listening & Speaking",4.6,"Instructor:
+Christian C C",18.5,56,All Levels,E£749.99,,,E£999.99
+Dependency Injection in ASP.NET,Master Dependency Injection in .NET and ASP.NET using C# + Interview Questions,4.4,"Instructor:
+Aref K.",s2,24,All Levels,E£529.99,,,E£719.99
+C# API Test Automation,REST & SOAP APIs,4.9,"Instructor:
+Linh Hoang",s1,25,Beginner,E£579.99,,,E£779.99
+Snowflake Masterclass[stored proc+demos+Best practices+Labs],Master snowflake cloud data-warehouse with hands on exercises from real time expert.,4.4,"Instructor:
+Pradeep H C",s24,316,All Levels,E£199.99,,,E£269.99
+ASP.NET Core Web API Bootcamp - Build REST APIs with C# .NET,"Learn ASP.NET Core Web API, Entity Framework Core, LINQ, Minimal Web API, .NET 7, C#, SQL, Azure Hosting, OAuth 2.0",4.3,"Instructor:
+Lasse Klüver",s11,104,All Levels,E£629.99,,,E£849.99
+Learn Advanced C# Scripting in Unity 5 for Games,Learn advanced and powerful C# scripting techniques for building professional-grade games in Unity,4.7,"Instructor:
+3dmotive LLC",5.5,66,Intermediate,E£199.99,,,E£269.99
+Learn To Create a Match-3 Puzzle Game in Unity,Game development made easy. Learn C# using Unity and create your own puzzle game!,4.6,"Instructor:
+James Doyle",6.5,48,Beginner,E£229.99,,,E£999.99
+Learn GraphQL with .Net Core For Absolute Beginners,"Learn to build Real World Project with GraphQL , .Net Core , Entity Framework Core and C#",4.4,"Instructor:
+Asfend Yar Hamid",6.5,107,All Levels,E£219.99,,,E£819.99
+PMP Certification: 35+ PDU Formal PMP Exam Prep_New PMP 2023,PMPⓇ Certification: 42 PDU PMP Exam Complete Training / Get the PMP Project Management Certification on the first try!,4.6,"Instructor:
+Sabri C. PMP | 120,000+ Enrollments Worldwide",s42,363,All Levels,"E£1,199.99",,New,"E£1,599.99"
+Learn Restful Api's with Asp.Net Core 5.0 2022,"Learn to build Secure Real World Cinema RESTful Api's with Asp.Net Core , Entity Framework Core and C#",4.8,"Instructor:
+Asfend Yar Hamid",4.5,83,All Levels,E£229.99,,,E£319.99
+Learn C# Basics by Building Your Own Bot (ChatGPT enabled),Learn C# from scratch by building a chatbot windows application which using OpenAI's GPT3 model,4.0,"Instructor:
+Tom Liao",15.5,65,Beginner,E£199.99,,,E£269.99
+Learn To Create a Turn-Based Strategy Game With Unity & C#,Game development made easy. Learn C# using Unity and create your own strategy action game!,4.5,"Instructor:
+James Doyle",s13,89,Beginner,E£199.99,,,E£269.99
+"Object Oriented Analysis, Design & Programming with UML","Learn OO Analysis, Design & Programming using UML in C++, Java & C#",4.4,"Instructor:
+Umar Lone",10.5,126,All Levels,E£749.99,,Bestseller,E£999.99
+Programming in Blazor - ASP.NET Core 5,Create interactive web applications with C#,4.4,"Instructor:
+Felipe Gavilán",16.5,143,Intermediate,E£229.99,,,E£319.99
+Program a Media-Player in C#,Create a video and audio-player using C# and the Windows Presentation Foundation (WPF),4.7,"Instructor:
+Huw Collingbourne",s2,35,Intermediate,E£229.99,,,E£319.99
+Procedural Terrain Generation with Unity,Programming realistic environments with C# through the algorithmic manipulation of mesh and vegetation data.,4.2,"Instructors:
+Penny de Byl, Penny @Holistic3D.com",s15,86,Intermediate,E£749.99,,,E£999.99
+Programming AutoCAD with SQL Server Database using C#,Programming AutoCAD .NET API with SQL Server Database integration using C#. You will perform database CRUD operations,4.6,"Instructor:
+Arnold Higuit",s8,100,Intermediate,E£199.99,,,E£999.99
+Using SOLID Principles to Write Better Code - A Crash Course,"Software Architecture: A rapid, hard-hitting introduction to designing great object-oriented code in Java, C# and more.",4.4,"Instructor:
+Riaan Nel",s1,11,All Levels,E£199.99,,,E£269.99
+LeetCode Solutions using Algorithms and Data Structure in C#,Learn and understand how to solve LeetCode problems using different algorithms and data structure to crack IT interviews,5.0,"Instructor:
+Harshit Gindra",s13,77,Beginner,E£629.99,,,E£849.99
+Flow Control in C# [Exercises],Improve your Understanding through Extensive Practice,5.0,"Instructor:
+life michael",,11,Beginner,E£199.99,,,E£269.99
++100 C# technical interview practice tests & exercises,Test your C# skills & be more prepared for technical interviews with practice exams & modern interview questions,3.3,"Instructor:
+Badran Yahyaoui",,,,E£199.99,,,E£269.99
+Beginner's Guide to Multiplayer Game Development in Unity,"Learn how to create a multiplayer game using Unity, the C# programming language and Photon 2",4.6,"Instructor:
+Noa Calice (aka Blackthornprod)",1.5,18,Beginner,E£419.99,,,E£579.99
+MVC Architecture For Unity 2022 - Lifetime Access,"Create Projects With Confidence | Model, View, Controller, C# | Design Principles, Design Patterns, UML Diagramming",4.5,"Instructor:
+Samuel Asher Rivello",5.5,47,Intermediate,E£199.99,,,E£269.99
+"Fundamentals of Logistics, Supply Chain & Customer Service","Learn Logistics, Supply Chain and Customer Service. 3 Courses in 1.",4.5,"Instructor:
+Bradley C.",s5,52,All Levels,E£629.99,,,E£849.99
+Automate Application with Specflow and Selenium WebDriver C#,BDD with SpecFlow (based on Gherkin) and Selenium WebDriver with C# + Intro to UnitTesting and TDD with TestStack.White,4.5,"Instructor:
+Engineer Spock",13.5,133,All Levels,E£199.99,,,E£269.99
+Learn C# Programming with Examples in ONE DAY,C# Bootcamp with Programming Examples | Learn CSharp for Software Development with Source Code | C# in ONE DAY,4.5,"Instructors:
+Faisal Zamir, Jafri Code",s3,20,All Levels,E£629.99,,,E£849.99
+"CRUD application using C#, MySQL Server, Windows Forms.",How to create a CRDU application using MySQL Server and Stored Procedures,3.9,"Instructor:
+Peder Thornstrom",s4,28,Beginner,E£199.99,,,E£269.99
+Learn To Create A Racing Game With Unity & C#,Game development made easy. Learn C# with Unity and create your very own racing game.,4.7,"Instructor:
+James Doyle",9.5,73,Beginner,E£749.99,,,E£999.99
+Learn To Create A Local Multiplayer Game In Unity,Game development made easy. Learn C# using Unity and create your very couch multiplayer action experience!,4.8,"Instructor:
+James Doyle",s9,70,Beginner,E£269.99,,,E£349.99
+C# Multithreading Basics,How to boost program performance with multithreading and concurrency techniques,4.3,"Instructor:
+Tom Liao",s2,15,All Levels,E£199.99,,,E£269.99
+Software Architecture: Meta and SOLID Principles in C#,Learn how to develop maintainable software systems applying Design Patterns based on Meta and SOLID Principles,4.0,"Instructor:
+Engineer Spock",s5,64,All Levels,E£199.99,,,E£999.99
+HTML JavaScript & AspNet C# Programming : Beginner to Expert,"Learn HTML, JavaScript and C# Basic Concepts, OOP C# programming techniques and methods for Object Oriented Programming",3.8,"Instructor:
+Metla Sudha Sekhar",16.5,143,All Levels,E£199.99,,,E£269.99
+Complete ASP NET MVC Web Development - Newbie to Ninja!,Quickly Learn Web Development with ASP NET MVC and C#. From absolute basics to ninja! Learn C# and MVC like a Pro,4.3,"Instructor:
+Brett Hargreaves",15.5,92,All Levels,E£199.99,,New,E£269.99
+Automation Framework Development with Playwright in C# .NET,An End-to-End Playwright automation framework development course,3.7,"Instructor:
+Karthik KK",s13,118,All Levels,E£349.99,,,
+"Complete Codecamp On C, C++, C#, Java & Python Programming!","Obtain core programming skills & certification! Master practical C, C++, C#, Java & Python from scratch for beginners",4.0,"Instructors:
+Emenwa Global, Zoolord Academy",82.5,695,Beginner,E£199.99,,,E£269.99
+Appium WinAppDriver C# Windows Desktop UI Automation Testing,"Windows Application Driver Automation Testing, Appium for Windows , End-to-End Desktop Testing Tutorial for Beginners",4.4,"Instructor:
+Naeem Akram",s5,79,Intermediate,E£629.99,,,E£849.99
+Learn Advanced AI for Games with Behaviour Trees,Create your own Behaviour Tree API in C# and apply it in the Unity Game Engine,4.0,"Instructors:
+Penny de Byl, Penny @Holistic3D.com",s7,47,Intermediate,E£199.99,,,E£269.99
+Introduction to Computer Programming for Beginners 2023,"Learn the basic principles of Computer Programming and get started with C#, SQL, Java, C, C++ and Python",4.2,"Instructor:
+Artemakis Artemiou",s8,89,Beginner,E£629.99,,,E£849.99
+Arabic language | The comprehensive course - Learn modern,"So you are already learning Arabic or willing to ? Perfect , This is where i'm going to boost your Arabic skills ;)",4.7,"Instructor:
+Fadi G. C.",22.5,177,All Levels,E£749.99,,,E£999.99
+"Learn Excel Programming in easy way (VSTO, C#, WPF [MVVM])","Build functional real-life Excel Add-ins from scratch using C#, WPF/MVVM",4.3,"Instructor:
+Mouse Events",5.5,38,Beginner,E£419.99,,,E£529.99
+Learn to Create a 3D Platformer Game with Unity & C#,Game development made easy. Learn C# using Unity and create your very own 3D Platformer!,4.9,"Instructor:
+James Doyle",12.5,81,Beginner,E£199.99,,,E£269.99
+Unity C# Mobile Game - Make your own Hole Game from Scratch!,Learn how to use advanced techniques to create a 3D Hole mobile game in Unity with C# !,4.9,"Instructor:
+Tabsil Makes Games",3.5,28,Intermediate,E£599.99,,,E£799.99
+Xamarin Forms: Build Native Cross-platform Apps with C#,"Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills",4.4,"Instructor:
+Mosh Hamedani",7.5,117,All Levels,E£749.99,,Bestseller,E£999.99
+Build professional real world C# Console Application,Learn how to build a console C# application to automate tasks and reuse over and over again for work projects,4.8,"Instructor:
+Stephen Mooney",s2,19,All Levels,E£199.99,,,E£269.99
+VB . NET with VS 2017 and Windows Forms,"With Early OOP, Connections to C# and the .NET Framework Source Code",4.6,"Instructor:
+T O",s13,86,All Levels,E£749.99,,,E£999.99
+Unity Android Game Development : Build 10 2D & 3D Games,"Unity Game Development & Design, Learn Unity Android Game Development with C# & Unity ( Updated Unity 2023 )",4.6,"Instructors:
+Raja Biswas, Charger Games",s36,197,Beginner,E£749.99,,Bestseller,E£999.99
+Intro to Airplane Physics in Unity 3D - 2017 & 2018,Learn how to build your very own Custom Airplane Physics with Unity & C#,4.5,"Instructor:
+Indie - Pixel",20.5,149,Beginner,E£229.99,,,E£999.99
+C# : Beginners to Advanced -Practise Test,Multiple choice Question with Solutions,5.0,"Instructor:
+Suprio Dutta",,,,E£199.99,,,E£269.99
+WeMade 2048 with Unity & C#,Create 2048 from scratch,4.9,"Instructor:
+Josh Maggard",s4,23,Beginner,E£199.99,,,E£269.99
+Create ASP.Net Core Web API (step by step for beginners),"Build database driven CRUD API with C#, ASP .NET Core MVC and Entity Framework Core. Project based learning",4.7,"Instructor:
+Pavol Almasi",s10,131,All Levels,E£199.99,,,E£269.99
+Mastering ASP.NET Core MVC 3.1 & 5.0 From Scratch Using C#,Learn How to build Modern Web Applications using ASP.NET Core MVC - Step By Step,4.7,"Instructor:
+Kameswara Sarma Uppuluri",s23,161,All Levels,E£229.99,,,E£319.99
+Desktop Application Development Windows Forms C#,Learn software development using windows forms with SAP crystal reports,4.6,"Instructor:
+Ali Raza Sardar Ali",s10,28,Beginner,E£229.99,,,E£319.99
+C# With Visual Studio Community 2022 (With Exercises),Jump Into C#!,4.7,"Instructor:
+T O",3.5,52,Beginner,E£199.99,,,E£269.99
+RabbitMQ and Messaging Concepts,"Learn RabbitMQ message broker, general messaging concepts with C# and Java code samples",4.1,"Instructor:
+Mustafa Kök",s4,48,All Levels,E£749.99,,,E£999.99
+Create a Space Shoot 'Em Up With Unity,Game development made easy. Learn C# using Unity and create your very own side-scrolling Space Shooter!,4.8,"Instructor:
+James Doyle",s8,61,Beginner,E£229.99,,,E£319.99
+Complete Guide to XML For Microsoft Developers,"XML, XPATH, XSLT, XQuery, XSD, XML in SQLServer, C#, LINQ, and PowerShell, Saxonica",4.5,"Instructor:
+Neal Walters",16.5,125,Beginner,E£229.99,,Bestseller,E£319.99
+Learn To Create a Complete Save System in Unity & C#,Game development made easy. Learn to create an versatile & easy-to-use Save System for your games!,4.8,"Instructor:
+James Doyle",s3,35,Beginner,E£199.99,,,E£269.99
+Snowpark : Data engineering with Snowflake.,Learn fundamentals of Snowflake-snowpark API.,4.4,"Instructor:
+Pradeep H C",s6,64,All Levels,E£199.99,,,E£269.99
+CAPM Certification 2023&2024: Updated CAPM Exam Prep_37 PDUs,CAPM Exam Prep Training: CAPM Exam COMPLETE Training Based On the New CAPM ECO (Perfect for 2023 & 2024 CAPM exams.),4.6,"Instructor:
+Sabri C. PMP | 120,000+ Enrollments Worldwide",38.5,317,All Levels,E£199.99,,New,E£999.99
+RPG Shops & Abilities: Intermediate C# Game Coding,"Implement Shop Systems, Special Abilities, distributable Trait Points and polish your finished RPG!",4.3,"Instructors:
+GameDev.tv Team, Rick Davidson",s19,96,Intermediate,E£629.99,,,E£849.99
+Unity from Zero to Proficiency (intermediate),A step-by-step guide to coding your first game in C# with Unity,4.7,"Instructor:
+Patrick Felicia",6.5,86,Intermediate,E£199.99,,,E£269.99
+Unleash Your Creativity: Build Point & Click Game in Unity,From Concept to Classic: Build a Point & Click Game with Unity and C# in the 90s Style,4.1,"Instructor:
+Romi Fauzi",s14,63,Intermediate,E£229.99,,,E£319.99
+Quick Start - Learn programming in C#,Easy and fast - Your start into programming as an absolute beginner,4.3,"Instructors:
+Amira N, Sönke Cordts",s2,43,Beginner,E£199.99,,,E£269.99
+The All-in-One Developer Masterclass - Learn Great Coding,"The Coding Course Covers Game Development with Scratch 3.0, Kodu Game Lab, Python, Java, C#, MySQL, Project Management",4.7,"Instructor:
+Dr. Chris Mall • 35,000+ Students Worldwide",s23,168,Beginner,E£199.99,,,E£269.99
+Unit Testing in .NET 7 and C# with NUnit and MOQ,NUnit in .NET 7 and C#. Test-Driven Development. Testing Legacy Code + Interview Questions & Answers,4.6,"Instructor:
+Aref K.",s3,26,All Levels,E£479.99,,,E£649.99
+Calling an API in c#,"Web request, web client, http client",3.8,"Instructor:
+Taurius Litvinavicius",s1,7,Intermediate,E£199.99,,,E£269.99
+Unity 2019 Learn to write better code making a City Builder,"Learn object oriented programming, design patterns and Unit testing while making a City Builder game in Unity using C#.",4.2,"Instructor:
+Sunny Valley Studio",17.5,108,Intermediate,E£229.99,,,
+Regular Expressions (Regex) with C# .NET - Easy and Fast!,"Regex Mastery: Hands-On Pattern Detection, Input Verification, Security Enhancement, and Data Cleanup",4.4,"Instructor:
+Chandra Lingam",s4,71,All Levels,E£199.99,,,E£269.99
+Software Architecture: Dependency Injection for C# Devs,Learn Dependency Injection techniques along with an IoC-framework (DI-Container). Grow Architecture applying DI.,3.8,"Instructor:
+Engineer Spock",5.5,86,All Levels,E£219.99,,,E£319.99
+Learn to create a strategy game in Unity,"Deploy army, Create map, Learn Unity and C#, game architecture and Unity scripting API",4.0,"Instructor:
+Ilnar Farkh (Smart Games Development)",s17,72,All Levels,E£199.99,,,E£269.99
+Complete ASP.NET MVC Course with Real World Practices,"ASP.NET MVC with hands-on examples, build secure web applications with ASP.NET MVC and C#, become web developer with MVC",4.6,"Instructors:
+Oak Academy, OAK Academy Team",s20,134,All Levels,E£749.99,,,E£999.99
+REST API testing using C# RestSharp and SpecFlow,A complete course of API automation in .Net,4.6,"Instructor:
+Manoj Yadav",s3,22,All Levels,E£199.99,,,E£269.99
+A 18 Hour SQL/SQL Server 2014/Visual Studio 2017 Course,"Learn SQL, SQL Server, SSMS, ASP.NET, Visual Studio, C#, HTML and More!",4.8,"Instructor:
+T O",s19,87,Intermediate,E£749.99,,,E£999.99
+AWS For C#/.NET Developers,Learn how to use AWS with C#/.NET and using AWSSDK.NET,4.5,"Instructor:
+Amr Swalha",2.5,39,All Levels,E£229.99,,,E£319.99
+"Websockets, tcp and udp in c# .NET CORE",Learn all about various network sockets,3.8,"Instructor:
+Taurius Litvinavicius",s3,13,Expert,E£479.99,,,E£649.99
+"CRUD application using C#, SQLite, and Windows Forms","Visual Studio 2017/2019 Community, C#, SQLite, DB Browser",3.5,"Instructor:
+Peder Thornstrom",s4,32,Beginner,E£199.99,,,E£269.99
+Intro to Unity 3D Physics: Helicopters,Learn how to create Helicopter physics for Games with Unity 3D and C#!,4.4,"Instructor:
+Indie - Pixel",17.5,131,Beginner,E£219.99,,,"E£1,199.99"
+Learn To Code By Making a 2D Platformer in Unity,Game development made easy. Learn C# using Unity and create your very own 2D Platformer,4.9,"Instructor:
+James Doyle",s13,84,Beginner,E£849.99,,,"E£1,199.99"
