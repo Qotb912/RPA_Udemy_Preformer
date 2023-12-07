@@ -16,7 +16,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.4",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,7 +43,13 @@
       "privateWorkflows": []
     },
     "processOptions": {
-      "ignoredFiles": []
+      "ignoredFiles": [
+        "NextPage.xaml",
+        "ScrapeData - Copy (1).xaml",
+        "temp.xaml",
+        "temp2.xaml",
+        "temp3.xaml"
+      ]
     },
     "fileInfoCollection": [
       {

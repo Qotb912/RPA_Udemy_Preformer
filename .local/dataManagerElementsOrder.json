@@ -105,10 +105,6 @@
       "Path": "Framework/Process.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "MailIdsList&Sequence_2",
-        "str_Subject&Sequence_2",
-        "str_MailMessage&Sequence_2",
-        "AttachmentsList&Sequence_2",
         "AttachmentsList&Sequence_1",
         "str_MessageSubject&Sequence_1",
         "str_MessageBody&Sequence_1",
@@ -295,7 +291,7 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "modules/udemy/Navigate/NextPage.xaml",
+      "Path": "NextPage.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "visibility&Sequence_1",
@@ -457,7 +453,7 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "modules/udemy/Read/ScrapeData - Copy (1).xaml",
+      "Path": "ScrapeData - Copy (1).xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "try_OutputDT&Sequence_1",
