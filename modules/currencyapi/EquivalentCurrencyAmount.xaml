@@ -7,7 +7,7 @@
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>804,1774</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>737,2127</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>EquivalentCurrencyAmount_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -103,19 +103,19 @@
       <AssemblyReference>System.IO.FileSystem.DriveInfo</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="EquivalentCurrencyAmount" sap:VirtualizedContainerService.HintSize="814,1709" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="EquivalentCurrencyAmount" sap:VirtualizedContainerService.HintSize="747,2062" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Pre Condition" sap:VirtualizedContainerService.HintSize="752,293" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence DisplayName="Pre Condition" sap:VirtualizedContainerService.HintSize="685,558" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <If Condition="[(in_JsonFullName is Nothing) or (in_str_TargetCurrency is Nothing)]" sap:VirtualizedContainerService.HintSize="388,182" sap2010:WorkflowViewState.IdRef="If_1">
+      <If Condition="[(in_JsonFullName is Nothing) or (in_str_TargetCurrency is Nothing)]" sap:VirtualizedContainerService.HintSize="510,447" sap2010:WorkflowViewState.IdRef="If_1">
         <If.Then>
           <Sequence sap:VirtualizedContainerService.HintSize="300,140" sap2010:WorkflowViewState.IdRef="Sequence_3">
             <sap:WorkflowViewStateService.ViewState>
@@ -134,13 +134,13 @@
           </Sequence>
         </If.Then>
         <If.Else>
-          <Sequence sap:VirtualizedContainerService.HintSize="476,262" sap2010:WorkflowViewState.IdRef="Sequence_4">
+          <Sequence sap:VirtualizedContainerService.HintSize="476,264" sap2010:WorkflowViewState.IdRef="Sequence_4">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,52" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[&quot;Pre Condition Done.&quot;]">
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,53" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[&quot;Pre Condition Done.&quot;]">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -148,7 +148,7 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:LogMessage>
-            <Assign sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_3">
+            <Assign sap:VirtualizedContainerService.HintSize="434,83" sap2010:WorkflowViewState.IdRef="Assign_3">
               <Assign.To>
                 <OutArgument x:TypeArguments="x:Double">[out_d_EquivalentValue]</OutArgument>
               </Assign.To>
@@ -160,7 +160,7 @@
         </If.Else>
       </If>
     </Sequence>
-    <Sequence DisplayName="Read Json Data &amp; Get Target Value" sap:VirtualizedContainerService.HintSize="752,1265" sap2010:WorkflowViewState.IdRef="Sequence_5">
+    <Sequence DisplayName="Read Json Data &amp; Get Target Value" sap:VirtualizedContainerService.HintSize="685,1353" sap2010:WorkflowViewState.IdRef="Sequence_5">
       <Sequence.Variables>
         <Variable x:TypeArguments="njl:JObject" Name="apidata" />
         <Variable x:TypeArguments="x:String" Name="tempcheck" />
@@ -170,20 +170,20 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:DeserializeJson x:TypeArguments="njl:JObject" DisplayName="Deserialize JSON" sap:VirtualizedContainerService.HintSize="690,60" sap2010:WorkflowViewState.IdRef="DeserializeJson`1_1" JsonObject="[apidata]" JsonString="[System.IO.File.ReadAllText(in_JsonFullName)]" />
-      <ui:IfElseIf DisplayName="Else If" sap:VirtualizedContainerService.HintSize="690,1054" sap2010:WorkflowViewState.IdRef="IfElseIf_2">
+      <ui:DeserializeJson x:TypeArguments="njl:JObject" DisplayName="Deserialize JSON" sap:VirtualizedContainerService.HintSize="623,60" sap2010:WorkflowViewState.IdRef="DeserializeJson`1_1" JsonObject="[apidata]" JsonString="[System.IO.File.ReadAllText(in_JsonFullName)]" />
+      <ui:IfElseIf DisplayName="Else If" sap:VirtualizedContainerService.HintSize="623,1142" sap2010:WorkflowViewState.IdRef="IfElseIf_2">
         <ui:IfElseIf.ConditionBlocks>
           <sc:BindingList x:TypeArguments="ui:IfElseIfBlock" AllowEdit="True" AllowNew="True" AllowRemove="True" RaiseListChangedEvents="True">
             <ui:IfElseIfBlock BlockType="If" Condition="[apidata is Nothing andalso ( not apidata.ContainsKey(&quot;conversion_rates&quot;) )]">
               <ui:IfElseIfBlock.Then>
-                <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="450,81" sap2010:WorkflowViewState.IdRef="Sequence_9">
+                <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="450,164" sap2010:WorkflowViewState.IdRef="Sequence_9">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       <x:Boolean x:Key="IsPinned">False</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <Throw Exception="[new SystemException(&quot;Empty File.&quot;)]" sap:VirtualizedContainerService.HintSize="388,52" sap2010:WorkflowViewState.IdRef="Throw_2">
+                  <Throw Exception="[new SystemException(&quot;Empty File.&quot;)]" sap:VirtualizedContainerService.HintSize="388,53" sap2010:WorkflowViewState.IdRef="Throw_2">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -196,7 +196,7 @@
             </ui:IfElseIfBlock>
             <ui:IfElseIfBlock BlockType="Else">
               <ui:IfElseIfBlock.Then>
-                <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="572,741" sap2010:WorkflowViewState.IdRef="Sequence_10">
+                <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="572,744" sap2010:WorkflowViewState.IdRef="Sequence_10">
                   <Sequence.Variables>
                     <Variable x:TypeArguments="njl:JObject" Name="j_AllCurrency" />
                   </Sequence.Variables>
@@ -206,15 +206,15 @@
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
                   <ui:DeserializeJson x:TypeArguments="njl:JObject" DisplayName="Deserialize JSON" sap:VirtualizedContainerService.HintSize="510,60" sap2010:WorkflowViewState.IdRef="DeserializeJson`1_2" JsonObject="[j_AllCurrency]" JsonString="[apidata(&quot;conversion_rates&quot;).ToString]" />
-                  <If Condition="[j_AllCurrency.ContainsKey(in_str_TargetCurrency)]" sap:VirtualizedContainerService.HintSize="510,530" sap2010:WorkflowViewState.IdRef="If_3">
+                  <If Condition="[j_AllCurrency.ContainsKey(in_str_TargetCurrency)]" sap:VirtualizedContainerService.HintSize="510,533" sap2010:WorkflowViewState.IdRef="If_3">
                     <If.Then>
-                      <Sequence sap:VirtualizedContainerService.HintSize="476,170" sap2010:WorkflowViewState.IdRef="Sequence_11">
+                      <Sequence sap:VirtualizedContainerService.HintSize="476,171" sap2010:WorkflowViewState.IdRef="Sequence_11">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <Assign sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_1">
+                        <Assign sap:VirtualizedContainerService.HintSize="434,83" sap2010:WorkflowViewState.IdRef="Assign_1">
                           <Assign.To>
                             <OutArgument x:TypeArguments="x:Double">[out_d_EquivalentValue]</OutArgument>
                           </Assign.To>
@@ -225,13 +225,13 @@
                       </Sequence>
                     </If.Then>
                     <If.Else>
-                      <Sequence sap:VirtualizedContainerService.HintSize="376,178" sap2010:WorkflowViewState.IdRef="Sequence_12">
+                      <Sequence sap:VirtualizedContainerService.HintSize="376,179" sap2010:WorkflowViewState.IdRef="Sequence_12">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <Throw Exception="[new SystemException(&quot;Target Currency Not Found in Json Response.&quot;)]" sap:VirtualizedContainerService.HintSize="334,90" sap2010:WorkflowViewState.IdRef="Throw_3" />
+                        <Throw Exception="[new SystemException(&quot;Target Currency Not Found in Json Response.&quot;)]" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="Throw_3" />
                       </Sequence>
                     </If.Else>
                   </If>

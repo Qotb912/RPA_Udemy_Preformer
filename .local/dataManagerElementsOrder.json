@@ -105,6 +105,10 @@
       "Path": "Framework/Process.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "MailIdsList&Sequence_2",
+        "str_Subject&Sequence_2",
+        "str_MailMessage&Sequence_2",
+        "AttachmentsList&Sequence_2",
         "AttachmentsList&Sequence_1",
         "str_MessageSubject&Sequence_1",
         "str_MessageBody&Sequence_1",
@@ -371,6 +375,25 @@
       "Path": "Framework/SetTransactionStatus.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "MailIdsList&Sequence_54",
+        "str_Subject&Sequence_54",
+        "str_MailMessage&Sequence_54",
+        "AttachmentsList&Sequence_54",
+        "OrignalMailId&Sequence_49",
+        "MailIdsList&Sequence_49",
+        "str_Subject&Sequence_49",
+        "str_MailMessage&Sequence_49",
+        "AttachmentsList&Sequence_49",
+        "OrignalMailId&Sequence_47",
+        "MailIdsList&Sequence_47",
+        "str_Subject&Sequence_47",
+        "str_MailMessage&Sequence_47",
+        "AttachmentsList&Sequence_47",
+        "AttachmentsList&Sequence_40",
+        "str_MailMessage&Sequence_40",
+        "str_Subject&Sequence_40",
+        "MailIdsList&Sequence_40",
+        "OrignalMailId&Sequence_40",
         "QueueRetry&Sequence_17",
         "ScreenshotPath&Sequence_17"
       ],
@@ -565,17 +588,18 @@
       "Path": "modules/csv/CreateBusinessExceptionColumnAcordingToPrice.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "SortedDT&Sequence_2",
         "strSeqName&Sequence_3",
         "tSeqStartTime&Sequence_3",
         "dl_EquivalentValue&Sequence_2",
         "AllCoursesDT&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [
+        "in_str_CoursesFilePath",
         "out_str_FinalReportFullName",
         "in_dl_Cost",
         "in_str_TargetCurrency",
-        "in_JsonFileFullName",
-        "str_CoursesFilePath"
+        "in_JsonFileFullName"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -589,6 +613,71 @@
       "ArgumentsSectionElementsOrder": [
         "CurrentURL"
       ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "modules/mail/ReplyToMailsByIds.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OriginalMails&Sequence_43",
+        "strSeqName&Sequence_43",
+        "tSeqStartTime&Sequence_43"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_str_Subject",
+        "in_AttachmentsList",
+        "in_str_MailMessage",
+        "in_MailIdsList"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/GetTransactionData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "InprogressItems&TryCatch_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionNumber",
+        "in_Config",
+        "out_TransactionItem",
+        "out_TransactionField1",
+        "out_TransactionField2",
+        "out_TransactionID",
+        "io_dt_TransactionData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/CloseAllApplications.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/InitAllApplicationsTestCase.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Config&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/ProcessTestCase.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Config&Sequence_1",
+        "TransactionItem&Sequence_1",
+        "TransactionNumber&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }

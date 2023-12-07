@@ -1,18 +1,15 @@
 <Activity mc:Ignorable="sap sap2010" x:Class="CreateBusinessExceptionColumnAcordingToPrice" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:s="clr-namespace:System;assembly=System.Private.CoreLib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
-    <x:Property Name="str_CoursesFilePath" Type="InArgument(x:String)" />
     <x:Property Name="in_JsonFileFullName" Type="InArgument(x:String)" />
     <x:Property Name="in_str_TargetCurrency" Type="InArgument(x:String)" />
     <x:Property Name="in_dl_Cost" Type="InArgument(x:Double)" />
-    <x:Property Name="out_str_FinalReportFullName" Type="InArgument(x:String)" />
+    <x:Property Name="out_str_FinalReportFullName" Type="OutArgument(x:String)" />
+    <x:Property Name="in_str_CoursesFilePath" Type="InArgument(x:String)" />
   </x:Members>
   <this:CreateBusinessExceptionColumnAcordingToPrice.in_JsonFileFullName>
     <InArgument x:TypeArguments="x:String" />
   </this:CreateBusinessExceptionColumnAcordingToPrice.in_JsonFileFullName>
-  <this:CreateBusinessExceptionColumnAcordingToPrice.out_str_FinalReportFullName>
-    <InArgument x:TypeArguments="x:String" />
-  </this:CreateBusinessExceptionColumnAcordingToPrice.out_str_FinalReportFullName>
-  <sap:VirtualizedContainerService.HintSize>648,1678</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>647,3338</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -42,6 +39,7 @@
       <x:String>UiPath.Core</x:String>
       <x:String>GlobalVariablesNamespace</x:String>
       <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>UiPath.Excel.Activities</x:String>
     </sco:Collection>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
@@ -115,9 +113,9 @@
       <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="All Seq" sap:VirtualizedContainerService.HintSize="558,1613" sap2010:WorkflowViewState.IdRef="Sequence_3">
+  <Sequence DisplayName="All Seq" sap:VirtualizedContainerService.HintSize="558,3273" sap2010:WorkflowViewState.IdRef="Sequence_3">
     <Sequence.Variables>
-      <Variable x:TypeArguments="x:String" Default="Send Exception To Business Team" Name="strSeqName" />
+      <Variable x:TypeArguments="x:String" Default="Create Bussiness Exception Column" Name="strSeqName" />
       <Variable x:TypeArguments="s:DateTime" Default="[System.DateTime.Now]" Name="tSeqStartTime" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
@@ -132,10 +130,11 @@
         <InArgument x:TypeArguments="s:DateTime" x:Key="in_StartTimeSeq">[System.DateTime.Now]</InArgument>
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
-    <Sequence sap2010:Annotation.AnnotationText="" DisplayName="Create Business Exception Column Acording To Price" sap:VirtualizedContainerService.HintSize="496,1196" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence sap2010:Annotation.AnnotationText="" DisplayName="Create Business Exception Column Acording To Price" sap:VirtualizedContainerService.HintSize="496,2856" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
         <Variable x:TypeArguments="x:Double" Name="dl_EquivalentValue" />
         <Variable x:TypeArguments="sd:DataTable" Name="AllCoursesDT" />
+        <Variable x:TypeArguments="sd:DataTable" Name="SortedDT" />
       </Sequence.Variables>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -144,32 +143,47 @@
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:ReadCsvFile DataTable="[AllCoursesDT]" Delimitator="Comma" DisplayName="Read CSV" FilePath="[str_CoursesFilePath]" sap:VirtualizedContainerService.HintSize="434,154" sap2010:WorkflowViewState.IdRef="ReadCsvFile_1" />
+      <ui:ReadCsvFile DataTable="[AllCoursesDT]" Delimitator="Comma" DisplayName="Read CSV" FilePath="[in_str_CoursesFilePath]" sap:VirtualizedContainerService.HintSize="434,154" sap2010:WorkflowViewState.IdRef="ReadCsvFile_1" />
       <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="EquivalentCurrencyAmount.xaml - Invoke Workflow File" sap:VirtualizedContainerService.HintSize="434,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_7" UnSafe="False" WorkflowFileName="modules\currencyapi\EquivalentCurrencyAmount.xaml">
         <ui:InvokeWorkflowFile.Arguments>
-          <InArgument x:TypeArguments="x:String" x:Key="in_str_TargetCurrency">
-            <VisualBasicValue x:TypeArguments="x:String" ExpressionText="in_str_TargetCurrency" />
-          </InArgument>
-          <InArgument x:TypeArguments="x:String" x:Key="in_JsonFullName">
-            <VisualBasicValue x:TypeArguments="x:String" ExpressionText="in_JsonFileFullName" />
-          </InArgument>
-          <OutArgument x:TypeArguments="x:Double" x:Key="out_d_EquivalentValue">
-            <VisualBasicReference x:TypeArguments="x:Double" ExpressionText="dl_EquivalentValue" />
-          </OutArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="in_str_TargetCurrency">[in_str_TargetCurrency]</InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="in_JsonFullName">[in_JsonFileFullName]</InArgument>
+          <OutArgument x:TypeArguments="x:Double" x:Key="out_d_EquivalentValue">[dl_EquivalentValue]</OutArgument>
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
       <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Business Exception" DataTable="[AllCoursesDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="434,186" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_1" />
-      <ui:InvokeCode ContinueOnError="{x:Null}" Code="dt.AsEnumerable.Where(Function(row) row(&quot;Business Exception&quot;).ToString.Trim.Equals(&quot;&quot;)).ToList().ForEach(Sub(row) row(&quot;Business Exception&quot;) =  if( ( if(row(&quot;Price Value&quot;).ToString is Nothing,0,CDbl(row(&quot;Price Value&quot;).ToString ) ) / equivalentvalue) &lt;=cost ,Nothing ,&quot;Business Exception&quot;)  )" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="434,165" sap2010:WorkflowViewState.IdRef="InvokeCode_1">
+      <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="New Price" DataTable="[AllCoursesDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="434,186" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_2" />
+      <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="_Price" DataTable="[AllCoursesDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="434,186" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_3" />
+      <ui:InvokeCode ContinueOnError="{x:Null}" Code="dt.AsEnumerable.Where(Function(row) row(&quot;New Price&quot;).ToString.Trim.Equals(&quot;&quot;)).ToList().ForEach(Sub(row) row(&quot;New Price&quot;) =   if(row(&quot;Price Value&quot;).ToString is Nothing,0,CDbl(row(&quot;Price Value&quot;).ToString ) ) * equivalentvalue  )" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="434,165" sap2010:WorkflowViewState.IdRef="InvokeCode_1">
         <ui:InvokeCode.Arguments>
-          <InArgument x:TypeArguments="sd:DataTable" x:Key="dt">
-            <VisualBasicValue x:TypeArguments="sd:DataTable" ExpressionText="AllCoursesDT" />
-          </InArgument>
-          <InArgument x:TypeArguments="x:Double" x:Key="equivalentvalue">
-            <VisualBasicValue x:TypeArguments="x:Double" ExpressionText="dl_EquivalentValue" />
-          </InArgument>
-          <InArgument x:TypeArguments="x:Double" x:Key="cost">
-            <VisualBasicValue x:TypeArguments="x:Double" ExpressionText="in_dl_Cost" />
-          </InArgument>
+          <InArgument x:TypeArguments="sd:DataTable" x:Key="dt">[AllCoursesDT]</InArgument>
+          <InArgument x:TypeArguments="x:Double" x:Key="equivalentvalue">[dl_EquivalentValue]</InArgument>
+          <InArgument x:TypeArguments="x:Double" x:Key="cost">[in_dl_Cost]</InArgument>
+        </ui:InvokeCode.Arguments>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:InvokeCode>
+      <ui:InvokeCode ContinueOnError="{x:Null}" Code="dt.AsEnumerable.Where(Function(row) row(&quot;Business Exception&quot;).ToString.Trim.Equals(&quot;&quot;)).ToList().ForEach(Sub(row) row(&quot;Business Exception&quot;) =  if( CDbl(row(&quot;New Price&quot;).ToString) &lt;=cost ,Nothing ,&quot;Business Exception&quot;)  )" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="434,165" sap2010:WorkflowViewState.IdRef="InvokeCode_2">
+        <ui:InvokeCode.Arguments>
+          <InArgument x:TypeArguments="sd:DataTable" x:Key="dt">[AllCoursesDT]</InArgument>
+          <InArgument x:TypeArguments="x:Double" x:Key="equivalentvalue">[dl_EquivalentValue]</InArgument>
+          <InArgument x:TypeArguments="x:Double" x:Key="cost">[in_dl_Cost]</InArgument>
+        </ui:InvokeCode.Arguments>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </ui:InvokeCode>
+      <ui:InvokeCode ContinueOnError="{x:Null}" Code="dt.AsEnumerable.Where(Function(row) row(&quot;_Price&quot;).ToString.Trim.Equals(&quot;&quot;)).ToList().ForEach(Sub(row) row(&quot;_Price&quot;) =  if( row(&quot;New Price&quot;).ToString.ToLower =&quot;free&quot; ,&quot;Free&quot; ,row(&quot;New Price&quot;).ToString+targetcurrency )  )" DisplayName="Invoke Code" sap:VirtualizedContainerService.HintSize="434,165" sap2010:WorkflowViewState.IdRef="InvokeCode_3">
+        <ui:InvokeCode.Arguments>
+          <InArgument x:TypeArguments="sd:DataTable" x:Key="dt">[AllCoursesDT]</InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="targetcurrency ">[in_str_TargetCurrency]</InArgument>
         </ui:InvokeCode.Arguments>
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -183,10 +197,14 @@
           <OutArgument x:TypeArguments="x:String">[out_str_FinalReportFullName]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String">[string.Join("/", str_CoursesFilePath.Split("/").ToList.GetRange(0,str_CoursesFilePath.Split("/").Length-1) )+"/FinalReport.csv"]</InArgument>
+          <InArgument x:TypeArguments="x:String">[string.Join("/", in_str_CoursesFilePath.Split("/").ToList.GetRange(0,in_str_CoursesFilePath.Split("/").Length-1) )+"/FinalReport.csv"]</InArgument>
         </Assign.Value>
       </Assign>
-      <ui:WriteCsvFile AddHeaders="True" DataTable="[AllCoursesDT]" Delimitator="Comma" DisplayName="Write CSV" FilePath="[out_str_FinalReportFullName]" sap:VirtualizedContainerService.HintSize="434,154" sap2010:WorkflowViewState.IdRef="WriteCsvFile_1" ShouldQuote="True" />
+      <ui:SortDataTable ColumnIndex="{x:Null}" DataColumn="{x:Null}" ColumnName="New Price" DataTable="[AllCoursesDT]" DisplayName="Sort Data Table" sap:VirtualizedContainerService.HintSize="434,80" sap2010:WorkflowViewState.IdRef="SortDataTable_1" Order="Ascending" OutputDataTable="[SortedDT]" SortOrder="Ascending" />
+      <ui:RemoveDataColumn Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="Price" DataTable="[SortedDT]" DisplayName="Remove Data Column" sap:VirtualizedContainerService.HintSize="434,186" sap2010:WorkflowViewState.IdRef="RemoveDataColumn_1" />
+      <ui:RemoveDataColumn Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="Price Currency" DataTable="[SortedDT]" DisplayName="Remove Data Column" sap:VirtualizedContainerService.HintSize="434,186" sap2010:WorkflowViewState.IdRef="RemoveDataColumn_2" />
+      <ui:RemoveDataColumn Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="Price Value" DataTable="[SortedDT]" DisplayName="Remove Data Column" sap:VirtualizedContainerService.HintSize="434,186" sap2010:WorkflowViewState.IdRef="RemoveDataColumn_3" />
+      <ui:WriteCsvFile AddHeaders="True" DataTable="[SortedDT]" Delimitator="Comma" DisplayName="Write CSV" FilePath="[out_str_FinalReportFullName]" sap:VirtualizedContainerService.HintSize="434,154" sap2010:WorkflowViewState.IdRef="WriteCsvFile_1" ShouldQuote="True" />
     </Sequence>
     <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="utilities\SequenceTrace.xaml - Invoke Workflow File" sap:VirtualizedContainerService.HintSize="496,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_10" UnSafe="False" WorkflowFileName="utilities\SequenceTrace.xaml">
       <ui:InvokeWorkflowFile.Arguments>
