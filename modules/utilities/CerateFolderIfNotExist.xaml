@@ -3,7 +3,7 @@
     <x:Property Name="out_bool_FoundFolder" Type="OutArgument(x:Boolean)" />
     <x:Property Name="in_str_FolderPath" Type="InArgument(x:String)" />
   </x:Members>
-  <sap:VirtualizedContainerService.HintSize>637,1158</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>927,1189</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -100,32 +100,23 @@
       <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Cerate Folder If Not Exist" sap:VirtualizedContainerService.HintSize="450,1093" sap2010:WorkflowViewState.IdRef="Sequence_38">
+  <Sequence sap2010:Annotation.AnnotationText="" DisplayName="Cerate Folder If Not Exist" sap:VirtualizedContainerService.HintSize="450,1124" sap2010:WorkflowViewState.IdRef="Sequence_38">
     <Sequence.Variables>
-      <Variable x:TypeArguments="x:String" Name="strSeqName">
-        <Variable.Default>
-          <Literal x:TypeArguments="x:String">Create Folder If Not Exist</Literal>
-        </Variable.Default>
-      </Variable>
+      <Variable x:TypeArguments="x:String" Default="Create Folder If Not Exist" Name="strSeqName" />
       <Variable x:TypeArguments="s:DateTime" Default="[System.DateTime.Now]" Name="tSeqStartTime" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="utilities\SequenceTrace.xaml - Invoke Workflow File" sap:VirtualizedContainerService.HintSize="388,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="utilities\SequenceTrace.xaml">
       <ui:InvokeWorkflowFile.Arguments>
-        <InArgument x:TypeArguments="x:String" x:Key="in_strSeqName">
-          <VisualBasicValue x:TypeArguments="x:String" ExpressionText="strSeqName" />
-        </InArgument>
-        <InArgument x:TypeArguments="x:Boolean" x:Key="in_boolStartSeq">
-          <Literal x:TypeArguments="x:Boolean" Value="True" />
-        </InArgument>
-        <InArgument x:TypeArguments="s:DateTime" x:Key="in_StartTimeSeq">
-          <VisualBasicValue x:TypeArguments="s:DateTime" ExpressionText="System.DateTime.Now" />
-        </InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_strSeqName">[strSeqName]</InArgument>
+        <InArgument x:TypeArguments="x:Boolean" x:Key="in_boolStartSeq">True</InArgument>
+        <InArgument x:TypeArguments="s:DateTime" x:Key="in_StartTimeSeq">[System.DateTime.Now]</InArgument>
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,141" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[&quot;Check Folder: &quot;+in_str_FolderPath]" />
@@ -154,15 +145,9 @@
     </If>
     <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="utilities\SequenceTrace.xaml - Invoke Workflow File" sap:VirtualizedContainerService.HintSize="388,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="utilities\SequenceTrace.xaml">
       <ui:InvokeWorkflowFile.Arguments>
-        <InArgument x:TypeArguments="x:String" x:Key="in_strSeqName">
-          <VisualBasicValue x:TypeArguments="x:String" ExpressionText="strSeqName" />
-        </InArgument>
-        <InArgument x:TypeArguments="x:Boolean" x:Key="in_boolStartSeq">
-          <Literal x:TypeArguments="x:Boolean" />
-        </InArgument>
-        <InArgument x:TypeArguments="s:DateTime" x:Key="in_StartTimeSeq">
-          <VisualBasicValue x:TypeArguments="s:DateTime" ExpressionText="tSeqStartTime" />
-        </InArgument>
+        <InArgument x:TypeArguments="x:String" x:Key="in_strSeqName">[strSeqName]</InArgument>
+        <InArgument x:TypeArguments="x:Boolean" x:Key="in_boolStartSeq">False</InArgument>
+        <InArgument x:TypeArguments="s:DateTime" x:Key="in_StartTimeSeq">[tSeqStartTime]</InArgument>
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
   </Sequence>

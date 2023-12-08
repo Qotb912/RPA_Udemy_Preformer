@@ -2,7 +2,7 @@
   <x:Members>
     <x:Property Name="CurrentURL" Type="OutArgument(x:String)" />
   </x:Members>
-  <sap:VirtualizedContainerService.HintSize>648,1045</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>953,1036</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -122,14 +122,15 @@
       <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Go Next Page" sap:VirtualizedContainerService.HintSize="546,980" sap2010:WorkflowViewState.IdRef="Sequence_41">
+  <Sequence sap2010:Annotation.AnnotationText="Go To Next Page Of Search Results" DisplayName="Go Next Page" sap:VirtualizedContainerService.HintSize="546,971" sap2010:WorkflowViewState.IdRef="Sequence_41">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Go To Next Page" sap:VirtualizedContainerService.HintSize="484,535" sap2010:WorkflowViewState.IdRef="BrowserScope_3" InformativeScreenshot="ff29cc58867c1032f14bbafe6110073a" Selector="&lt;html app='chrome.exe' title='*Udemy*' /&gt;">
+    <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Go To Next Page" sap:VirtualizedContainerService.HintSize="484,495" sap2010:WorkflowViewState.IdRef="BrowserScope_3" InformativeScreenshot="ff29cc58867c1032f14bbafe6110073a" Selector="&lt;html app='chrome.exe' title='*Udemy*' /&gt;">
       <ui:BrowserScope.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>

@@ -3,7 +3,7 @@
     <x:Property Name="in_str_CourseData" Type="InArgument(x:String)" />
     <x:Property Name="out_l_str_CouurseData" Type="OutArgument(s:String[])" />
   </x:Members>
-  <sap:VirtualizedContainerService.HintSize>647,3975</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>953,4003</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -119,7 +119,7 @@
       <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Etract Data By Rejex" sap:VirtualizedContainerService.HintSize="609,3910" sap2010:WorkflowViewState.IdRef="Sequence_26">
+  <Sequence sap2010:Annotation.AnnotationText="Used Regex Pattern &amp; String Manipulation To More Clean &amp; Extract Course Information" DisplayName="Etract Data By Rejex" sap:VirtualizedContainerService.HintSize="609,3938" sap2010:WorkflowViewState.IdRef="Sequence_26">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="str_InstructorsNames" />
       <Variable x:TypeArguments="x:String" Name="str_Price" />
@@ -146,6 +146,7 @@
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:Matches BuilderPattern="Rating:(.*)" DisplayName="Rating" FirstMatch="[str_Rating]" sap:VirtualizedContainerService.HintSize="547,60" sap2010:WorkflowViewState.IdRef="Matches_13" Input="[in_str_CourseData]" IsBuilderTabModified="True" Model="[{&quot;Index&quot;:0,&quot;OperationID&quot;:&quot;LIT&quot;,&quot;OperationName&quot;:&quot;Literal&quot;,&quot;OperationValue&quot;:&quot;Rating:&quot;,&quot;QuantifierFirstValue&quot;:&quot;1&quot;,&quot;QuantifierID&quot;:&quot;EXT&quot;,&quot;QuantifierName&quot;:&quot;Exactly&quot;,&quot;QuantifierSecondValue&quot;:null},{&quot;Index&quot;:1,&quot;OperationID&quot;:&quot;ADV&quot;,&quot;OperationName&quot;:&quot;Advanced&quot;,&quot;OperationValue&quot;:&quot;(.*)&quot;,&quot;QuantifierFirstValue&quot;:&quot;1&quot;,&quot;QuantifierID&quot;:&quot;EXT&quot;,&quot;QuantifierName&quot;:&quot;Exactly&quot;,&quot;QuantifierSecondValue&quot;:null}]" Pattern="(?&lt;=Rating:\s).*(?=\sout of)" RegexOption="IgnoreCase, Compiled" />
@@ -377,7 +378,7 @@
         <Sequence sap2010:WorkflowViewState.IdRef="Sequence_35" />
       </If.Else>
     </If>
-    <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="547,53" sap2010:WorkflowViewState.IdRef="MultipleAssign_3">
+    <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="547,52" sap2010:WorkflowViewState.IdRef="MultipleAssign_3">
       <ui:MultipleAssign.AssignOperations>
         <scg:List x:TypeArguments="ui:AssignOperation" Capacity="8">
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_20">
@@ -437,7 +438,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:MultipleAssign>
-    <If Condition="[description IsNot Nothing]" DisplayName="Clean Description" sap:VirtualizedContainerService.HintSize="547,53" sap2010:WorkflowViewState.IdRef="If_2">
+    <If Condition="[description IsNot Nothing]" DisplayName="Clean Description" sap:VirtualizedContainerService.HintSize="547,52" sap2010:WorkflowViewState.IdRef="If_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -465,7 +466,7 @@
         <Sequence sap2010:WorkflowViewState.IdRef="Sequence_33" />
       </If.Else>
     </If>
-    <ui:MultipleAssign DisplayName="Assign Row Data List" sap:VirtualizedContainerService.HintSize="547,520" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+    <ui:MultipleAssign DisplayName="Assign Row Data List That Used As Row In Cleaned Data Table" sap:VirtualizedContainerService.HintSize="547,519" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
       <ui:MultipleAssign.AssignOperations>
         <scg:List x:TypeArguments="ui:AssignOperation" Capacity="16">
           <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
